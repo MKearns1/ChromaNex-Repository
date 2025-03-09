@@ -3875,3 +3875,125 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.09-19.54.52:953][817]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 4.25 sec)
 [2025.03.09-19.54.52:954][817]AssetCheck: New page: Asset Save: PressurePlateSystem_C_UAID_D8BBC10379A0895302_1555205258
 [2025.03.09-19.54.52:954][817]LogContentValidation: Display: Validating /Game/PressurePlateSystem/PressurePlateSystem.PressurePlateSystem_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PressurePlateSystem_C_UAID_D8BBC10379A0895302_1555205258
+[2025.03.09-19.55.16:423][124]Cmd: TRANSACTION UNDO
+[2025.03.09-19.55.16:423][124]LogEditorTransaction: Undo Clicking on Elements
+[2025.03.09-19.55.16:949][134]Cmd: TRANSACTION UNDO
+[2025.03.09-19.55.16:949][134]LogEditorTransaction: Undo Move Elements
+[2025.03.09-19.55.18:002][205]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-19.55.18:074][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.03.09-19.55.18:094][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.03.09-19.55.18:111][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.03.09-19.55.18:115][205]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/CP/1KWG3FFIFPO15KUBJ2VCGO
+[2025.03.09-19.55.18:115][205]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/1KWG3FFIFPO15KUBJ2VCGOEDF90B4D4D984F7F188683814E8D2586.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/CP/1KWG3FFIFPO15KUBJ2VCGO.uasset'
+[2025.03.09-19.55.18:137][205]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 4.38 sec)
+[2025.03.09-19.55.18:139][205]AssetCheck: New page: Asset Save: PressurePlateSystem_C_UAID_D8BBC10379A0895302_1555205258
+[2025.03.09-19.55.18:139][205]LogContentValidation: Display: Validating /Game/PressurePlateSystem/PressurePlateSystem.PressurePlateSystem_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PressurePlateSystem_C_UAID_D8BBC10379A0895302_1555205258
+[2025.03.09-19.55.28:221][ 46]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DoorSystem/Door.Door
+[2025.03.09-19.55.28:221][ 46]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.09-19.55.28:221][ 46]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.09-19.56.02:310][294]BlueprintLog: New page: Compile Door
+[2025.03.09-19.56.02:360][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.03.09-19.56.02:842][317]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-19.56.02:932][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DoorSystem/Door" FILE="../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/DoorSystem/Door.uasset" SILENT=true
+[2025.03.09-19.56.02:944][317]LogSavePackage: Moving output files for package: /Game/DoorSystem/Door
+[2025.03.09-19.56.02:944][317]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Door16A8F49E4F31079A03AE1597C012D84C.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/DoorSystem/Door.uasset'
+[2025.03.09-19.56.02:955][317]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 4.49 sec)
+[2025.03.09-19.56.02:957][317]AssetCheck: New page: Asset Save: Door
+[2025.03.09-19.56.02:957][317]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/DoorSystem/Door.Door
+[2025.03.09-19.56.05:113][470]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.09-19.56.05:120][470]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.09-19.56.05:120][470]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.03.09-19.56.05:122][470]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms (total: 25 ms)
+[2025.03.09-19.56.05:122][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.09-19.56.05:122][470]PIE: New page: PIE session: FirstPersonMap (9 Mar 2025, 19:56:05)
+[2025.03.09-19.56.05:122][470]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.03.09-19.56.05:129][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005659s)
+[2025.03.09-19.56.05:129][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005700s)
+[2025.03.09-19.56.05:142][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.03.09-19.56.05:148][470]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.09-19.56.05:148][470]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.09-19.56.05:148][470]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.03.09-19.56.05:149][470]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.09-19.56.05:149][470]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.09-19.56.05:149][470]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.09-19.56.05:149][470]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.09-19.56.05:150][470]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2025.03.09-19.56.05:150][470]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 979 ms)
+[2025.03.09-19.56.05:150][470]LogPlayLevel: PIE: World Init took: (0.002830s)
+[2025.03.09-19.56.05:150][470]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.03.09-19.56.05:150][470]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.09-19.56.05:150][470]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.09-19.56.05:150][470]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.09-19.56.05:150][470]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.09-19.56.05:150][470]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.09-19.56.05:150][470]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.09-19.56.05:150][470]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.09-19.56.05:150][470]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.09-19.56.05:150][470]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.09-19.56.05:150][470]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.09-19.56.05:150][470]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.09-19.56.05:153][470]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.09-19.56.05:173][470]LogAudioMixer: Display: Using Audio Hardware Device Wave Link Game (Elgato Wave:3)
+[2025.03.09-19.56.05:173][470]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.09-19.56.05:174][470]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.09-19.56.05:174][470]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.09-19.56.05:174][470]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.03.09-19.56.05:174][470]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.03.09-19.56.05:177][470]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.03.09-19.56.05:177][470]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.03.09-19.56.05:177][470]LogInit: FAudioDevice initialized with ID 13.
+[2025.03.09-19.56.05:177][470]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstPersonMap'.
+[2025.03.09-19.56.05:177][470]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.03.09-19.56.05:180][470]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.09-19.56.05:182][470]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.03.09-19.56.05
+[2025.03.09-19.56.05:182][470]LogWorld: Bringing up level for play took: 0.002271
+[2025.03.09-19.56.05:184][470]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.03.09-19.56.05:187][470]PIE: Server logged in
+[2025.03.09-19.56.05:188][470]PIE: Play in editor total start time 0.068 seconds.
+[2025.03.09-19.56.10:772][861]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.11:281][896]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.15:090][174]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.15:600][209]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.16:445][269]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.16:445][269]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.16:915][303]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.17:380][336]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.26:335][ 14]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.28:315][157]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.28:813][192]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.29:514][242]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.29:514][242]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.31:620][395]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.32:128][430]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.35:039][635]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.35:540][668]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.38:378][865]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.38:891][899]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.41:087][ 47]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.41:580][ 80]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.43:535][216]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.44:043][249]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.46:600][433]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.46:896][453]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-394.39 Y=418.89 Z=0.00 Location: X=837.15 Y=3072.93 Z=539.53 Normal: X=-0.00 Y=-0.53 Z=-0.85 PenetrationDepth:0.006 Actor:Door_C_UAID_D8BBC10379A0895302_1231498255 Component:Upper_door BoneName:None (0 other events since notify)
+[2025.03.09-19.56.47:105][467]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-19.56.47:777][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.09-19.56.47:777][511]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.03.09-19.56.47:777][511]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-19.56.47:778][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-19.56.47:778][511]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.03.09-19.56.47:783][511]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.09-19.56.47:791][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-19.56.47:808][511]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.09-19.56.47:808][511]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.03.09-19.56.47:808][511]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.03.09-19.56.47:811][511]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.03.09-19.56.47:815][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.09-19.56.47:818][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.03.09-19.56.47:900][512]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.03.09-19.56.55:250][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.03.09-19.56.55:256][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-19.56.55:318][984]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/CP/1KWG3FFIFPO15KUBJ2VCGO
+[2025.03.09-19.56.55:318][984]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/1KWG3FFIFPO15KUBJ2VCGO7BCC64224BF39D5609D605B9F7EEB409.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/CP/1KWG3FFIFPO15KUBJ2VCGO.uasset'
+[2025.03.09-19.56.55:329][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 4.57 sec)
+[2025.03.09-19.56.55:331][984]AssetCheck: New page: Asset Save: PressurePlateSystem_C_UAID_D8BBC10379A0895302_1555205258
+[2025.03.09-19.56.55:331][984]LogContentValidation: Display: Validating /Game/PressurePlateSystem/PressurePlateSystem.PressurePlateSystem_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PressurePlateSystem_C_UAID_D8BBC10379A0895302_1555205258
