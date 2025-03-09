@@ -3916,3 +3916,1265 @@ Make sure 'Door_C' has been compiled for  Open Doors
 [2025.03.09-17.01.30:734][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
 [2025.03.09-17.01.30:751][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
 [2025.03.09-17.01.30:765][932]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 3.84 sec)
+[2025.03.09-17.03.17:695][589]BlueprintLog: New page: Compile PressurePlateSystem
+[2025.03.09-17.03.17:734][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.03.09-17.03.18:226][612]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-17.03.18:325][612]LogSavePackage: Moving output files for package: /Game/PressurePlateSystem/PressurePlateSystem
+[2025.03.09-17.03.18:326][612]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/PressurePlateSystem81BFAC3E4290AA4E9A3E1A88B67EBF85.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/PressurePlateSystem/PressurePlateSystem.uasset'
+[2025.03.09-17.03.18:338][612]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 3.96 sec)
+[2025.03.09-17.03.18:340][612]AssetCheck: New page: Asset Save: PressurePlateSystem
+[2025.03.09-17.03.18:340][612]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PressurePlateSystem/PressurePlateSystem.PressurePlateSystem
+[2025.03.09-17.03.21:632][819]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.09-17.03.21:639][819]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.09-17.03.21:639][819]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.03.09-17.03.21:641][819]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 80 ms)
+[2025.03.09-17.03.21:641][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.09-17.03.21:641][819]PIE: New page: PIE session: FirstPersonMap (9 Mar 2025, 17:03:21)
+[2025.03.09-17.03.21:641][819]LogPlayLevel: Display: Creating online subsystem for client :Context_43
+[2025.03.09-17.03.21:644][819]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2025.03.09-17.03.21:673][820]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.03.09-17.03.21:679][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006234s)
+[2025.03.09-17.03.21:679][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006287s)
+[2025.03.09-17.03.21:696][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.03.09-17.03.21:700][820]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.09-17.03.21:701][820]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.09-17.03.21:701][820]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.03.09-17.03.21:701][820]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.09-17.03.21:701][820]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.09-17.03.21:701][820]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.09-17.03.21:701][820]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.09-17.03.21:703][820]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2025.03.09-17.03.21:703][820]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 138 ms)
+[2025.03.09-17.03.21:703][820]LogPlayLevel: PIE: World Init took: (0.003097s)
+[2025.03.09-17.03.21:703][820]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2025.03.09-17.03.21:703][820]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.09-17.03.21:703][820]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.09-17.03.21:703][820]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.09-17.03.21:703][820]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.09-17.03.21:703][820]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.09-17.03.21:703][820]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.09-17.03.21:703][820]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.09-17.03.21:703][820]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.09-17.03.21:704][820]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.09-17.03.21:704][820]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.09-17.03.21:704][820]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.09-17.03.21:707][820]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.09-17.03.21:728][820]LogAudioMixer: Display: Using Audio Hardware Device Wave Link Game (Elgato Wave:3)
+[2025.03.09-17.03.21:728][820]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.09-17.03.21:728][820]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.09-17.03.21:728][820]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.09-17.03.21:729][820]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2025.03.09-17.03.21:729][820]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2025.03.09-17.03.21:732][820]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2025.03.09-17.03.21:732][820]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2025.03.09-17.03.21:732][820]LogInit: FAudioDevice initialized with ID 33.
+[2025.03.09-17.03.21:732][820]LogAudio: Display: Audio Device (ID: 33) registered with world 'FirstPersonMap'.
+[2025.03.09-17.03.21:732][820]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2025.03.09-17.03.21:735][820]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.09-17.03.21:738][820]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.03.09-17.03.21
+[2025.03.09-17.03.21:738][820]LogWorld: Bringing up level for play took: 0.002822
+[2025.03.09-17.03.21:740][820]PIE: Server logged in
+[2025.03.09-17.03.21:741][820]PIE: Play in editor total start time 0.103 seconds.
+[2025.03.09-17.03.25:477][ 86]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.03.25:986][123]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.03.27:856][259]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.03.28:366][296]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.03.30:566][459]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.03.31:074][496]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.03.34:863][777]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.03.35:373][815]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.03.39:223][ 98]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.03.39:718][134]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.03.43:303][398]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.03.43:815][435]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.03.46:801][655]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.03.47:314][692]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.03.49:592][860]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.03.50:103][897]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.03.50:579][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.09-17.03.50:579][930]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.03.09-17.03.50:579][930]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-17.03.50:580][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-17.03.50:580][930]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.03.09-17.03.50:599][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.09-17.03.50:605][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-17.03.50:622][930]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.09-17.03.50:622][930]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2025.03.09-17.03.50:622][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2025.03.09-17.03.50:624][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2025.03.09-17.03.50:630][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.09-17.03.50:633][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.03.09-17.03.50:782][931]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2025.03.09-17.03.54:975][186]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-17.03.55:040][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.03.09-17.03.55:061][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.03.09-17.03.55:079][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.03.09-17.03.55:093][186]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 4.07 sec)
+[2025.03.09-17.04.07:839][459]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.09-17.04.07:846][459]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.09-17.04.07:846][459]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.03.09-17.04.07:848][459]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 83 ms)
+[2025.03.09-17.04.07:848][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.09-17.04.07:848][459]PIE: New page: PIE session: FirstPersonMap (9 Mar 2025, 17:04:07)
+[2025.03.09-17.04.07:848][459]LogPlayLevel: Display: Creating online subsystem for client :Context_44
+[2025.03.09-17.04.07:851][459]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2025.03.09-17.04.07:881][460]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.03.09-17.04.07:889][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006787s)
+[2025.03.09-17.04.07:889][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006845s)
+[2025.03.09-17.04.07:904][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.03.09-17.04.07:906][460]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.09-17.04.07:906][460]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.09-17.04.07:906][460]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.03.09-17.04.07:908][460]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.09-17.04.07:908][460]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.09-17.04.07:908][460]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.09-17.04.07:908][460]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.09-17.04.07:910][460]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2025.03.09-17.04.07:910][460]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 139 ms)
+[2025.03.09-17.04.07:910][460]LogPlayLevel: PIE: World Init took: (0.003185s)
+[2025.03.09-17.04.07:910][460]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2025.03.09-17.04.07:910][460]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.09-17.04.07:910][460]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.09-17.04.07:910][460]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.09-17.04.07:910][460]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.09-17.04.07:910][460]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.09-17.04.07:910][460]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.09-17.04.07:910][460]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.09-17.04.07:910][460]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.09-17.04.07:911][460]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.09-17.04.07:911][460]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.09-17.04.07:911][460]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.09-17.04.07:914][460]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.09-17.04.07:936][460]LogAudioMixer: Display: Using Audio Hardware Device Wave Link Game (Elgato Wave:3)
+[2025.03.09-17.04.07:938][460]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.09-17.04.07:938][460]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.09-17.04.07:938][460]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.09-17.04.07:939][460]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2025.03.09-17.04.07:939][460]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2025.03.09-17.04.07:941][460]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2025.03.09-17.04.07:942][460]LogInit: FAudioDevice initialized with ID 34.
+[2025.03.09-17.04.07:942][460]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2025.03.09-17.04.07:942][460]LogAudio: Display: Audio Device (ID: 34) registered with world 'FirstPersonMap'.
+[2025.03.09-17.04.07:942][460]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2025.03.09-17.04.07:945][460]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.09-17.04.07:948][460]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.03.09-17.04.07
+[2025.03.09-17.04.07:948][460]LogWorld: Bringing up level for play took: 0.002943
+[2025.03.09-17.04.07:951][460]PIE: Server logged in
+[2025.03.09-17.04.07:952][460]PIE: Play in editor total start time 0.107 seconds.
+[2025.03.09-17.04.13:009][766]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.04.13:519][798]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.04.23:000][375]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.04.23:165][384]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.04.23:512][404]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.04.27:490][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.09-17.04.27:490][664]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.03.09-17.04.27:490][664]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-17.04.27:490][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-17.04.27:490][664]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.03.09-17.04.27:511][664]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.09-17.04.27:517][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-17.04.27:536][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.09-17.04.27:536][664]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2025.03.09-17.04.27:536][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2025.03.09-17.04.27:538][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2025.03.09-17.04.27:546][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.03.09-17.04.27:696][665]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2025.03.09-17.06.35:427][427]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3603.673340
+[2025.03.09-17.06.36:426][430]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.09-17.06.36:426][430]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3604.340332, Update Interval: 303.704346
+[2025.03.09-17.08.28:281][765]LogDerivedDataCache: C:/Users/Sneek/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.093 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1646 files in 2542 folders with total size 112 MiB.
+[2025.03.09-17.12.13:457][502]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3941.702637
+[2025.03.09-17.12.14:457][505]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.09-17.12.14:457][505]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3942.368164, Update Interval: 305.799133
+[2025.03.09-17.15.19:996][354]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.09-17.15.20:027][354]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.09-17.15.20:049][355]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.09-17.15.22:626][502]LogContentBrowser: Attempting asset rename: NewFolder -> ColorPillar
+[2025.03.09-17.15.22:627][502]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.09-17.18.15:894][222]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4304.141113
+[2025.03.09-17.18.16:895][225]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.09-17.18.16:895][225]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4304.809570, Update Interval: 314.339417
+[2025.03.09-17.24.09:426][560]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4657.679688
+[2025.03.09-17.24.10:428][563]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.09-17.24.10:428][563]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4658.346191, Update Interval: 335.279999
+[2025.03.09-17.28.05:751][592]LogContentBrowser: Deferred new asset file creation: Ligh1
+[2025.03.09-17.28.05:767][592]LogContentBrowser: Creating deferred item: Ligh1
+[2025.03.09-17.28.05:791][593]LogContentBrowser: Renaming the item being created (Deferred Item: Ligh1).
+[2025.03.09-17.28.10:846][885]LogContentBrowser: Attempting asset rename: Ligh1 -> RedLight
+[2025.03.09-17.28.10:855][885]LogContentBrowser: End creating deferred item Ligh1
+[2025.03.09-17.28.10:861][885]LogShaderCompilers: Display: ================================================
+[2025.03.09-17.28.10:861][885]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.09-17.28.10:861][885]LogShaderCompilers: Display: Total job queries 150, among them cache hits 55 (36.67%)
+[2025.03.09-17.28.10:861][885]LogShaderCompilers: Display: Tracking 95 distinct input hashes that result in 68 distinct outputs (71.58%)
+[2025.03.09-17.28.10:861][885]LogShaderCompilers: Display: RAM used: 1.95 MiB of 1.60 GiB budget. Usage: 0.12%
+[2025.03.09-17.28.10:861][885]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.09-17.28.10:861][885]LogShaderCompilers: Display: Shaders Compiled: 18
+[2025.03.09-17.28.10:861][885]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100%)
+[2025.03.09-17.28.10:861][885]LogShaderCompilers: Display: Average time worker was idle: 687.66 s
+[2025.03.09-17.28.10:861][885]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2025.03.09-17.28.10:861][885]LogShaderCompilers: Display: Job execution time: average 0.58 s, max 0.75 s
+[2025.03.09-17.28.10:861][885]LogShaderCompilers: Display: Job life time (pending + execution): average 0.64 s, max 0.82
+[2025.03.09-17.28.10:861][885]LogShaderCompilers: Display: Shader code size: average 32.538 KiB, min 4.477 KiB, max 36.008 KiB
+[2025.03.09-17.28.10:861][885]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.11 s
+[2025.03.09-17.28.10:861][885]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.09-17.28.10:861][885]LogShaderCompilers: Display: Average processing rate: 8.55 jobs/sec
+[2025.03.09-17.28.10:861][885]LogShaderCompilers: Display: Total thread time: 5.327 s
+[2025.03.09-17.28.10:861][885]LogShaderCompilers: Display: Total thread preprocess time: 0.579 s
+[2025.03.09-17.28.10:861][885]LogShaderCompilers: Display: Percentage time preprocessing: 10.87%
+[2025.03.09-17.28.10:861][885]LogShaderCompilers: Display: Effective parallelization: 2.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.09-17.28.10:862][885]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.09-17.28.10:862][885]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.35 sec, max 0.39 sec, min 0.28 sec)
+[2025.03.09-17.28.10:862][885]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.33 sec, max 0.35 sec, min 0.28 sec)
+[2025.03.09-17.28.10:862][885]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 0.32 sec, max 0.36 sec, min 0.29 sec)
+[2025.03.09-17.28.10:862][885]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2025.03.09-17.28.10:862][885]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    3 times, average 0.18 sec, max 0.21 sec, min 0.16 sec)
+[2025.03.09-17.28.10:862][885]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.09-17.28.10:862][885]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.51% of total time (compiled    5 times, average 0.35 sec, max 0.39 sec, min 0.28 sec)
+[2025.03.09-17.28.10:862][885]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 30.48% of total time (compiled    5 times, average 0.32 sec, max 0.36 sec, min 0.29 sec)
+[2025.03.09-17.28.10:862][885]LogShaderCompilers: Display:                                                 FLumenCardVS - 18.35% of total time (compiled    3 times, average 0.33 sec, max 0.35 sec, min 0.28 sec)
+[2025.03.09-17.28.10:862][885]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.37% of total time (compiled    3 times, average 0.18 sec, max 0.21 sec, min 0.16 sec)
+[2025.03.09-17.28.10:862][885]LogShaderCompilers: Display:                                                  FHitProxyVS - 5.68% of total time (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2025.03.09-17.28.10:862][885]LogShaderCompilers: Display: ================================================
+[2025.03.09-17.28.17:610][203]LogContentBrowser: Attempting asset rename: Ligh -> BlueLight
+[2025.03.09-17.28.17:658][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-17.28.17:716][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DoorSystem/Door_arch" FILE="../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/DoorSystem/Door_arch.uasset" SILENT=true
+[2025.03.09-17.28.17:742][203]LogSavePackage: Moving output files for package: /Game/DoorSystem/Door_arch
+[2025.03.09-17.28.17:742][203]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Door_arch2FDF4F3B4B8A6182EB2A89BAE1BDD472.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/DoorSystem/Door_arch.uasset'
+[2025.03.09-17.28.17:754][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DoorSystem/BlueLight" FILE="../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/DoorSystem/BlueLight.uasset" SILENT=true
+[2025.03.09-17.28.17:757][203]LogSavePackage: Moving output files for package: /Game/DoorSystem/BlueLight
+[2025.03.09-17.28.17:757][203]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/BlueLight37B3D64D43DB8BB445E2F491EF8F1795.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/DoorSystem/BlueLight.uasset'
+[2025.03.09-17.28.17:771][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 4.19 sec)
+[2025.03.09-17.28.17:797][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.03.09-17.28.17:818][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.03.09-17.28.17:836][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.03.09-17.28.17:840][203]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.09-17.28.17:840][203]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/DoorSystem/Door_arch.Door_arch
+[2025.03.09-17.28.17:840][203]LogContentValidation: Display: Validating /Script/Engine.Material /Game/DoorSystem/BlueLight.BlueLight
+[2025.03.09-17.28.21:057][362]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/DoorSystem/RedLight.RedLight
+[2025.03.09-17.28.21:066][362]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.09-17.28.21:066][362]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.09-17.28.21:235][362]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.09-17.28.21:235][362]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.21:235][362]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.21:235][362]MaterialEditorStats: Shader Count: 0
+[2025.03.09-17.28.21:249][362]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2025.03.09-17.28.21:392][364]MaterialEditorStats: Base pass shader: 233 instructions
+[2025.03.09-17.28.21:392][364]MaterialEditorStats: Base pass vertex shader: 149 instructions
+[2025.03.09-17.28.21:392][364]MaterialEditorStats: Texture samplers: 3/16
+[2025.03.09-17.28.21:392][364]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.21:392][364]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.21:392][364]MaterialEditorStats: Shader Count: 8
+[2025.03.09-17.28.26:326][614]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.09-17.28.26:326][614]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.26:326][614]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.26:326][614]MaterialEditorStats: Shader Count: 0
+[2025.03.09-17.28.26:367][616]MaterialEditorStats: Base pass shader: 233 instructions
+[2025.03.09-17.28.26:367][616]MaterialEditorStats: Base pass vertex shader: 149 instructions
+[2025.03.09-17.28.26:367][616]MaterialEditorStats: Texture samplers: 3/16
+[2025.03.09-17.28.26:367][616]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.26:367][616]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.26:367][616]MaterialEditorStats: Shader Count: 8
+[2025.03.09-17.28.29:094][758]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.09-17.28.29:094][758]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.29:094][758]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.29:095][758]MaterialEditorStats: Shader Count: 0
+[2025.03.09-17.28.29:145][760]MaterialEditorStats: Base pass shader: 233 instructions
+[2025.03.09-17.28.29:145][760]MaterialEditorStats: Base pass vertex shader: 149 instructions
+[2025.03.09-17.28.29:145][760]MaterialEditorStats: Texture samplers: 3/16
+[2025.03.09-17.28.29:145][760]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.29:145][760]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.29:145][760]MaterialEditorStats: Shader Count: 8
+[2025.03.09-17.28.31:847][901]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.09-17.28.31:848][901]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.31:848][901]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.31:848][901]MaterialEditorStats: Shader Count: 0
+[2025.03.09-17.28.31:889][903]MaterialEditorStats: Base pass shader: 233 instructions
+[2025.03.09-17.28.31:889][903]MaterialEditorStats: Base pass vertex shader: 149 instructions
+[2025.03.09-17.28.31:889][903]MaterialEditorStats: Texture samplers: 3/16
+[2025.03.09-17.28.31:889][903]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.31:889][903]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.31:889][903]MaterialEditorStats: Shader Count: 8
+[2025.03.09-17.28.33:377][976]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.09-17.28.33:377][976]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.33:377][976]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.33:377][976]MaterialEditorStats: Shader Count: 0
+[2025.03.09-17.28.33:423][978]MaterialEditorStats: Base pass shader: 233 instructions
+[2025.03.09-17.28.33:423][978]MaterialEditorStats: Base pass vertex shader: 149 instructions
+[2025.03.09-17.28.33:423][978]MaterialEditorStats: Texture samplers: 3/16
+[2025.03.09-17.28.33:423][978]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.33:423][978]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.33:423][978]MaterialEditorStats: Shader Count: 8
+[2025.03.09-17.28.35:209][ 70]Cmd: TRANSACTION UNDO
+[2025.03.09-17.28.35:209][ 70]LogEditorTransaction: Undo Modify Color Picker Value
+[2025.03.09-17.28.35:233][ 70]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.09-17.28.35:637][ 70]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.09-17.28.35:637][ 70]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.35:637][ 70]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.35:637][ 70]MaterialEditorStats: Shader Count: 0
+[2025.03.09-17.28.35:865][ 73]MaterialEditorStats: Base pass shader: 233 instructions
+[2025.03.09-17.28.35:865][ 73]MaterialEditorStats: Base pass vertex shader: 149 instructions
+[2025.03.09-17.28.35:865][ 73]MaterialEditorStats: Texture samplers: 3/16
+[2025.03.09-17.28.35:865][ 73]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.35:865][ 73]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.35:865][ 73]MaterialEditorStats: Shader Count: 8
+[2025.03.09-17.28.36:729][116]Cmd: TRANSACTION UNDO
+[2025.03.09-17.28.36:729][116]LogEditorTransaction: Undo Modify Color Picker Value
+[2025.03.09-17.28.37:095][116]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.09-17.28.37:095][116]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.37:095][116]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.37:095][116]MaterialEditorStats: Shader Count: 0
+[2025.03.09-17.28.37:235][119]MaterialEditorStats: Base pass shader: 233 instructions
+[2025.03.09-17.28.37:236][119]MaterialEditorStats: Base pass vertex shader: 149 instructions
+[2025.03.09-17.28.37:236][119]MaterialEditorStats: Texture samplers: 3/16
+[2025.03.09-17.28.37:236][119]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.37:236][119]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.37:236][119]MaterialEditorStats: Shader Count: 8
+[2025.03.09-17.28.38:171][165]Cmd: TRANSACTION UNDO
+[2025.03.09-17.28.38:171][165]LogEditorTransaction: Undo Modify Color Picker Value
+[2025.03.09-17.28.38:538][165]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.09-17.28.38:538][165]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.38:538][165]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.38:538][165]MaterialEditorStats: Shader Count: 0
+[2025.03.09-17.28.38:683][168]MaterialEditorStats: Base pass shader: 233 instructions
+[2025.03.09-17.28.38:683][168]MaterialEditorStats: Base pass vertex shader: 149 instructions
+[2025.03.09-17.28.38:683][168]MaterialEditorStats: Texture samplers: 3/16
+[2025.03.09-17.28.38:683][168]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.38:683][168]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.38:683][168]MaterialEditorStats: Shader Count: 8
+[2025.03.09-17.28.39:504][208]Cmd: TRANSACTION UNDO
+[2025.03.09-17.28.39:504][208]LogEditorTransaction: Undo Modify Color Picker Value
+[2025.03.09-17.28.39:881][208]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.09-17.28.39:881][208]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.39:881][208]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.39:881][208]MaterialEditorStats: Shader Count: 0
+[2025.03.09-17.28.40:093][211]MaterialEditorStats: Base pass shader: 233 instructions
+[2025.03.09-17.28.40:093][211]MaterialEditorStats: Base pass vertex shader: 149 instructions
+[2025.03.09-17.28.40:093][211]MaterialEditorStats: Texture samplers: 3/16
+[2025.03.09-17.28.40:093][211]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.40:093][211]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.40:093][211]MaterialEditorStats: Shader Count: 8
+[2025.03.09-17.28.45:088][461]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.09-17.28.45:088][461]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.45:088][461]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.45:088][461]MaterialEditorStats: Shader Count: 0
+[2025.03.09-17.28.45:131][463]MaterialEditorStats: Base pass shader: 233 instructions
+[2025.03.09-17.28.45:131][463]MaterialEditorStats: Base pass vertex shader: 149 instructions
+[2025.03.09-17.28.45:131][463]MaterialEditorStats: Texture samplers: 3/16
+[2025.03.09-17.28.45:131][463]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.45:131][463]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.45:131][463]MaterialEditorStats: Shader Count: 8
+[2025.03.09-17.28.47:391][576]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.09-17.28.47:391][576]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.47:391][576]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.47:391][576]MaterialEditorStats: Shader Count: 0
+[2025.03.09-17.28.47:433][578]MaterialEditorStats: Base pass shader: 233 instructions
+[2025.03.09-17.28.47:433][578]MaterialEditorStats: Base pass vertex shader: 149 instructions
+[2025.03.09-17.28.47:433][578]MaterialEditorStats: Texture samplers: 3/16
+[2025.03.09-17.28.47:433][578]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.47:433][578]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.47:433][578]MaterialEditorStats: Shader Count: 8
+[2025.03.09-17.28.52:779][863]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.09-17.28.52:779][863]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.52:779][863]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.52:779][863]MaterialEditorStats: Shader Count: 0
+[2025.03.09-17.28.52:823][865]MaterialEditorStats: Base pass shader: 233 instructions
+[2025.03.09-17.28.52:823][865]MaterialEditorStats: Base pass vertex shader: 149 instructions
+[2025.03.09-17.28.52:823][865]MaterialEditorStats: Texture samplers: 3/16
+[2025.03.09-17.28.52:823][865]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.52:823][865]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.52:823][865]MaterialEditorStats: Shader Count: 8
+[2025.03.09-17.28.54:155][933]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.09-17.28.54:164][933]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.09-17.28.54:164][933]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.54:164][933]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.54:164][933]MaterialEditorStats: Shader Count: 0
+[2025.03.09-17.28.54:202][935]MaterialEditorStats: Base pass shader: 233 instructions
+[2025.03.09-17.28.54:202][935]MaterialEditorStats: Base pass vertex shader: 149 instructions
+[2025.03.09-17.28.54:202][935]MaterialEditorStats: Texture samplers: 3/16
+[2025.03.09-17.28.54:202][935]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.28.54:202][935]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.28.54:202][935]MaterialEditorStats: Shader Count: 8
+[2025.03.09-17.28.58:856][191]LogMaterialEditor: Applying material RedLight
+[2025.03.09-17.28.58:977][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.03.09-17.29.00:045][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.03.09-17.29.00:058][191]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.09-17.29.00:058][191]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.29.00:058][191]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.29.00:058][191]MaterialEditorStats: Shader Count: 2
+[2025.03.09-17.29.00:079][192]MaterialEditorStats: Base pass shader: 233 instructions
+[2025.03.09-17.29.00:079][192]MaterialEditorStats: Base pass vertex shader: 149 instructions
+[2025.03.09-17.29.00:079][192]MaterialEditorStats: Texture samplers: 3/16
+[2025.03.09-17.29.00:079][192]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.29.00:079][192]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.29.00:079][192]MaterialEditorStats: Shader Count: 4
+[2025.03.09-17.29.00:810][229]LogMaterialEditor: Saving and Compiling material RedLight
+[2025.03.09-17.29.00:813][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-17.29.01:561][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DoorSystem/RedLight" FILE="../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/DoorSystem/RedLight.uasset" SILENT=true
+[2025.03.09-17.29.01:566][229]LogSavePackage: Moving output files for package: /Game/DoorSystem/RedLight
+[2025.03.09-17.29.01:566][229]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/RedLight83F975584915C73086EE0B8C658CE19E.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/DoorSystem/RedLight.uasset'
+[2025.03.09-17.29.01:581][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 767 ms (total: 4.95 sec)
+[2025.03.09-17.29.01:582][229]AssetCheck: New page: Asset Save: RedLight
+[2025.03.09-17.29.01:582][229]LogContentValidation: Display: Validating /Script/Engine.Material /Game/DoorSystem/RedLight.RedLight
+[2025.03.09-17.29.01:583][229]MaterialEditorStats: Base pass shader: 233 instructions
+[2025.03.09-17.29.01:583][229]MaterialEditorStats: Base pass vertex shader: 149 instructions
+[2025.03.09-17.29.01:583][229]MaterialEditorStats: MaxSampler: 297 instructions
+[2025.03.09-17.29.01:583][229]MaterialEditorStats: Texture samplers: 4/16
+[2025.03.09-17.29.01:583][229]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.03.09-17.29.01:583][229]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2025.03.09-17.29.01:583][229]MaterialEditorStats: Shader Count: 20
+[2025.03.09-17.30.34:959][801]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5043.219238
+[2025.03.09-17.30.35:117][811]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.09-17.30.35:117][811]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5043.361328, Update Interval: 351.507324
+[2025.03.09-17.31.15:333][296]LogShaderCompilers: Display: ================================================
+[2025.03.09-17.31.15:333][296]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.09-17.31.15:333][296]LogShaderCompilers: Display: Total job queries 415, among them cache hits 255 (61.45%)
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display: Tracking 156 distinct input hashes that result in 102 distinct outputs (65.38%)
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display: RAM used: 3.35 MiB of 1.60 GiB budget. Usage: 0.20%
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display: Shaders Compiled: 79
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display: Jobs assigned 81, completed 79 (97.53%)
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display: Average time worker was idle: 400.18 s
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.45 s
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display: Job execution time: average 0.47 s, max 0.76 s
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display: Job life time (pending + execution): average 0.53 s, max 0.86
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display: Shader code size: average 36.913 KiB, min 4.477 KiB, max 71.035 KiB
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.09 s
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display: Jobs were issued in 81 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display: Average processing rate: 7.83 jobs/sec
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display: Total thread time: 24.011 s
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display: Total thread preprocess time: 2.486 s
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display: Percentage time preprocessing: 10.35%
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display: Effective parallelization: 2.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.32% of total time (compiled   18 times, average 0.32 sec, max 0.40 sec, min 0.28 sec)
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.05% of total time (compiled   17 times, average 0.33 sec, max 0.51 sec, min 0.25 sec)
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.82% of total time (compiled   11 times, average 0.30 sec, max 0.36 sec, min 0.27 sec)
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.31% of total time (compiled   12 times, average 0.17 sec, max 0.26 sec, min 0.13 sec)
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display:                                                  FHitProxyVS - 2.49% of total time (compiled    2 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2025.03.09-17.31.15:334][296]LogShaderCompilers: Display: ================================================
+[2025.03.09-17.31.28:480][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-17.31.28:581][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DoorSystem/Door" FILE="../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/DoorSystem/Door.uasset" SILENT=true
+[2025.03.09-17.31.28:592][ 51]LogSavePackage: Moving output files for package: /Game/DoorSystem/Door
+[2025.03.09-17.31.28:593][ 51]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Door1992E6384BA3F857EAE93E9268B5593B.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/DoorSystem/Door.uasset'
+[2025.03.09-17.31.28:605][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 5.08 sec)
+[2025.03.09-17.31.28:608][ 51]AssetCheck: New page: Asset Save: Door
+[2025.03.09-17.31.28:608][ 51]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/DoorSystem/Door.Door
+[2025.03.09-17.31.32:971][317]BlueprintLog: New page: Compile Door
+[2025.03.09-17.31.33:014][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.03.09-17.31.33:422][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-17.31.33:520][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DoorSystem/Door" FILE="../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/DoorSystem/Door.uasset" SILENT=true
+[2025.03.09-17.31.33:532][328]LogSavePackage: Moving output files for package: /Game/DoorSystem/Door
+[2025.03.09-17.31.33:533][328]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Door9E6EE65F44A6DB10675E42834E62E19F.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/DoorSystem/Door.uasset'
+[2025.03.09-17.31.33:548][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 5.21 sec)
+[2025.03.09-17.31.33:551][328]AssetCheck: New page: Asset Save: Door
+[2025.03.09-17.31.33:551][328]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/DoorSystem/Door.Door
+[2025.03.09-17.31.34:642][390]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.09-17.31.34:648][390]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.09-17.31.34:649][390]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.03.09-17.31.34:651][390]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 85 ms)
+[2025.03.09-17.31.34:651][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.09-17.31.34:651][390]PIE: New page: PIE session: FirstPersonMap (9 Mar 2025, 17:31:34)
+[2025.03.09-17.31.34:679][390]LogPlayLevel: Display: Creating online subsystem for client :Context_46
+[2025.03.09-17.31.34:681][390]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2025.03.09-17.31.34:713][391]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.03.09-17.31.34:719][391]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006635s)
+[2025.03.09-17.31.34:719][391]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006688s)
+[2025.03.09-17.31.34:736][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.03.09-17.31.34:741][391]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.09-17.31.34:741][391]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.09-17.31.34:741][391]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.03.09-17.31.34:741][391]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.09-17.31.34:741][391]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.09-17.31.34:741][391]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.09-17.31.34:741][391]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.09-17.31.34:744][391]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2025.03.09-17.31.34:744][391]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 141 ms)
+[2025.03.09-17.31.34:744][391]LogPlayLevel: PIE: World Init took: (0.003273s)
+[2025.03.09-17.31.34:744][391]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2025.03.09-17.31.34:744][391]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.09-17.31.34:744][391]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.09-17.31.34:744][391]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.09-17.31.34:744][391]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.09-17.31.34:744][391]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.09-17.31.34:744][391]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.09-17.31.34:744][391]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.09-17.31.34:744][391]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.09-17.31.34:744][391]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.09-17.31.34:744][391]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.09-17.31.34:744][391]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.09-17.31.34:747][391]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.09-17.31.34:768][391]LogAudioMixer: Display: Using Audio Hardware Device Wave Link Game (Elgato Wave:3)
+[2025.03.09-17.31.34:768][391]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.09-17.31.34:768][391]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.09-17.31.34:768][391]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.09-17.31.34:770][391]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2025.03.09-17.31.34:770][391]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2025.03.09-17.31.34:772][391]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2025.03.09-17.31.34:772][391]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2025.03.09-17.31.34:772][391]LogInit: FAudioDevice initialized with ID 35.
+[2025.03.09-17.31.34:772][391]LogAudio: Display: Audio Device (ID: 35) registered with world 'FirstPersonMap'.
+[2025.03.09-17.31.34:772][391]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2025.03.09-17.31.34:774][391]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.09-17.31.34:778][391]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.03.09-17.31.34
+[2025.03.09-17.31.34:779][391]LogWorld: Bringing up level for play took: 0.003177
+[2025.03.09-17.31.34:781][391]PIE: Server logged in
+[2025.03.09-17.31.34:782][391]PIE: Play in editor total start time 0.133 seconds.
+[2025.03.09-17.31.39:661][722]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.31.40:170][758]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.31.44:067][ 25]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.31.44:559][ 57]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.09-17.31.46:169][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.09-17.31.46:169][167]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.03.09-17.31.46:169][167]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-17.31.46:170][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-17.31.46:170][167]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.03.09-17.31.46:187][167]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.09-17.31.46:195][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-17.31.46:213][167]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.09-17.31.46:213][167]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2025.03.09-17.31.46:213][167]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2025.03.09-17.31.46:215][167]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2025.03.09-17.31.46:220][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.09-17.31.46:223][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.03.09-17.31.46:330][168]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2025.03.09-17.32.13:194][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-17.32.13:272][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.03.09-17.32.13:292][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.03.09-17.32.13:310][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.03.09-17.32.13:315][518]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/JL/7CBNEM8NSR5DH277WBPM3X
+[2025.03.09-17.32.13:316][518]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/7CBNEM8NSR5DH277WBPM3X973F70734CE0ABC495C6F6ABA6072A6C.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/JL/7CBNEM8NSR5DH277WBPM3X.uasset'
+[2025.03.09-17.32.13:329][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 5.34 sec)
+[2025.03.09-17.32.13:331][518]AssetCheck: New page: Asset Save: Door_C_UAID_D8BBC10379A0895302_1231498255
+[2025.03.09-17.32.13:331][518]LogContentValidation: Display: Validating /Game/DoorSystem/Door.Door_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Door_C_UAID_D8BBC10379A0895302_1231498255
+[2025.03.09-17.32.14:925][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.03.09-17.32.14:932][595]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-17.32.15:014][595]LogSavePackage: Moving output files for package: /Game/PressurePlateSystem/PressurePlateSystem
+[2025.03.09-17.32.15:014][595]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/PressurePlateSystem439CFAE64BFA9B45357105B3C0850E31.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/PressurePlateSystem/PressurePlateSystem.uasset'
+[2025.03.09-17.32.15:028][595]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 5.44 sec)
+[2025.03.09-17.32.15:031][595]AssetCheck: New page: Asset Save: PressurePlateSystem
+[2025.03.09-17.32.15:031][595]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PressurePlateSystem/PressurePlateSystem.PressurePlateSystem
+[2025.03.09-17.33.04:713][679]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2025.03.09-17.33.04:731][679]LogInterchangeEngine: [Pending] Importing
+[2025.03.09-17.33.04:731][679]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Sneek/OneDr...rks/ChromaNex/Assets/ColorPillar.glb]
+[2025.03.09-17.33.04:757][680]LogStaticMesh: Display: Building static mesh Cube_001...
+[2025.03.09-17.33.04:757][680]LogStaticMesh: Display: Building static mesh Cube...
+[2025.03.09-17.33.04:761][680]LogStaticMesh: Built static mesh [0.00s] /Game/ColorPillar/Cube_001.Cube_001
+[2025.03.09-17.33.04:761][680]LogStaticMesh: Built static mesh [0.00s] /Game/ColorPillar/Cube.Cube
+[2025.03.09-17.33.04:762][680]LogStaticMesh: Warning: Cube_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.03.09-17.33.04:762][680]LogStaticMesh: Warning: Cube_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.03.09-17.33.04:762][680]LogStaticMesh: Warning: Cube has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.03.09-17.33.04:762][680]LogStaticMesh: Warning: Cube has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.03.09-17.33.04:793][680]LogInterchangeEngine: [Success] Import Done
+[2025.03.09-17.33.04:797][680]LogInterchangeEngine: [Success] Import Done
+[2025.03.09-17.33.04:902][681]LogInterchangeEngine: [Success] Import Done
+[2025.03.09-17.33.12:398][ 49]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ColorPillar/Cube.Cube
+[2025.03.09-17.33.12:398][ 49]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ColorPillar/Cube.Cube
+[2025.03.09-17.33.12:398][ 49]LogActorFactory: Actor Factory spawned StaticMesh /Game/ColorPillar/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_2
+[2025.03.09-17.33.12:400][ 49]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ColorPillar/Cube_001.Cube_001
+[2025.03.09-17.33.12:400][ 49]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ColorPillar/Cube_001.Cube_001
+[2025.03.09-17.33.12:400][ 49]LogActorFactory: Actor Factory spawned StaticMesh /Game/ColorPillar/Cube_001.Cube_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_7
+[2025.03.09-17.33.13:047][ 75]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ColorPillar/Cube.Cube
+[2025.03.09-17.33.13:047][ 75]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ColorPillar/Cube.Cube
+[2025.03.09-17.33.13:049][ 75]LogActorFactory: Actor Factory spawned StaticMesh /Game/ColorPillar/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D8BBC10379A08D5302_2114559964
+[2025.03.09-17.33.13:079][ 75]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ColorPillar/Cube_001.Cube_001
+[2025.03.09-17.33.13:079][ 75]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ColorPillar/Cube_001.Cube_001
+[2025.03.09-17.33.13:082][ 75]LogActorFactory: Actor Factory spawned StaticMesh /Game/ColorPillar/Cube_001.Cube_001 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D8BBC10379A08D5302_2114591965
+[2025.03.09-17.33.54:529][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.03.09-17.33.54:533][714]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/PX/EN59EMTWOSN2ABGU4DN8MD_Auto3
+[2025.03.09-17.33.54:533][714]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/EN59EMTWOSN2ABGU4DN8MD_Auto35370E4D64CB7B3FB9B217F99F95400DB.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/PX/EN59EMTWOSN2ABGU4DN8MD_Auto3.uasset'
+[2025.03.09-17.33.54:535][714]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/ZP/N6JV48KFLAUCTSD0SPNHCF_Auto3
+[2025.03.09-17.33.54:535][714]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/N6JV48KFLAUCTSD0SPNHCF_Auto3E484E5A24C5B501CA361108688595511.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/ZP/N6JV48KFLAUCTSD0SPNHCF_Auto3.uasset'
+[2025.03.09-17.33.54:537][714]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.027
+[2025.03.09-17.33.54:537][714]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.027
+[2025.03.09-17.33.54:537][714]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ColorPillar/Cube] ([1] browsable assets)...
+[2025.03.09-17.33.54:603][714]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ColorPillar/Cube.Cube]
+[2025.03.09-17.33.54:603][714]OBJ SavePackage: Finished generating thumbnails for package [/Game/ColorPillar/Cube]
+[2025.03.09-17.33.54:606][714]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ColorPillar/Cube_Auto3
+[2025.03.09-17.33.54:607][714]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Cube_Auto38F9B6FC0403527B3310AB3B0EBD0F881.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/ColorPillar/Cube_Auto3.uasset'
+[2025.03.09-17.33.54:607][714]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ColorPillar/Cube_001] ([1] browsable assets)...
+[2025.03.09-17.33.54:617][714]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ColorPillar/Cube_001.Cube_001]
+[2025.03.09-17.33.54:617][714]OBJ SavePackage: Finished generating thumbnails for package [/Game/ColorPillar/Cube_001]
+[2025.03.09-17.33.54:620][714]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ColorPillar/Cube_001_Auto3
+[2025.03.09-17.33.54:620][714]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Cube_001_Auto34C4446F946E628450526D392223DC22E.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/ColorPillar/Cube_001_Auto3.uasset'
+[2025.03.09-17.33.54:621][714]LogFileHelpers: Auto-saving content packages took 0.084
+[2025.03.09-17.35.40:766][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.09-17.35.41:918][344]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.09-17.35.41:959][344]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ColorPillar/Cube_001.Cube_001
+	Asset Type: StaticMesh
+[2025.03.09-17.35.42:294][344]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_43 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.PackageMetaData in its package
+[2025.03.09-17.35.42:294][344]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_44 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.PackageMetaData in its package
+[2025.03.09-17.35.42:298][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.03.09-17.35.42:318][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.03.09-17.35.42:337][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.03.09-17.35.42:367][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.03.09-17.35.42:992][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.03.09-17.35.43:978][367]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.09-17.35.44:018][367]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ColorPillar/Cube.Cube
+	Asset Type: StaticMesh
+[2025.03.09-17.35.44:330][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.03.09-17.35.44:351][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.03.09-17.35.44:368][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.03.09-17.35.49:908][433]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2025.03.09-17.35.49:930][433]LogInterchangeEngine: [Pending] Importing
+[2025.03.09-17.35.49:930][433]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Sneek/OneDr...rks/ChromaNex/Assets/ColorPillar.glb]
+[2025.03.09-17.35.49:958][434]LogStaticMesh: Display: Building static mesh Cube_001...
+[2025.03.09-17.35.49:958][434]LogStaticMesh: Display: Building static mesh Cube...
+[2025.03.09-17.35.49:962][434]LogStaticMesh: Built static mesh [0.00s] /Game/ColorPillar/Cube_001.Cube_001
+[2025.03.09-17.35.49:963][434]LogStaticMesh: Warning: Cube_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.03.09-17.35.49:967][434]LogStaticMesh: Built static mesh [0.01s] /Game/ColorPillar/Cube.Cube
+[2025.03.09-17.35.49:992][434]LogInterchangeEngine: [Success] Import Done
+[2025.03.09-17.35.49:997][434]LogInterchangeEngine: [Success] Import Done
+[2025.03.09-17.35.50:121][435]LogInterchangeEngine: [Success] Import Done
+[2025.03.09-17.35.56:584][687]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2025.03.09-17.35.58:387][708]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.09-17.35.58:402][708]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.03.09-17.35.58:418][708]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.03.09-17.35.58:442][709]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.03.09-17.36.00:678][825]LogContentBrowser: Attempting asset rename: NewBlueprint -> ColorPillar
+[2025.03.09-17.36.00:685][825]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.03.09-17.36.02:437][907]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ColorPillar/ColorPillar.ColorPillar
+[2025.03.09-17.36.02:437][907]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.09-17.36.02:437][907]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.09-17.36.02:601][907]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2025.03.09-17.36.06:170][ 75]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.09-17.36.56:172][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.03.09-17.36.57:162][195]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.09-17.36.57:190][195]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/ColorPillar/Cube.Cube
+	Asset Type: StaticMesh
+	Asset Name: /Game/ColorPillar/Cube_001.Cube_001
+	Asset Type: StaticMesh
+[2025.03.09-17.36.57:548][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.03.09-17.36.57:567][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.03.09-17.36.57:585][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.03.09-17.37.09:787][380]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5438.046875
+[2025.03.09-17.37.09:951][394]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.09-17.37.09:951][394]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5438.198730, Update Interval: 318.040100
+[2025.03.09-17.37.16:711][646]BlueprintLog: New page: Compile ColorPillar
+[2025.03.09-17.37.16:739][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.03.09-17.37.17:734][701]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-17.37.17:806][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ColorPillar/ColorPillar" FILE="../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/ColorPillar/ColorPillar.uasset" SILENT=true
+[2025.03.09-17.37.17:809][701]LogSavePackage: Moving output files for package: /Game/ColorPillar/ColorPillar
+[2025.03.09-17.37.17:809][701]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/ColorPillar30009B214A65DCC5AD52C6BB5A475120.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/ColorPillar/ColorPillar.uasset'
+[2025.03.09-17.37.17:828][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 5.53 sec)
+[2025.03.09-17.37.17:830][701]AssetCheck: New page: Asset Save: ColorPillar
+[2025.03.09-17.37.17:830][701]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ColorPillar/ColorPillar.ColorPillar
+[2025.03.09-17.37.19:658][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.03.09-17.37.19:664][807]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-17.37.19:715][807]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/ZP/N6JV48KFLAUCTSD0SPNHCF
+[2025.03.09-17.37.19:715][807]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/N6JV48KFLAUCTSD0SPNHCFC72AF1A2432B8C4BB9854DAEE5EAFD9A.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/ZP/N6JV48KFLAUCTSD0SPNHCF.uasset'
+[2025.03.09-17.37.19:720][807]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/PX/EN59EMTWOSN2ABGU4DN8MD
+[2025.03.09-17.37.19:720][807]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/EN59EMTWOSN2ABGU4DN8MDD2443BAF457517DC91CDD78594301ABD.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/PX/EN59EMTWOSN2ABGU4DN8MD.uasset'
+[2025.03.09-17.37.19:736][807]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 5.60 sec)
+[2025.03.09-17.37.19:739][807]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.09-17.37.19:739][807]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D8BBC10379A08D5302_2114559964
+[2025.03.09-17.37.19:739][807]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D8BBC10379A08D5302_2114591965
+[2025.03.09-17.37.58:160][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.03.09-17.37.59:108][543]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.09-17.37.59:176][543]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-17.37.59:176][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-17.37.59:207][543]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ColorPillar/ColorPillar.ColorPillar
+	Asset Type: Blueprint
+[2025.03.09-17.37.59:535][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.03.09-17.37.59:575][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.03.09-17.37.59:594][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.03.09-17.37.59:610][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.03.09-17.38.09:910][929]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2025.03.09-17.38.09:927][929]LogInterchangeEngine: [Pending] Importing
+[2025.03.09-17.38.09:927][929]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Sneek/OneDr...rks/ChromaNex/Assets/ColorPillar.glb]
+[2025.03.09-17.38.09:950][930]LogStaticMesh: Display: Building static mesh Cube...
+[2025.03.09-17.38.09:950][930]LogStaticMesh: Display: Building static mesh Cube_001...
+[2025.03.09-17.38.09:955][930]LogStaticMesh: Built static mesh [0.01s] /Game/ColorPillar/Cube_001.Cube_001
+[2025.03.09-17.38.09:956][930]LogStaticMesh: Built static mesh [0.01s] /Game/ColorPillar/Cube.Cube
+[2025.03.09-17.38.09:981][930]LogInterchangeEngine: [Success] Import Done
+[2025.03.09-17.38.09:985][930]LogInterchangeEngine: [Success] Import Done
+[2025.03.09-17.38.10:096][931]LogInterchangeEngine: [Success] Import Done
+[2025.03.09-17.38.14:209][ 70]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.09-17.38.14:221][ 70]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.03.09-17.38.14:234][ 70]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.03.09-17.38.14:254][ 71]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.03.09-17.38.16:573][203]LogContentBrowser: Attempting asset rename: NewBlueprint -> ColorPillar
+[2025.03.09-17.38.16:578][203]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.03.09-17.38.18:756][313]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ColorPillar/ColorPillar.ColorPillar
+[2025.03.09-17.38.18:756][313]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.09-17.38.18:757][313]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.09-17.38.18:908][313]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2025.03.09-17.38.26:569][715]BlueprintLog: New page: Compile ColorPillar
+[2025.03.09-17.38.26:602][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.03.09-17.38.32:256][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-17.38.32:327][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ColorPillar/ColorPillar" FILE="../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/ColorPillar/ColorPillar.uasset" SILENT=true
+[2025.03.09-17.38.32:331][ 31]LogSavePackage: Moving output files for package: /Game/ColorPillar/ColorPillar
+[2025.03.09-17.38.32:331][ 31]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/ColorPillar7E14D75947B0795405A778A220FBEFB3.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/ColorPillar/ColorPillar.uasset'
+[2025.03.09-17.38.32:348][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 5.70 sec)
+[2025.03.09-17.38.32:349][ 31]AssetCheck: New page: Asset Save: ColorPillar
+[2025.03.09-17.38.32:349][ 31]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ColorPillar/ColorPillar.ColorPillar
+[2025.03.09-17.38.43:488][643]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ColorPillar/ColorPillar.ColorPillar_C
+[2025.03.09-17.38.43:489][643]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ColorPillar/ColorPillar.ColorPillar_C
+[2025.03.09-17.38.43:490][643]LogActorFactory: Actor Factory spawned Blueprint /Game/ColorPillar/ColorPillar.ColorPillar as actor: ColorPillar_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ColorPillar_C_0
+[2025.03.09-17.38.43:491][643]LogActorFactory: Actor Factory spawned Blueprint /Game/ColorPillar/ColorPillar.ColorPillar as actor: ColorPillar_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ColorPillar_C_0
+[2025.03.09-17.38.44:500][684]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ColorPillar/ColorPillar.ColorPillar_C
+[2025.03.09-17.38.44:500][684]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ColorPillar/ColorPillar.ColorPillar_C
+[2025.03.09-17.38.44:503][684]LogActorFactory: Actor Factory spawned Blueprint /Game/ColorPillar/ColorPillar.ColorPillar as actor: ColorPillar_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ColorPillar_C_UAID_D8BBC10379A08E5302_1372271142
+[2025.03.09-17.38.44:504][684]LogActorFactory: Actor Factory spawned Blueprint /Game/ColorPillar/ColorPillar.ColorPillar as actor: ColorPillar_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ColorPillar_C_UAID_D8BBC10379A08E5302_1372271142
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display: ================================================
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display: Total job queries 480, among them cache hits 255 (53.12%)
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display: Tracking 220 distinct input hashes that result in 130 distinct outputs (59.09%)
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display: RAM used: 4.74 MiB of 1.60 GiB budget. Usage: 0.29%
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display: Shaders Compiled: 143
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display: Jobs assigned 146, completed 143 (97.95%)
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display: Average time worker was idle: 226.19 s
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.45 s
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 0.76 s
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display: Job life time (pending + execution): average 0.49 s, max 0.86
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display: Shader code size: average 37.262 KiB, min 4.477 KiB, max 71.16 KiB
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.22 s
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display: Jobs were issued in 146 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display: Average processing rate: 7.44 jobs/sec
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display: Total thread time: 41.629 s
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display: Total thread preprocess time: 4.31 s
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display: Percentage time preprocessing: 10.35%
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display: Effective parallelization: 2.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.37% of total time (compiled   36 times, average 0.32 sec, max 0.40 sec, min 0.26 sec)
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.14% of total time (compiled   36 times, average 0.31 sec, max 0.51 sec, min 0.25 sec)
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display:                                                 FLumenCardVS - 17.14% of total time (compiled   24 times, average 0.30 sec, max 0.36 sec, min 0.26 sec)
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.61% of total time (compiled   25 times, average 0.16 sec, max 0.26 sec, min 0.12 sec)
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display:                                                  FVelocityVS - 1.96% of total time (compiled    3 times, average 0.27 sec, max 0.31 sec, min 0.25 sec)
+[2025.03.09-17.39.11:941][165]LogShaderCompilers: Display: ================================================
+[2025.03.09-17.39.55:352][364]Cmd: TRANSACTION UNDO
+[2025.03.09-17.39.55:352][364]LogEditorTransaction: Undo Move Elements
+[2025.03.09-17.43.27:772][312]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5816.045410
+[2025.03.09-17.43.27:951][323]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.09-17.43.27:951][323]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5816.206543, Update Interval: 333.177887
+[2025.03.09-17.44.03:983][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.03.09-17.44.03:990][ 75]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/SV/5EZYPCCAHSXC84RP6S4LHM_Auto4
+[2025.03.09-17.44.03:990][ 75]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/5EZYPCCAHSXC84RP6S4LHM_Auto48A20CD36402122CB84BC07B44448340E.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/SV/5EZYPCCAHSXC84RP6S4LHM_Auto4.uasset'
+[2025.03.09-17.44.03:990][ 75]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.029
+[2025.03.09-17.44.03:990][ 75]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2025.03.09-17.44.03:992][ 75]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ColorPillar/Cube] ([1] browsable assets)...
+[2025.03.09-17.44.04:050][ 75]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ColorPillar/Cube.Cube]
+[2025.03.09-17.44.04:050][ 75]OBJ SavePackage: Finished generating thumbnails for package [/Game/ColorPillar/Cube]
+[2025.03.09-17.44.04:053][ 75]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ColorPillar/Cube_Auto4
+[2025.03.09-17.44.04:053][ 75]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Cube_Auto4E0C3224A4E7253A52892349FC42893EC.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/ColorPillar/Cube_Auto4.uasset'
+[2025.03.09-17.44.04:054][ 75]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ColorPillar/Cube_001] ([1] browsable assets)...
+[2025.03.09-17.44.04:064][ 75]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ColorPillar/Cube_001.Cube_001]
+[2025.03.09-17.44.04:064][ 75]OBJ SavePackage: Finished generating thumbnails for package [/Game/ColorPillar/Cube_001]
+[2025.03.09-17.44.04:067][ 75]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ColorPillar/Cube_001_Auto4
+[2025.03.09-17.44.04:067][ 75]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Cube_001_Auto49D19B2454684CA5149F505881A3147BE.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/ColorPillar/Cube_001_Auto4.uasset'
+[2025.03.09-17.44.04:067][ 75]LogFileHelpers: Auto-saving content packages took 0.076
+[2025.03.09-17.44.49:786][604]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2025.03.09-17.44.49:801][604]LogInterchangeEngine: [Pending] Importing
+[2025.03.09-17.44.49:802][604]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Sneek/OneDr...rks/ChromaNex/Assets/PressurePlatev2.glb]
+[2025.03.09-17.44.49:843][605]LogInterchangeEngine: [Pending] Importing
+[2025.03.09-17.44.49:989][606]LogStaticMesh: Display: Building static mesh Circle_001...
+[2025.03.09-17.44.49:990][606]LogStaticMesh: Display: Building static mesh Cylinder_002...
+[2025.03.09-17.44.49:990][606]LogStaticMesh: Display: Building static mesh Cylinder_001...
+[2025.03.09-17.44.50:005][606]LogStaticMesh: Built static mesh [0.01s] /Game/PressurePlateSystem/Cylinder_002.Cylinder_002
+[2025.03.09-17.44.50:005][606]LogStaticMesh: Built static mesh [0.02s] /Game/PressurePlateSystem/Circle_001.Circle_001
+[2025.03.09-17.44.50:011][606]LogStaticMesh: Built static mesh [0.02s] /Game/PressurePlateSystem/Cylinder_001.Cylinder_001
+[2025.03.09-17.44.50:014][606]LogStaticMesh: Warning: Cylinder_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.03.09-17.44.50:014][606]LogStaticMesh: Warning: Cylinder_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.03.09-17.44.50:081][606]LogInterchangeEngine: [Success] Import Done
+[2025.03.09-17.44.50:176][607]LogInterchangeEngine: [Success] Import Done
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display: ================================================
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display: Total job queries 550, among them cache hits 255 (46.36%)
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display: Tracking 280 distinct input hashes that result in 160 distinct outputs (57.14%)
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display: RAM used: 6.03 MiB of 1.60 GiB budget. Usage: 0.37%
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display: Shaders Compiled: 203
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display: Jobs assigned 209, completed 203 (97.13%)
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display: Average time worker was idle: 177.26 s
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.45 s
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 0.76 s
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display: Job life time (pending + execution): average 0.48 s, max 0.86
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display: Shader code size: average 35.837 KiB, min 4.477 KiB, max 71.16 KiB
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 25.52 s
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display: Jobs were issued in 209 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display: Average processing rate: 7.95 jobs/sec
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display: Total thread time: 60.563 s
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display: Total thread preprocess time: 6.268 s
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display: Percentage time preprocessing: 10.35%
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display: Effective parallelization: 2.37 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.09-17.44.50:523][611]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.76% of total time (compiled   48 times, average 0.32 sec, max 0.51 sec, min 0.25 sec)
+[2025.03.09-17.44.50:524][611]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 25.04% of total time (compiled   48 times, average 0.32 sec, max 0.40 sec, min 0.26 sec)
+[2025.03.09-17.44.50:524][611]LogShaderCompilers: Display:                                                 FLumenCardVS - 17.85% of total time (compiled   36 times, average 0.30 sec, max 0.36 sec, min 0.26 sec)
+[2025.03.09-17.44.50:524][611]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.29% of total time (compiled   37 times, average 0.17 sec, max 0.38 sec, min 0.12 sec)
+[2025.03.09-17.44.50:524][611]LogShaderCompilers: Display:                                                  FVelocityVS - 4.27% of total time (compiled    9 times, average 0.29 sec, max 0.32 sec, min 0.25 sec)
+[2025.03.09-17.44.50:524][611]LogShaderCompilers: Display: ================================================
+[2025.03.09-17.45.24:038][898]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2025.03.09-17.45.24:054][898]LogInterchangeEngine: [Pending] Importing
+[2025.03.09-17.45.24:054][898]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Sneek/OneDr...rks/ChromaNex/Assets/PressurePlatev2.glb]
+[2025.03.09-17.45.24:093][899]LogInterchangeEngine: [Pending] Importing
+[2025.03.09-17.45.24:233][900]LogStaticMesh: Display: Building static mesh Circle_001...
+[2025.03.09-17.45.24:234][900]LogStaticMesh: Display: Building static mesh Cylinder_002...
+[2025.03.09-17.45.24:234][900]LogStaticMesh: Display: Building static mesh Cylinder_001...
+[2025.03.09-17.45.24:244][900]LogStaticMesh: Built static mesh [0.01s] /Game/PressurePlateSystem/Circle_001.Circle_001
+[2025.03.09-17.45.24:249][900]LogStaticMesh: Built static mesh [0.02s] /Game/PressurePlateSystem/Cylinder_002.Cylinder_002
+[2025.03.09-17.45.24:250][900]LogStaticMesh: Built static mesh [0.02s] /Game/PressurePlateSystem/Cylinder_001.Cylinder_001
+[2025.03.09-17.45.24:253][900]LogStaticMesh: Warning: Cylinder_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.03.09-17.45.24:253][900]LogStaticMesh: Warning: Cylinder_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.03.09-17.45.24:301][900]LogInterchangeEngine: [Success] Import Done
+[2025.03.09-17.45.24:389][901]LogInterchangeEngine: [Success] Import Done
+[2025.03.09-17.46.42:834][858]LogFab: Display: {
+	"interactionType": "Open Tab",
+	"eventCategory": "Plugin",
+	"eventAction": "Click"
+}
+[2025.03.09-17.46.43:123][858]LogCEFBrowser: CEF GPU acceleration enabled
+[2025.03.09-17.47.43:773][ 90]LogFab: Display: Asset Type = gltf
+[2025.03.09-17.47.43:773][ 90]LogFab: Display: Is Quixel = 1
+[2025.03.09-17.47.44:400][103]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Sneek/AppDa..._2k_ue_mid_extracted/teeaccoc_tier_2.gltf]
+[2025.03.09-17.47.44:560][106]LogTexture: Display: Building textures: /Game/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/T_teeaccoc_2K_MR.T_teeaccoc_2K_MR (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.03.09-17.47.53:429][546]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/MI_teeaccoc.MI_teeaccoc
+[2025.03.09-17.47.53:431][546]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.09-17.47.53:431][546]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.09-17.47.53:665][546]LogViewport: Scene viewport resized to 1335x894, mode Windowed.
+[2025.03.09-17.48.14:356][734]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.09-17.48.16:798][893]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-17.48.16:906][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display: ================================================
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display: Total job queries 675, among them cache hits 284 (42.07%)
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display: Tracking 382 distinct input hashes that result in 207 distinct outputs (54.19%)
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display: RAM used: 8.33 MiB of 1.60 GiB budget. Usage: 0.51%
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display: Shaders Compiled: 305
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display: Jobs assigned 305, completed 305 (100%)
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display: Average time worker was idle: 124.85 s
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.45 s
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 0.76 s
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display: Job life time (pending + execution): average 0.48 s, max 0.86
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display: Shader code size: average 35.154 KiB, min 3.559 KiB, max 71.16 KiB
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 36.79 s
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display: Jobs were issued in 305 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display: Average processing rate: 8.29 jobs/sec
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display: Total thread time: 92.203 s
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display: Total thread preprocess time: 9.617 s
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display: Percentage time preprocessing: 10.43%
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display: Effective parallelization: 2.51 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.32% of total time (compiled   68 times, average 0.33 sec, max 0.51 sec, min 0.25 sec)
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 23.44% of total time (compiled   68 times, average 0.32 sec, max 0.40 sec, min 0.26 sec)
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display:                                                 FLumenCardVS - 17.37% of total time (compiled   53 times, average 0.30 sec, max 0.36 sec, min 0.26 sec)
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.48% of total time (compiled   53 times, average 0.16 sec, max 0.38 sec, min 0.12 sec)
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display:                                                  FVelocityVS - 5.79% of total time (compiled   18 times, average 0.30 sec, max 0.33 sec, min 0.25 sec)
+[2025.03.09-17.48.17:417][893]LogShaderCompilers: Display: ================================================
+[2025.03.09-17.48.17:485][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.03.09-17.48.17:491][893]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/MI_teeaccoc
+[2025.03.09-17.48.17:491][893]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/MI_teeaccocD337B91142389F0C1F16B69170993920.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/MI_teeaccoc.uasset'
+[2025.03.09-17.48.17:512][893]LogFileHelpers: InternalPromptForCheckoutAndSave took 714 ms (total: 6.41 sec)
+[2025.03.09-17.48.17:513][893]AssetCheck: New page: Asset Save: MI_teeaccoc
+[2025.03.09-17.48.17:513][893]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/MI_teeaccoc.MI_teeaccoc
+[2025.03.09-17.48.48:114][492]LogContentBrowser: Deferred new asset file creation: MI_teeaccoc1
+[2025.03.09-17.48.48:132][492]LogContentBrowser: Creating deferred item: MI_teeaccoc1
+[2025.03.09-17.48.48:158][493]LogContentBrowser: Renaming the item being created (Deferred Item: MI_teeaccoc1).
+[2025.03.09-17.48.49:833][584]LogContentBrowser: Attempting asset rename: MI_teeaccoc1 -> MI_teeaccoc1
+[2025.03.09-17.48.49:835][584]LogContentBrowser: End creating deferred item MI_teeaccoc1
+[2025.03.09-17.48.57:488][939]LogContentBrowser: Attempting asset rename: MI_teeaccoc -> RedMetal
+[2025.03.09-17.48.57:531][939]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-17.48.57:585][939]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/RedMetal
+[2025.03.09-17.48.57:585][939]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/RedMetal2EADE102473B2681645804A2ACB956C3.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/RedMetal.uasset'
+[2025.03.09-17.48.57:598][939]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 6.48 sec)
+[2025.03.09-17.48.57:625][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.03.09-17.48.57:645][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.03.09-17.48.57:662][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.03.09-17.48.57:665][939]AssetCheck: New page: Asset Save: RedMetal
+[2025.03.09-17.48.57:665][939]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/RedMetal.RedMetal
+[2025.03.09-17.49.02:381][147]LogContentBrowser: Attempting asset rename: MI_teeaccoc1 -> Metal
+[2025.03.09-17.49.02:417][147]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-17.49.02:478][147]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/Metal
+[2025.03.09-17.49.02:478][147]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/MetalD711E6AF4D29025678F426AE3E350475.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/Metal.uasset'
+[2025.03.09-17.49.02:491][147]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 6.55 sec)
+[2025.03.09-17.49.02:516][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.03.09-17.49.02:536][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.03.09-17.49.02:555][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.03.09-17.49.02:556][147]AssetCheck: New page: Asset Save: Metal
+[2025.03.09-17.49.02:556][147]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/Metal.Metal
+[2025.03.09-17.49.11:502][568]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/Metal.Metal
+[2025.03.09-17.49.11:505][568]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.09-17.49.11:505][568]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.09-17.49.11:732][568]LogViewport: Scene viewport resized to 1335x894, mode Windowed.
+[2025.03.09-17.49.50:614][971]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6198.900391
+[2025.03.09-17.49.50:795][983]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.09-17.49.50:795][983]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6199.066895, Update Interval: 332.961823
+[2025.03.09-17.50.04:606][864]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.09-17.50.07:408][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-17.50.07:517][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.03.09-17.50.07:538][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.03.09-17.50.07:541][ 51]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/Metal
+[2025.03.09-17.50.07:542][ 51]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Metal11A4A3DA4995710B18BC0FA3ADBADFD4.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/Metal.uasset'
+[2025.03.09-17.50.07:554][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 6.70 sec)
+[2025.03.09-17.50.07:555][ 51]AssetCheck: New page: Asset Save: Metal
+[2025.03.09-17.50.07:555][ 51]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/Metal.Metal
+[2025.03.09-17.50.08:716][126]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-17.50.08:716][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-17.50.18:808][734]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.09-17.50.20:387][835]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-17.50.20:503][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.03.09-17.50.20:529][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.03.09-17.50.20:532][835]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/RedMetal
+[2025.03.09-17.50.20:532][835]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/RedMetal3CBDC98D4A4A5DF779A79EAF45DE0A14.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/RedMetal.uasset'
+[2025.03.09-17.50.20:545][835]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 6.86 sec)
+[2025.03.09-17.50.20:547][835]AssetCheck: New page: Asset Save: RedMetal
+[2025.03.09-17.50.20:547][835]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/RedMetal.RedMetal
+[2025.03.09-17.50.21:655][906]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-17.50.21:655][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-17.52.44:298][201]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.03.09-17.52.44:298][201]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/2593f8e8-0e56-4fbb-9afe-1d7f55d85dfb.
+[2025.03.09-17.52.45:739][278]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-17.52.45:739][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-17.52.48:811][436]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-17.52.48:811][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-17.52.53:963][706]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.09-17.52.53:963][706]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-17.52.53:963][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-17.52.55:533][786]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-17.52.55:533][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-17.53.05:856][301]Cmd: TRANSACTION UNDO
+[2025.03.09-17.53.05:856][301]LogEditorTransaction: Undo Replace component used material
+[2025.03.09-17.54.07:711][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.03.09-17.54.07:725][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/CP/1KWG3FFIFPO15KUBJ2VCGO_Auto5
+[2025.03.09-17.54.07:725][326]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/1KWG3FFIFPO15KUBJ2VCGO_Auto585847C2E4AEDE0A000A8669C47398EBE.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/CP/1KWG3FFIFPO15KUBJ2VCGO_Auto5.uasset'
+[2025.03.09-17.54.07:727][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/SV/5EZYPCCAHSXC84RP6S4LHM_Auto5
+[2025.03.09-17.54.07:727][326]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/5EZYPCCAHSXC84RP6S4LHM_Auto58600749E492C28A2D33AAC9C4AEF5410.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/SV/5EZYPCCAHSXC84RP6S4LHM_Auto5.uasset'
+[2025.03.09-17.54.07:728][326]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.039
+[2025.03.09-17.54.07:728][326]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2025.03.09-17.54.07:729][326]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/PressurePlateSystem/PressurePlateSystem] ([2] browsable assets)...
+[2025.03.09-17.54.07:740][326]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PressurePlateSystem/PressurePlateSystem.PressurePlateSystem]
+[2025.03.09-17.54.07:741][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/PressurePlateSystem/PressurePlateSystem]
+[2025.03.09-17.54.07:755][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PressurePlateSystem/PressurePlateSystem_Auto5
+[2025.03.09-17.54.07:755][326]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/PressurePlateSystem_Auto5361C0A4F4F43AC5E0EBB79B8E77C0403.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/PressurePlateSystem/PressurePlateSystem_Auto5.uasset'
+[2025.03.09-17.54.07:756][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PressurePlateSystem/Circle_001] ([1] browsable assets)...
+[2025.03.09-17.54.07:764][326]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/PressurePlateSystem/Circle_001.Circle_001]
+[2025.03.09-17.54.07:764][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/PressurePlateSystem/Circle_001]
+[2025.03.09-17.54.07:769][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PressurePlateSystem/Circle_001_Auto5
+[2025.03.09-17.54.07:769][326]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Circle_001_Auto58FE7323841A1D9D2D3481BA93FD35E05.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/PressurePlateSystem/Circle_001_Auto5.uasset'
+[2025.03.09-17.54.07:770][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PressurePlateSystem/Material_003] ([1] browsable assets)...
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display: ================================================
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display: Total job queries 688, among them cache hits 285 (41.42%)
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display: Tracking 394 distinct input hashes that result in 215 distinct outputs (54.57%)
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display: RAM used: 8.65 MiB of 1.60 GiB budget. Usage: 0.53%
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display: Shaders Compiled: 317
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display: Jobs assigned 317, completed 317 (100%)
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display: Average time worker was idle: 130.63 s
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.68 s
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 0.76 s
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display: Job life time (pending + execution): average 0.49 s, max 1.10
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display: Shader code size: average 35.561 KiB, min 3.559 KiB, max 71.16 KiB
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 37.89 s
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display: Jobs were issued in 317 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display: Average processing rate: 8.37 jobs/sec
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display: Total thread time: 96.407 s
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display: Total thread preprocess time: 10.004 s
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display: Percentage time preprocessing: 10.38%
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display: Effective parallelization: 2.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.43 sec, max 0.44 sec, min 0.43 sec)
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.43 sec, max 0.43 sec, min 0.42 sec)
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.41 sec, max 0.42 sec, min 0.40 sec)
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.41 sec, max 0.42 sec, min 0.40 sec)
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.41 sec, max 0.41 sec, min 0.40 sec)
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.26% of total time (compiled   68 times, average 0.33 sec, max 0.51 sec, min 0.25 sec)
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.42% of total time (compiled   68 times, average 0.32 sec, max 0.40 sec, min 0.26 sec)
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.61% of total time (compiled   53 times, average 0.30 sec, max 0.36 sec, min 0.26 sec)
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.07% of total time (compiled   53 times, average 0.16 sec, max 0.38 sec, min 0.12 sec)
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display:                                                  FVelocityVS - 5.54% of total time (compiled   18 times, average 0.30 sec, max 0.33 sec, min 0.25 sec)
+[2025.03.09-17.54.08:883][326]LogShaderCompilers: Display: ================================================
+[2025.03.09-17.54.08:891][326]OBJ SavePackage:     Rendered thumbnail for [Material /Game/PressurePlateSystem/Material_003.Material_003]
+[2025.03.09-17.54.08:891][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/PressurePlateSystem/Material_003]
+[2025.03.09-17.54.08:896][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PressurePlateSystem/Material_003_Auto5
+[2025.03.09-17.54.08:896][326]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Material_003_Auto596E257144109B440FAF57A9E9E26BCD8.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/PressurePlateSystem/Material_003_Auto5.uasset'
+[2025.03.09-17.54.08:899][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PressurePlateSystem/Cylinder_002] ([1] browsable assets)...
+[2025.03.09-17.54.08:910][326]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/PressurePlateSystem/Cylinder_002.Cylinder_002]
+[2025.03.09-17.54.08:910][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/PressurePlateSystem/Cylinder_002]
+[2025.03.09-17.54.08:916][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PressurePlateSystem/Cylinder_002_Auto5
+[2025.03.09-17.54.08:916][326]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Cylinder_002_Auto5FC1C03974CA435BB3670A585F03AC5A5.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/PressurePlateSystem/Cylinder_002_Auto5.uasset'
+[2025.03.09-17.54.08:918][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PressurePlateSystem/Material_001] ([1] browsable assets)...
+[2025.03.09-17.54.08:943][326]OBJ SavePackage:     Rendered thumbnail for [Material /Game/PressurePlateSystem/Material_001.Material_001]
+[2025.03.09-17.54.08:943][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/PressurePlateSystem/Material_001]
+[2025.03.09-17.54.08:949][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PressurePlateSystem/Material_001_Auto5
+[2025.03.09-17.54.08:949][326]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Material_001_Auto58E823FC8432B0181D4EBDD85615D7C7B.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/PressurePlateSystem/Material_001_Auto5.uasset'
+[2025.03.09-17.54.08:950][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PressurePlateSystem/Cylinder_001] ([1] browsable assets)...
+[2025.03.09-17.54.08:959][326]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/PressurePlateSystem/Cylinder_001.Cylinder_001]
+[2025.03.09-17.54.08:959][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/PressurePlateSystem/Cylinder_001]
+[2025.03.09-17.54.08:965][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PressurePlateSystem/Cylinder_001_Auto5
+[2025.03.09-17.54.08:965][326]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Cylinder_001_Auto58EA78B6E42D74AFA9BF1D18AB1FCE110.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/PressurePlateSystem/Cylinder_001_Auto5.uasset'
+[2025.03.09-17.54.08:966][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ColorPillar/Cube] ([1] browsable assets)...
+[2025.03.09-17.54.08:966][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/ColorPillar/Cube]
+[2025.03.09-17.54.08:970][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ColorPillar/Cube_Auto5
+[2025.03.09-17.54.08:970][326]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Cube_Auto5B466F24B4CF70EC1C827249075F9454D.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/ColorPillar/Cube_Auto5.uasset'
+[2025.03.09-17.54.08:971][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ColorPillar/Cube_001] ([1] browsable assets)...
+[2025.03.09-17.54.08:971][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/ColorPillar/Cube_001]
+[2025.03.09-17.54.08:974][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ColorPillar/Cube_001_Auto5
+[2025.03.09-17.54.08:974][326]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Cube_001_Auto59411B95A47E5BFE44E8A5FB2EA86FFA9.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/ColorPillar/Cube_001_Auto5.uasset'
+[2025.03.09-17.54.08:974][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ColorPillar/ColorPillar] ([2] browsable assets)...
+[2025.03.09-17.54.08:974][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/ColorPillar/ColorPillar]
+[2025.03.09-17.54.08:980][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ColorPillar/ColorPillar_Auto5
+[2025.03.09-17.54.08:980][326]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/ColorPillar_Auto5D624F93F4A4BE9E28C28479284D59582.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/ColorPillar/ColorPillar_Auto5.uasset'
+[2025.03.09-17.54.08:981][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PressurePlateSystem/Material_004] ([1] browsable assets)...
+[2025.03.09-17.54.10:074][326]OBJ SavePackage:     Rendered thumbnail for [Material /Game/PressurePlateSystem/Material_004.Material_004]
+[2025.03.09-17.54.10:074][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/PressurePlateSystem/Material_004]
+[2025.03.09-17.54.10:079][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PressurePlateSystem/Material_004_Auto5
+[2025.03.09-17.54.10:079][326]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Material_004_Auto580FE208648D7251DE3A3578D761D5A5B.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/PressurePlateSystem/Material_004_Auto5.uasset'
+[2025.03.09-17.54.10:081][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/T_teeaccoc_2K_MR] ([1] browsable assets)...
+[2025.03.09-17.54.10:083][326]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/T_teeaccoc_2K_MR.T_teeaccoc_2K_MR]
+[2025.03.09-17.54.10:083][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/T_teeaccoc_2K_MR]
+[2025.03.09-17.54.10:096][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/T_teeaccoc_2K_MR_Auto5
+[2025.03.09-17.54.10:096][326]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/T_teeaccoc_2K_MR_Auto5A2FD8C9E4B81825707E654B275369D17.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/T_teeaccoc_2K_MR_Auto5.uasset'
+[2025.03.09-17.54.10:097][326]LogFileHelpers: Auto-saving content packages took 2.368
+[2025.03.09-17.56.08:037][ 25]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6576.335449
+[2025.03.09-17.56.09:037][ 28]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.09-17.56.09:037][ 28]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6577.001953, Update Interval: 330.035706
+[2025.03.09-17.58.53:280][413]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-17.58.53:348][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.03.09-17.58.53:371][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.03.09-17.58.53:390][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.03.09-17.58.53:394][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/CP/1KWG3FFIFPO15KUBJ2VCGO
+[2025.03.09-17.58.53:395][413]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/1KWG3FFIFPO15KUBJ2VCGO580F285C4E495ECEEECF139A7761CABA.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/CP/1KWG3FFIFPO15KUBJ2VCGO.uasset'
+[2025.03.09-17.58.53:398][413]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/SV/5EZYPCCAHSXC84RP6S4LHM
+[2025.03.09-17.58.53:398][413]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/5EZYPCCAHSXC84RP6S4LHMD49F879C44EEDBF9335C68B4170C5549.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/SV/5EZYPCCAHSXC84RP6S4LHM.uasset'
+[2025.03.09-17.58.53:422][413]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 7.00 sec)
+[2025.03.09-17.58.53:426][413]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.09-17.58.53:426][413]LogContentValidation: Display: Validating /Game/PressurePlateSystem/PressurePlateSystem.PressurePlateSystem_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PressurePlateSystem_C_UAID_D8BBC10379A0895302_1555205258
+[2025.03.09-17.58.53:426][413]LogContentValidation: Display: Validating /Game/ColorPillar/ColorPillar.ColorPillar_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ColorPillar_C_UAID_D8BBC10379A08E5302_1372271142
+[2025.03.09-17.59.22:831][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.03.09-17.59.22:840][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.09-17.59.22:902][769]LogSavePackage: Moving output files for package: /Game/PressurePlateSystem/PressurePlateSystem
+[2025.03.09-17.59.22:903][769]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/PressurePlateSystem203EC25B444337D71E02728B6140436D.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/PressurePlateSystem/PressurePlateSystem.uasset'
+[2025.03.09-17.59.22:904][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PressurePlateSystem/Circle_001" FILE="../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/PressurePlateSystem/Circle_001.uasset" SILENT=true
+[2025.03.09-17.59.22:908][769]LogSavePackage: Moving output files for package: /Game/PressurePlateSystem/Circle_001
+[2025.03.09-17.59.22:908][769]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Circle_001638BD99040055521F2772EA43AE803EE.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/PressurePlateSystem/Circle_001.uasset'
+[2025.03.09-17.59.22:914][769]LogSavePackage: Moving output files for package: /Game/PressurePlateSystem/Material_003
+[2025.03.09-17.59.22:914][769]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Material_003FF7E95C6480C535A6B6D0E8A5C21B464.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/PressurePlateSystem/Material_003.uasset'
+[2025.03.09-17.59.22:918][769]LogSavePackage: Moving output files for package: /Game/PressurePlateSystem/Cylinder_002
+[2025.03.09-17.59.22:920][769]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Cylinder_002321AE28946CE913C7419BD9A219A8733.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/PressurePlateSystem/Cylinder_002.uasset'
+[2025.03.09-17.59.22:925][769]LogSavePackage: Moving output files for package: /Game/PressurePlateSystem/Material_001
+[2025.03.09-17.59.22:925][769]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Material_0017D6243BF431345E7AE7E76B81AC2893F.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/PressurePlateSystem/Material_001.uasset'
+[2025.03.09-17.59.22:930][769]LogSavePackage: Moving output files for package: /Game/PressurePlateSystem/Cylinder_001
+[2025.03.09-17.59.22:931][769]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Cylinder_00169A9D1964AFBA042FA24E59A0B8A6E98.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/PressurePlateSystem/Cylinder_001.uasset'
+[2025.03.09-17.59.22:933][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ColorPillar/Cube" FILE="../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/ColorPillar/Cube.uasset" SILENT=true
+[2025.03.09-17.59.22:935][769]LogSavePackage: Moving output files for package: /Game/ColorPillar/Cube
+[2025.03.09-17.59.22:935][769]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Cube91016BFC40388509183A359A60FD4883.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/ColorPillar/Cube.uasset'
+[2025.03.09-17.59.22:937][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ColorPillar/Cube_001" FILE="../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/ColorPillar/Cube_001.uasset" SILENT=true
+[2025.03.09-17.59.22:939][769]LogSavePackage: Moving output files for package: /Game/ColorPillar/Cube_001
+[2025.03.09-17.59.22:939][769]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Cube_00187DB10F948D5A41D1FB64B9CEEABCEB5.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/ColorPillar/Cube_001.uasset'
+[2025.03.09-17.59.22:940][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ColorPillar/ColorPillar" FILE="../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/ColorPillar/ColorPillar.uasset" SILENT=true
+[2025.03.09-17.59.22:944][769]LogSavePackage: Moving output files for package: /Game/ColorPillar/ColorPillar
+[2025.03.09-17.59.22:945][769]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/ColorPillarB9A76D7749D20834CCFAD38FE5D8EF69.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/ColorPillar/ColorPillar.uasset'
+[2025.03.09-17.59.22:952][769]LogSavePackage: Moving output files for package: /Game/PressurePlateSystem/Material_004
+[2025.03.09-17.59.22:952][769]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/Material_00446B925E64B03BB22418F43BC9E562721.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/PressurePlateSystem/Material_004.uasset'
+[2025.03.09-17.59.23:031][769]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/T_teeaccoc_2K_MR
+[2025.03.09-17.59.23:031][769]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/T_teeaccoc_2K_MR3157857C4260ED1383E5A3AFABF4B99E.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/T_teeaccoc_2K_MR.uasset'
+[2025.03.09-17.59.23:051][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 211 ms (total: 7.21 sec)
+[2025.03.09-17.59.23:057][769]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.09-17.59.23:057][769]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PressurePlateSystem/PressurePlateSystem.PressurePlateSystem
+[2025.03.09-17.59.23:057][769]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/PressurePlateSystem/Circle_001.Circle_001
+[2025.03.09-17.59.23:057][769]LogContentValidation: Display: Validating /Script/Engine.Material /Game/PressurePlateSystem/Material_003.Material_003
+[2025.03.09-17.59.23:057][769]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/PressurePlateSystem/Cylinder_002.Cylinder_002
+[2025.03.09-17.59.23:057][769]LogContentValidation: Display: Validating /Script/Engine.Material /Game/PressurePlateSystem/Material_001.Material_001
+[2025.03.09-17.59.23:057][769]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/PressurePlateSystem/Cylinder_001.Cylinder_001
+[2025.03.09-17.59.23:057][769]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ColorPillar/Cube.Cube
+[2025.03.09-17.59.23:057][769]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ColorPillar/Cube_001.Cube_001
+[2025.03.09-17.59.23:057][769]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ColorPillar/ColorPillar.ColorPillar
+[2025.03.09-17.59.23:057][769]LogContentValidation: Display: Validating /Script/Engine.Material /Game/PressurePlateSystem/Material_004.Material_004
+[2025.03.09-17.59.23:057][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Fab/Megascans/Surfaces/Scratched_Painted_Metal_teeaccoc/Medium/T_teeaccoc_2K_MR.T_teeaccoc_2K_MR
+[2025.03.09-17.59.24:895][867]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.09-17.59.24:895][867]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-17.59.24:895][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-17.59.25:401][887]LogSlate: Window 'ColorPillar' being destroyed
+[2025.03.09-17.59.25:449][887]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.09-17.59.25:449][887]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-17.59.25:449][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-17.59.33:453][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.03.09-17.59.33:472][946]LogStall: Shutdown...
+[2025.03.09-17.59.33:476][946]LogStall: Shutdown complete.
+[2025.03.09-17.59.33:531][946]LogSlate: Window 'ChromaNex - Unreal Editor' being destroyed
+[2025.03.09-17.59.33:660][947]Cmd: QUIT_EDITOR
+[2025.03.09-17.59.33:660][947]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.03.09-17.59.33:663][947]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.03.09-17.59.33:663][947]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.03.09-17.59.33:663][947]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.03.09-17.59.33:664][947]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-17.59.33:664][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.09-17.59.33:664][947]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.03.09-17.59.33:669][947]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.03.09-17.59.34:285][947]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.03.09-17.59.34:285][947]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.03.09-17.59.34:285][947]LogAudio: Display: Audio Device unregistered from world 'FirstPersonMap'.
+[2025.03.09-17.59.34:285][947]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2025.03.09-17.59.34:298][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.09-17.59.34:302][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.09-17.59.34:314][947]LogAudio: Display: Audio Device Manager Shutdown
+[2025.03.09-17.59.34:321][947]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.03.09-17.59.34:321][947]LogExit: Preparing to exit.
+[2025.03.09-17.59.34:352][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.03.09-17.59.34:365][947]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-17.59.34:365][947]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-17.59.34:368][947]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-17.59.34:368][947]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-17.59.34:369][947]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-17.59.34:369][947]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-17.59.34:369][947]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-17.59.34:369][947]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-17.59.34:369][947]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-17.59.34:369][947]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-17.59.34:369][947]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-17.59.34:369][947]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-17.59.34:369][947]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-17.59.34:369][947]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-17.59.34:369][947]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-17.59.34:369][947]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-17.59.34:369][947]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-17.59.34:369][947]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-17.59.34:369][947]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-17.59.34:369][947]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.09-17.59.34:938][947]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-17.59.34:941][947]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-17.59.34:943][947]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-17.59.34:945][947]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-17.59.34:948][947]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-17.59.34:951][947]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.03.09-17.59.35:091][947]LogExit: Editor shut down
+[2025.03.09-17.59.35:094][947]LogExit: Transaction tracking system shut down
+[2025.03.09-17.59.35:135][947]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.03.09-17.59.35:385][947]LogExit: Object subsystem successfully closed.
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display: ================================================
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display: Total job queries 714, among them cache hits 299 (41.88%)
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display: Tracking 406 distinct input hashes that result in 223 distinct outputs (54.93%)
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display: RAM used: 8.97 MiB of 1.60 GiB budget. Usage: 0.55%
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display: Shaders Compiled: 329
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display: Jobs assigned 329, completed 329 (100%)
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display: Average time worker was idle: 125.76 s
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.68 s
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 0.76 s
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display: Job life time (pending + execution): average 0.49 s, max 1.10
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display: Shader code size: average 35.962 KiB, min 3.559 KiB, max 71.16 KiB
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 38.96 s
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display: Jobs were issued in 329 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display: Average processing rate: 8.45 jobs/sec
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display: Total thread time: 100.991 s
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display: Total thread preprocess time: 10.389 s
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display: Percentage time preprocessing: 10.29%
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display: Effective parallelization: 2.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 0.44 sec, max 0.46 sec, min 0.43 sec)
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    3 times, average 0.44 sec, max 0.46 sec, min 0.42 sec)
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    3 times, average 0.43 sec, max 0.47 sec, min 0.40 sec)
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 0.42 sec, max 0.45 sec, min 0.40 sec)
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    3 times, average 0.42 sec, max 0.45 sec, min 0.40 sec)
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.21% of total time (compiled   68 times, average 0.33 sec, max 0.51 sec, min 0.25 sec)
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.40% of total time (compiled   68 times, average 0.32 sec, max 0.40 sec, min 0.26 sec)
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.86% of total time (compiled   53 times, average 0.30 sec, max 0.36 sec, min 0.26 sec)
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.66% of total time (compiled   53 times, average 0.16 sec, max 0.38 sec, min 0.12 sec)
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display:                                                  FVelocityVS - 5.28% of total time (compiled   18 times, average 0.30 sec, max 0.33 sec, min 0.25 sec)
+[2025.03.09-17.59.35:393][947]LogShaderCompilers: Display: ================================================
+[2025.03.09-17.59.35:460][947]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.03.09-17.59.35:488][947]LogVirtualization: UE::Virtualization was shutdown
+[2025.03.09-17.59.35:528][947]LogModuleManager: Shutting down and abandoning module WebBrowser (1066)
+[2025.03.09-17.59.35:563][947]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (1064)
+[2025.03.09-17.59.35:563][947]LogModuleManager: Shutting down and abandoning module MaterialEditor (1062)
+[2025.03.09-17.59.35:563][947]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1060)
+[2025.03.09-17.59.35:563][947]LogModuleManager: Shutting down and abandoning module Voice (1058)
+[2025.03.09-17.59.35:563][947]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1056)
+[2025.03.09-17.59.35:563][947]LogModuleManager: Shutting down and abandoning module AddContentDialog (1054)
+[2025.03.09-17.59.35:564][947]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1053)
+[2025.03.09-17.59.35:564][947]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1048)
+[2025.03.09-17.59.35:564][947]LogModuleManager: Shutting down and abandoning module SceneOutliner (1046)
+[2025.03.09-17.59.35:564][947]LogModuleManager: Shutting down and abandoning module StatusBar (1044)
+[2025.03.09-17.59.35:564][947]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1042)
+[2025.03.09-17.59.35:564][947]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1040)
+[2025.03.09-17.59.35:564][947]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1038)
+[2025.03.09-17.59.35:564][947]LogModuleManager: Shutting down and abandoning module StatsViewer (1036)
+[2025.03.09-17.59.35:564][947]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1034)
+[2025.03.09-17.59.35:564][947]LogModuleManager: Shutting down and abandoning module AutomationWorker (1032)
+[2025.03.09-17.59.35:564][947]LogModuleManager: Shutting down and abandoning module IKRigEditor (1030)
+[2025.03.09-17.59.35:564][947]LogModuleManager: Shutting down and abandoning module ControlRigEditor (1028)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (1026)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module WaveTableEditor (1024)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (1022)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module RigVMEditor (1020)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module GooglePADEditor (1018)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (1016)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (1014)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (1012)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (1010)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (1008)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1006)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (1004)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module WebMMedia (1002)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1000)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (998)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (996)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (994)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module SequenceRecorder (993)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (990)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (988)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (986)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (984)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (982)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (980)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (978)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module TextureAlignMode (976)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module BspMode (974)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module GeometryMode (972)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (970)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module PlanarCut (968)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module FractureEngine (966)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module CharacterAI (964)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module SmartSnapping (962)
+[2025.03.09-17.59.35:565][947]LogModuleManager: Shutting down and abandoning module SessionServices (960)
+[2025.03.09-17.59.35:567][947]LogModuleManager: Shutting down and abandoning module MeshPaint (958)
+[2025.03.09-17.59.35:567][947]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (956)
+[2025.03.09-17.59.35:567][947]LogModuleManager: Shutting down and abandoning module PlacementMode (955)
+[2025.03.09-17.59.35:567][947]LogModuleManager: Shutting down and abandoning module FoliageEdit (952)
+[2025.03.09-17.59.35:567][947]LogModuleManager: Shutting down and abandoning module LandscapeEditor (950)
+[2025.03.09-17.59.35:567][947]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (948)
+[2025.03.09-17.59.35:567][947]LogModuleManager: Shutting down and abandoning module ActorPickerMode (946)
+[2025.03.09-17.59.35:567][947]LogModuleManager: Shutting down and abandoning module ViewportSnapping (944)
+[2025.03.09-17.59.35:567][947]LogModuleManager: Shutting down and abandoning module EditorWidgets (942)
+[2025.03.09-17.59.35:568][947]LogModuleManager: Shutting down and abandoning module ViewportInteraction (940)
+[2025.03.09-17.59.35:568][947]LogModuleManager: Shutting down and abandoning module ClothPainter (938)
+[2025.03.09-17.59.35:568][947]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (937)
+[2025.03.09-17.59.35:568][947]LogModuleManager: Shutting down and abandoning module WidgetRegistration (934)
+[2025.03.09-17.59.35:568][947]LogModuleManager: Shutting down and abandoning module LogVisualizer (932)
+[2025.03.09-17.59.35:568][947]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (930)
+[2025.03.09-17.59.35:568][947]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (928)
+[2025.03.09-17.59.35:568][947]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (927)
+[2025.03.09-17.59.35:568][947]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (925)
