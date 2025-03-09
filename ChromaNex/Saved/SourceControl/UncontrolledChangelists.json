@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/PressurePlateSystem/PressurePlateSystem.uasset",
+				"C:/Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/DoorSystem/Door.uasset",
+				"C:/Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/JL/7CBNEM8NSR5DH277WBPM3X.uasset",
+				"C:/Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/Z5/LVPKIINSI57CTEBK9KB5MF.uasset",
+				"C:/Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/CP/1KWG3FFIFPO15KUBJ2VCGO.uasset",
+				"C:/Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/DoorSystem/Door_arch.uasset",
+				"C:/Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset",
+				"C:/Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/PressurePlateSystem/TestBlock.uasset",
+				"C:/Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/3G/JO30H3O317DYOSB90RV8RQ.uasset",
+				"C:/Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset",
 				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/StarterContent/Audio/Collapse01.uasset"
 			]
 		}
