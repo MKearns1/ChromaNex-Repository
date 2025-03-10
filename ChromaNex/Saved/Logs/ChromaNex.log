@@ -5689,3 +5689,23 @@ Script Stack (0 frames) :
 [2025.03.10-21.02.23:775][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
 [2025.03.10-21.02.23:847][370]LogPlayLevel: Display: Destroying online subsystem :Context_55
 [2025.03.10-21.02.28:894][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.03.10-21.03.08:995][642]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DoorSystem/NextLevelLoader.NextLevelLoader
+[2025.03.10-21.03.08:995][642]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.10-21.03.08:997][642]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.10-21.03.19:943][231]BlueprintLog: New page: Compile NextLevelLoader
+[2025.03.10-21.03.19:988][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.03.10-21.03.20:471][245]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-21.03.20:527][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DoorSystem/NextLevelLoader" FILE="../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/DoorSystem/NextLevelLoader.uasset" SILENT=true
+[2025.03.10-21.03.20:539][245]LogSavePackage: Moving output files for package: /Game/DoorSystem/NextLevelLoader
+[2025.03.10-21.03.20:540][245]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/NextLevelLoaderF807B0064E56ACAC39ECB38645CAA643.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/DoorSystem/NextLevelLoader.uasset'
+[2025.03.10-21.03.20:548][245]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 6.94 sec)
+[2025.03.10-21.03.20:550][245]AssetCheck: New page: Asset Save: NextLevelLoader
+[2025.03.10-21.03.20:550][245]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/DoorSystem/NextLevelLoader.NextLevelLoader
+[2025.03.10-21.03.24:841][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-21.03.24:891][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DoorSystem/NextLevelLoader" FILE="../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/DoorSystem/NextLevelLoader.uasset" SILENT=true
+[2025.03.10-21.03.24:903][483]LogSavePackage: Moving output files for package: /Game/DoorSystem/NextLevelLoader
+[2025.03.10-21.03.24:903][483]LogSavePackage: Moving '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Saved/NextLevelLoader2947A4774C7C55091B3213BE0042F983.tmp' to '../../../../../../Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/DoorSystem/NextLevelLoader.uasset'
+[2025.03.10-21.03.24:912][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 7.01 sec)
+[2025.03.10-21.03.24:913][483]AssetCheck: New page: Asset Save: NextLevelLoader
+[2025.03.10-21.03.24:913][483]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/DoorSystem/NextLevelLoader.NextLevelLoader
+[2025.03.10-21.03.25:747][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
