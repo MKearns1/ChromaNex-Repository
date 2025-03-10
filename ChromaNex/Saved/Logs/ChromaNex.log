@@ -1062,3 +1062,27 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.10-17.10.16:454][  0]NetworkingProfiler: OnSessionChanged
 [2025.03.10-17.10.16:454][  0]MemoryProfiler: Initialize
 [2025.03.10-17.10.16:454][  0]MemoryProfiler: OnSessionChanged
+[2025.03.10-17.10.18:810][  0]LogFileCache: Scanning file cache for directory 'D:/ChromaNex-Repository/ChromaNex/Content/' took 0.02s
+[2025.03.10-17.10.22:139][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2025.03.10-17.10.22:839][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2025.03.10-17.10.22:881][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.03.10-17.10.22:909][  0]SourceControl: Revision control is disabled
+[2025.03.10-17.10.22:909][  0]LogUnrealEdMisc: Loading editor; pre map load, took 99.956
+[2025.03.10-17.10.22:919][  0]Cmd: MAP LOAD FILE="../../../../../ChromaNex-Repository/ChromaNex/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.10-17.10.22:922][  0]LightingResults: New page: Lighting Build
+[2025.03.10-17.10.22:992][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-17.10.23:081][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-17.10.23:114][  0]MapCheck: New page: Map Check
+[2025.03.10-17.10.23:114][  0]LightingResults: New page: Lighting Build
+[2025.03.10-17.10.23:310][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.10-17.10.23:411][  0]LogUObjectHash: Compacting FUObjectHashTables data took  15.83ms
+[2025.03.10-17.10.23:479][  0]LogAssetRegistry: Display: Asset registry cache written as 17.0 MiB to ../../../../../ChromaNex-Repository/ChromaNex/Intermediate/CachedAssetRegistry_*.bin
+[2025.03.10-17.10.25:630][  0]LogTexture: Display: Building textures: /Game/Tubes/sci_fi_texture1.sci_fi_texture1 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.03.10-17.10.25:896][  0]LogTexture: Display: Building textures: /Game/Tubes/Sci_fi_Texture1_Normal.Sci_fi_Texture1_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 302.812488 MB), EncodeSpeed: Fast
+[2025.03.10-17.10.26:004][  0]LogStaticMesh: Display: Building static mesh TubeHatch_Circle...
+[2025.03.10-17.10.26:041][  0]LogStaticMesh: Display: Building static mesh TubeHatch_Cube_001...
+[2025.03.10-17.10.26:041][  0]LogStaticMesh: Display: Building static mesh TubeHatch_Circle_001...
+[2025.03.10-17.10.26:499][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2025.03.10-17.10.26:932][  0]LogStaticMesh: Built static mesh [0.93s] /Game/Tubes/TubeHatch_Cube_001.TubeHatch_Cube_001
+[2025.03.10-17.10.26:932][  0]LogStaticMesh: Built static mesh [0.93s] /Game/Tubes/TubeHatch_Circle_001.TubeHatch_Circle_001
+[2025.03.10-17.10.26:932][  0]LogStaticMesh: Built static mesh [0.93s] /Game/Tubes/TubeHatch_Circle.TubeHatch_Circle
