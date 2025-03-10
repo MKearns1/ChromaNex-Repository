@@ -1086,3 +1086,88 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.10-17.10.26:932][  0]LogStaticMesh: Built static mesh [0.93s] /Game/Tubes/TubeHatch_Cube_001.TubeHatch_Cube_001
 [2025.03.10-17.10.26:932][  0]LogStaticMesh: Built static mesh [0.93s] /Game/Tubes/TubeHatch_Circle_001.TubeHatch_Circle_001
 [2025.03.10-17.10.26:932][  0]LogStaticMesh: Built static mesh [0.93s] /Game/Tubes/TubeHatch_Circle.TubeHatch_Circle
+[2025.03.10-17.10.28:159][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2025.03.10-17.10.28:160][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.10-17.10.28:160][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.10-17.10.28:160][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.03.10-17.10.28:295][  0]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.03.10-17.10.28:296][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.10-17.10.28:296][  0]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.10-17.10.29:426][  0]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2025.03.10-17.10.29:426][  0]LogWorldPartition: Display: WorldPartition initialize took 1.13 sec
+[2025.03.10-17.10.29:709][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.10-17.10.29:756][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.10-17.10.29:756][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.10-17.10.29:756][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.268ms to complete.
+[2025.03.10-17.10.30:331][  0]LogUnrealEdMisc: Total Editor Startup Time, took 107.378
+[2025.03.10-17.10.30:331][  0]LogShaderCompilers: Display: ================================================
+[2025.03.10-17.10.30:331][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.10-17.10.30:331][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2025.03.10-17.10.30:331][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2025.03.10-17.10.30:331][  0]LogShaderCompilers: Display: RAM used: 240.00 B of 819.20 MiB budget. Usage: 0.00%
+[2025.03.10-17.10.30:332][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.10-17.10.30:332][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.03.10-17.10.30:332][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2025.03.10-17.10.30:332][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.03.10-17.10.30:332][  0]LogShaderCompilers: Display: ================================================
+[2025.03.10-17.10.30:925][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2025.03.10-17.10.30:925][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2025.03.10-17.10.30:925][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2025.03.10-17.10.30:925][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2025.03.10-17.10.30:925][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2025.03.10-17.10.30:979][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.10-17.10.30:997][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.10-17.10.31:007][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.10-17.10.31:018][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.10-17.10.31:383][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.10-17.10.31:423][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal/UE_5.3/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2025.03.10-17.10.31:437][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.10-17.10.31:443][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal/UE_5.3/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2025.03.10-17.10.31:452][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.10-17.10.31:458][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal/UE_5.3/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2025.03.10-17.10.31:465][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.10-17.10.31:474][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal/UE_5.3/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2025.03.10-17.10.31:483][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.10-17.10.31:493][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal/UE_5.3/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2025.03.10-17.10.31:495][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.10-17.10.31:504][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal/UE_5.3/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2025.03.10-17.10.31:513][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.10-17.10.31:525][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal/UE_5.3/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2025.03.10-17.10.31:552][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.10-17.10.31:569][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal/UE_5.3/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2025.03.10-17.10.31:577][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.10-17.10.31:589][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal/UE_5.3/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2025.03.10-17.10.31:598][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.10-17.10.31:604][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal/UE_5.3/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2025.03.10-17.10.32:865][  0]LogSlate: Took 0.009336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.03.10-17.10.32:900][  0]LogSlate: Took 0.007639 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.03.10-17.10.32:906][  0]LogSlate: Took 0.004169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.03.10-17.10.32:912][  0]LogSlate: Took 0.005326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.03.10-17.10.32:957][  0]LogViewport: Scene viewport resized to 1474x545, mode Windowed.
+[2025.03.10-17.10.34:025][  0]LogSlate: Took 0.018310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.03.10-17.10.35:497][  0]LogStall: Startup...
+[2025.03.10-17.10.35:499][  0]LogStall: Startup complete.
+[2025.03.10-17.10.35:540][  0]LogLoad: (Engine Initialization) Total time: 112.59 seconds
+[2025.03.10-17.10.35:540][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2025.03.10-17.10.35:702][  0]LogAssetRegistry: AssetRegistryGather time 46.5533s: AssetDataDiscovery 3.2570s, AssetDataGather 43.2413s, StoreResults 0.0550s.
+[2025.03.10-17.10.35:766][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.012420 seconds (updated 0 objects)
+[2025.03.10-17.10.35:768][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2025.03.10-17.10.36:311][  0]LogAutomationController: Ignoring very large delta of 16784463.15 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.10-17.10.36:951][  1]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2025.03.10-17.10.36:996][  1]Running Python start-up script 'D:/Unreal/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.564023 secs
+[2025.03.10-17.10.37:768][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2025.03.10-17.10.38:409][  7]LogMeshUtilities: Finished distance field build in 2.5s - 56x49x14 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 96% occupied, 357 triangles, TubeHatch_Cube_001
+[2025.03.10-17.10.39:661][ 11]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 29.958788
+[2025.03.10-17.10.39:672][ 11]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2025.03.10-17.10.39:680][ 11]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30.318520
+[2025.03.10-17.10.40:991][ 15]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2025.03.10-17.10.41:634][ 17]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 31.958767
+[2025.03.10-17.10.41:636][ 17]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -36188152
+[2025.03.10-17.10.41:636][ 17]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31.958767, Update Interval: 343.168427
+[2025.03.10-17.10.42:728][ 20]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 4b3...74c Access[Expires: 2025.03.10-19.10.44 Remaining: 7200.34] Refresh[Expires: 2025-09-06T17:05:52.749Z Remaining: 15551708.75] State: Valid
+[2025.03.10-17.10.42:969][ 21]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2025.03.10-17.10.43:971][ 24]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2025.03.10-17.10.43:971][ 24]LogFab: Display: User logged in
+[2025.03.10-17.10.43:998][ 24]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2025.03.10-17.10.44:672][ 26]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-zz6NOZ6iwEirdYHCD75hLQ-OA7uFW54ok6_emMdUuZkCQ]
