@@ -1439,3 +1439,40 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.10-17.19.20:945][416]LogViewport: Scene viewport resized to 1474x507, mode Windowed.
 [2025.03.10-17.19.20:976][417]LogViewport: Scene viewport resized to 1474x514, mode Windowed.
 [2025.03.10-17.19.21:007][418]LogViewport: Scene viewport resized to 1474x515, mode Windowed.
+[2025.03.10-17.20.02:741][799]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.03.10-17.20.03:056][799]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=18772
+[2025.03.10-17.20.03:384][800]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{25254513-cfc0-4598-9025-cac11a3e4349}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=6.34
+[2025.03.10-17.20.03:385][800]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.03.10-17.20.03:387][800]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.03.10-17.21.55:447][137]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 706.105591
+[2025.03.10-17.21.56:446][140]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-17.21.56:446][140]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 706.772400, Update Interval: 302.955414
+[2025.03.10-17.23.03:541][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.03.10-17.23.03:545][340]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/TubesLevel' took 0.017
+[2025.03.10-17.23.03:555][340]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Tubes/BP_TubeHatch] ([2] browsable assets)...
+[2025.03.10-17.23.03:624][340]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Tubes/BP_TubeHatch.BP_TubeHatch]
+[2025.03.10-17.23.03:625][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tubes/BP_TubeHatch]
+[2025.03.10-17.23.03:625][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tubes/BP_TubeHatch" FILE="../../../../../ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/Tubes/BP_TubeHatch_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.03.10-17.23.03:650][340]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Tubes/BP_TubeHatch_Auto1
+[2025.03.10-17.23.03:650][340]LogSavePackage: Moving '../../../../../ChromaNex-Repository/ChromaNex/Saved/BP_TubeHatch_Auto179F76AC54C4FDCAE3CC4AFB288350B07.tmp' to '../../../../../ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/Tubes/BP_TubeHatch_Auto1.uasset'
+[2025.03.10-17.23.03:651][340]LogFileHelpers: Auto-saving content packages took 0.098
+[2025.03.10-17.27.03:611][ 61]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1014.268982
+[2025.03.10-17.27.04:611][ 64]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-17.27.04:611][ 64]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1014.936157, Update Interval: 347.242645
+[2025.03.10-17.33.06:135][148]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1376.793213
+[2025.03.10-17.33.07:135][151]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-17.33.07:135][151]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1377.460205, Update Interval: 330.173035
+[2025.03.10-17.38.55:387][195]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1726.045654
+[2025.03.10-17.38.56:388][198]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-17.38.56:388][198]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1726.712402, Update Interval: 346.422302
+[2025.03.10-17.45.16:246][337]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2106.903320
+[2025.03.10-17.45.17:247][340]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-17.45.17:247][340]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2107.570312, Update Interval: 316.403076
+[2025.03.10-17.51.06:811][388]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2457.466797
+[2025.03.10-17.51.07:812][391]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-17.51.07:812][391]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2458.133789, Update Interval: 334.137390
+[2025.03.10-17.52.05:994][565]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Razer Kraken BT Kitty Edition Stereo), InstanceID=1
+[2025.03.10-17.52.06:195][566]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=18772
+[2025.03.10-17.52.06:509][566]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{d7e448ef-fd55-4755-b6d5-20fc8b014009}, Name=Headphones (Razer Kraken BT Kitty Edition Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=13.54
+[2025.03.10-17.52.06:509][566]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.03.10-17.52.06:512][566]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
