@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/w1983319/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/Level4.umap",
+				"C:/Users/w1983319/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/TutorialLevel.umap",
 				"C:/Users/w1993975/Documents/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/w1993975/Documents/ChromaNex-Repository/ChromaNex/Content/Materials/Textures/M_Earth.uasset",
 				"C:/Users/w1993975/Documents/ChromaNex-Repository/ChromaNex/Content/Materials/M_Glass.uasset",
