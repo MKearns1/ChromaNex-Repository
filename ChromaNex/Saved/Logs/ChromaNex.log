@@ -1468,3 +1468,246 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.12-18.01.26:242][982]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1299.057983
 [2025.03.12-18.01.27:243][985]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.03.12-18.01.27:243][985]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1299.725830, Update Interval: 332.623077
+[2025.03.12-18.07.24:513][510]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1657.330811
+[2025.03.12-18.07.25:513][513]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.12-18.07.25:513][513]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1657.997437, Update Interval: 325.064240
+[2025.03.12-18.13.42:564][644]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2035.383423
+[2025.03.12-18.13.43:565][647]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.12-18.13.43:565][647]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2036.050049, Update Interval: 358.439880
+[2025.03.12-18.20.18:290][831]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2431.096924
+[2025.03.12-18.20.19:289][834]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.12-18.20.19:290][834]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2431.763184, Update Interval: 345.384064
+[2025.03.12-18.20.44:832][910]LogViewport: Scene viewport resized to 1608x1418, mode Windowed.
+[2025.03.12-18.20.48:704][344]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.12-18.20.48:709][344]LogContentBundle: [TubesLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.12-18.20.48:709][344]LogWorldPartition: Display: GenerateStreaming for 'TubesLevel' started...
+[2025.03.12-18.20.48:711][344]LogWorldPartition: Display: GenerateStreaming for 'TubesLevel' took 1 ms (total: 7 ms)
+[2025.03.12-18.20.48:711][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.12-18.20.48:711][344]PIE: New page: PIE session: TubesLevel (12 Mar 2025, 18:20:48)
+[2025.03.12-18.20.48:711][344]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_TubesLevel
+[2025.03.12-18.20.48:716][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005283s)
+[2025.03.12-18.20.48:716][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/TubesLevel.TubesLevel to /Game/Scenes/UEDPIE_0_TubesLevel.TubesLevel (0.005316s)
+[2025.03.12-18.20.48:727][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.03.12-18.20.48:728][344]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.12-18.20.48:728][344]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.12-18.20.48:728][344]LogAIModule: Creating AISystem for world TubesLevel
+[2025.03.12-18.20.48:728][344]LogWorldPartition: ULevel::OnLevelLoaded(TubesLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.12-18.20.48:728][344]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.12-18.20.48:728][344]LogWorldPartition: UWorldPartition::Initialize : World = TubesLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.12-18.20.48:728][344]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.12-18.20.48:730][344]LogContentBundle: [TubesLevel(Standalone)] Creating new contrainer.
+[2025.03.12-18.20.48:730][344]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 392 ms)
+[2025.03.12-18.20.48:730][344]LogPlayLevel: PIE: World Init took: (0.002598s)
+[2025.03.12-18.20.48:730][344]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.03.12-18.20.48:730][344]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.12-18.20.48:730][344]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.12-18.20.48:730][344]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.12-18.20.48:730][344]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.12-18.20.48:730][344]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.12-18.20.48:730][344]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.12-18.20.48:730][344]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.12-18.20.48:730][344]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.12-18.20.48:731][344]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.12-18.20.48:731][344]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.12-18.20.48:731][344]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.12-18.20.48:733][344]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.12-18.20.48:744][344]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek USB2.0 Audio)
+[2025.03.12-18.20.48:744][344]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.12-18.20.48:744][344]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.12-18.20.48:744][344]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.12-18.20.48:745][344]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.03.12-18.20.48:745][344]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.03.12-18.20.48:746][344]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.03.12-18.20.48:746][344]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.03.12-18.20.48:746][344]LogInit: FAudioDevice initialized with ID 5.
+[2025.03.12-18.20.48:746][344]LogAudio: Display: Audio Device (ID: 5) registered with world 'TubesLevel'.
+[2025.03.12-18.20.48:746][344]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.03.12-18.20.48:749][344]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.12-18.20.48:751][344]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_TubesLevel.TubesLevel up for play (max tick rate 0) at 2025.03.12-18.20.48
+[2025.03.12-18.20.48:751][344]LogWorld: Bringing up level for play took: 0.002363
+[2025.03.12-18.20.48:753][344]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.03.12-18.20.48:755][344]PIE: Server logged in
+[2025.03.12-18.20.48:756][344]PIE: Play in editor total start time 0.046 seconds.
+[2025.03.12-18.20.51:397][569]LogBlueprintUserMessages: [Door_C_UAID_5C60BA76367F2D5402_1331954119] Closing doors
+[2025.03.12-18.20.54:322][839]LogBlueprintUserMessages: [Door_C_UAID_5C60BA76367F2D5402_1331954119] Closing doors
+[2025.03.12-18.20.56:168][ 14]LogBlueprintUserMessages: [Door_C_UAID_5C60BA76367F2D5402_1331954119] Closing doors
+[2025.03.12-18.20.59:077][275]LogBlueprintUserMessages: [Door_C_UAID_5C60BA76367F2D5402_1331954119] Closing doors
+[2025.03.12-18.21.03:280][636]LogBlueprintUserMessages: [Door_C_UAID_5C60BA76367F2D5402_1331954119] Closing doors
+[2025.03.12-18.21.10:426][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.12-18.21.10:426][282]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_TubesLevel
+[2025.03.12-18.21.10:426][282]LogWorld: UWorld::CleanupWorld for TubesLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.12-18.21.10:426][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.12-18.21.10:426][282]LogContentBundle: [TubesLevel(Standalone)] Deleting container.
+[2025.03.12-18.21.10:436][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.12-18.21.10:439][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.12-18.21.10:449][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.12-18.21.10:449][282]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.03.12-18.21.10:449][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.03.12-18.21.10:451][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.03.12-18.21.10:455][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.03.12-18.21.10:554][284]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.03.12-18.26.51:671][506]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2824.456299
+[2025.03.12-18.26.52:670][509]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.12-18.26.52:671][509]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2825.123291, Update Interval: 323.222137
+[2025.03.12-18.33.03:384][621]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3196.153809
+[2025.03.12-18.33.04:385][624]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.12-18.33.04:385][624]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3196.820557, Update Interval: 329.629211
+[2025.03.12-18.39.20:781][753]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3573.537598
+[2025.03.12-18.39.21:781][756]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.12-18.39.21:781][756]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3574.204102, Update Interval: 318.508850
+[2025.03.12-18.41.08:335][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2025.03.12-18.41.08:422][ 23]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.12-18.41.08:425][ 23]LogWorldPartition: ULevel::OnLevelLoaded(Level2)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.03.12-18.41.08:425][ 23]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.12-18.41.08:425][ 23]LogWorldPartition: UWorldPartition::Initialize : World = Level2, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.12-18.41.08:474][ 23]LogStaticMesh: Display: Building static mesh Boolean_09FFFA2A...
+[2025.03.12-18.41.08:500][ 23]LogLinker: Warning: [AssetLog] C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Content\__ExternalActors__\Levels\Level2\4\L0\W69L9872SNVKTPK6O60WVJ.uasset: Failed to load '/Game/FirstPerson/Maps/_GENERATED/Sneek/Boolean_09C09883': Can't find file.
+[2025.03.12-18.41.08:500][ 23]LogLinker: Warning: [AssetLog] C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Content\__ExternalActors__\Levels\Level2\4\L0\W69L9872SNVKTPK6O60WVJ.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/Maps/_GENERATED/Sneek/Boolean_09C09883'
+[2025.03.12-18.41.08:526][ 23]LogStaticMesh: Built static mesh [0.05s] /Game/Levels/_GENERATED/Sneek/Boolean_09FFFA2A.Boolean_09FFFA2A
+[2025.03.12-18.41.08:537][ 23]LogStaticMesh: Display: Building static mesh Boolean_09FFFA2A...
+[2025.03.12-18.41.08:584][ 23]LogStaticMesh: Built static mesh [0.05s] /Game/Levels/_GENERATED/Sneek/Boolean_09FFFA2A.Boolean_09FFFA2A
+[2025.03.12-18.41.08:625][ 23]LogBlueprint: Warning: [AssetLog] C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Content\DoorSystem\NextLevelLoader.uasset: [Compiler] Could not find a variable named "PlayerLevel" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get PlayerLevel
+[2025.03.12-18.41.08:625][ 23]LogBlueprint: Warning: [AssetLog] C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Content\DoorSystem\NextLevelLoader.uasset: [Compiler] Could not find a variable named "PlayerLevel" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get PlayerLevel
+[2025.03.12-18.41.08:625][ 23]LogBlueprint: Warning: [AssetLog] C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Content\DoorSystem\NextLevelLoader.uasset: [Compiler] Could not find a variable named "PlayerLevel" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get PlayerLevel
+[2025.03.12-18.41.08:625][ 23]LogBlueprint: Warning: [AssetLog] C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Content\DoorSystem\NextLevelLoader.uasset: [Compiler] Could not find a variable named "PlayerLevel" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get PlayerLevel
+[2025.03.12-18.41.08:625][ 23]LogBlueprint: Warning: [AssetLog] C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Content\DoorSystem\NextLevelLoader.uasset: [Compiler] Could not find a variable named "PlayerLevel" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Set PlayerLevel
+[2025.03.12-18.41.08:625][ 23]LogBlueprint: Warning: [AssetLog] C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Content\DoorSystem\NextLevelLoader.uasset: [Compiler] Could not find a variable named "PlayerLevel" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get PlayerLevel
+[2025.03.12-18.41.08:626][ 23]LogBlueprint: Error: [AssetLog] C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Content\DoorSystem\NextLevelLoader.uasset: [Compiler] The property associated with  Player Level  could not be found in '/Game/DoorSystem/NextLevelLoader.NextLevelLoader_C'
+[2025.03.12-18.41.08:626][ 23]LogBlueprint: Error: [AssetLog] C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Content\DoorSystem\NextLevelLoader.uasset: [Compiler] The property associated with  Player Level  could not be found in '/Game/DoorSystem/NextLevelLoader.NextLevelLoader_C'
+[2025.03.12-18.41.08:626][ 23]LogBlueprint: Error: [AssetLog] C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Content\DoorSystem\NextLevelLoader.uasset: [Compiler] The property associated with  Player Level  could not be found in '/Game/DoorSystem/NextLevelLoader.NextLevelLoader_C'
+[2025.03.12-18.41.08:626][ 23]LogBlueprint: Error: [AssetLog] C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Content\DoorSystem\NextLevelLoader.uasset: [Compiler] The property associated with  Player Level  could not be found in '/Game/DoorSystem/NextLevelLoader.NextLevelLoader_C'
+[2025.03.12-18.41.08:626][ 23]LogBlueprint: Error: [AssetLog] C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Content\DoorSystem\NextLevelLoader.uasset: [Compiler] The property associated with  Player Level  could not be found in '/Game/DoorSystem/NextLevelLoader.NextLevelLoader_C'
+[2025.03.12-18.41.08:626][ 23]LogBlueprint: Error: [AssetLog] C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Content\DoorSystem\NextLevelLoader.uasset: [Compiler] The property associated with  Player Level  could not be found in '/Game/DoorSystem/NextLevelLoader.NextLevelLoader_C'
+[2025.03.12-18.41.08:673][ 23]LogStaticMesh: Display: Building static mesh Cube...
+[2025.03.12-18.41.08:673][ 23]LogStaticMesh: Display: Building static mesh Cube_001...
+[2025.03.12-18.41.08:677][ 23]LogStaticMesh: Built static mesh [0.00s] /Game/ColorPillar/Cube_001.Cube_001
+[2025.03.12-18.41.08:678][ 23]LogStaticMesh: Built static mesh [0.01s] /Game/ColorPillar/Cube.Cube
+[2025.03.12-18.41.08:686][ 23]LogContentBundle: [Level2(Standalone)] Creating new contrainer.
+[2025.03.12-18.41.08:686][ 23]LogWorldPartition: Display: WorldPartition initialize took 259 ms (total: 652 ms)
+[2025.03.12-18.41.08:691][ 23]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level2.Level2
+[2025.03.12-18.41.08:691][ 23]Cmd: MAP LOAD FILE="../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.12-18.41.08:691][ 23]LightingResults: New page: Lighting Build
+[2025.03.12-18.41.08:691][ 23]LoadErrors: New page: Loading map: Level2.umap
+[2025.03.12-18.41.08:705][ 23]LogWorld: UWorld::CleanupWorld for TubesLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.12-18.41.08:705][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.12-18.41.08:706][ 23]LogContentBundle: [TubesLevel(Standalone)] Deleting container.
+[2025.03.12-18.41.08:706][ 23]MapCheck: New page: Map Check
+[2025.03.12-18.41.08:706][ 23]LightingResults: New page: Lighting Build
+[2025.03.12-18.41.08:717][ 23]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.12-18.41.08:724][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.03.12-18.41.08:725][ 23]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.03.12-18.41.08:726][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.12-18.41.08:726][ 23]LogContentBundle: [Level2(Standalone)] Deleting container.
+[2025.03.12-18.41.08:737][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.03.12-18.41.08:747][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.03.12-18.41.08:754][ 23]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2025.03.12-18.41.08:754][ 23]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.12-18.41.08:754][ 23]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.12-18.41.08:755][ 23]LogAIModule: Creating AISystem for world Level2
+[2025.03.12-18.41.08:755][ 23]LogWorldPartition: ULevel::OnLevelLoaded(Level2)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.03.12-18.41.08:755][ 23]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.12-18.41.08:755][ 23]LogWorldPartition: UWorldPartition::Initialize : World = Level2, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.12-18.41.08:788][ 23]LogContentBundle: [Level2(Standalone)] Creating new contrainer.
+[2025.03.12-18.41.08:788][ 23]LogWorldPartition: Display: WorldPartition initialize took 33 ms (total: 685 ms)
+[2025.03.12-18.41.08:815][ 23]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.12-18.41.08:827][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.03.12-18.41.08:830][ 23]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.12-18.41.08:830][ 23]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.237ms to complete.
+[2025.03.12-18.41.09:678][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.12-18.41.09:774][ 89]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.12-18.41.09:779][ 89]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.03.12-18.41.09:779][ 89]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.12-18.41.09:779][ 89]LogWorldPartition: UWorldPartition::Initialize : World = Level1, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.12-18.41.10:032][ 89]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2025.03.12-18.41.10:032][ 89]LogWorldPartition: Display: WorldPartition initialize took 253 ms (total: 938 ms)
+[2025.03.12-18.41.10:039][ 89]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level1.Level1
+[2025.03.12-18.41.10:039][ 89]Cmd: MAP LOAD FILE="../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.12-18.41.10:040][ 89]LightingResults: New page: Lighting Build
+[2025.03.12-18.41.10:040][ 89]LoadErrors: New page: Loading map: Level1.umap
+[2025.03.12-18.41.10:085][ 89]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.03.12-18.41.10:085][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.12-18.41.10:085][ 89]LogContentBundle: [Level2(Standalone)] Deleting container.
+[2025.03.12-18.41.10:085][ 89]MapCheck: New page: Map Check
+[2025.03.12-18.41.10:086][ 89]LightingResults: New page: Lighting Build
+[2025.03.12-18.41.10:098][ 89]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.12-18.41.10:102][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.03.12-18.41.10:103][ 89]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.03.12-18.41.10:103][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.12-18.41.10:104][ 89]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2025.03.12-18.41.10:117][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.03.12-18.41.10:128][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.03.12-18.41.10:139][ 89]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2025.03.12-18.41.10:139][ 89]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.12-18.41.10:139][ 89]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.12-18.41.10:139][ 89]LogAIModule: Creating AISystem for world Level1
+[2025.03.12-18.41.10:140][ 89]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.03.12-18.41.10:140][ 89]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.12-18.41.10:140][ 89]LogWorldPartition: UWorldPartition::Initialize : World = Level1, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.12-18.41.10:177][ 89]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2025.03.12-18.41.10:177][ 89]LogWorldPartition: Display: WorldPartition initialize took 36 ms (total: 975 ms)
+[2025.03.12-18.41.10:214][ 89]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.12-18.41.10:231][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.03.12-18.41.10:235][ 89]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.12-18.41.10:236][ 89]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.239ms to complete.
+[2025.03.12-18.41.11:864][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.12-18.41.12:058][257]LogTexture: Display: Building textures: /Game/Materials/Textures/Earth2.Earth2 (TFO_AutoDXT, 8192x4096 x1x1x1) (Required Memory Estimate: 2304.062468 MB), EncodeSpeed: Fast
+[2025.03.12-18.41.12:418][257]LogStaticMesh: Display: Building static mesh Boolean_A8FB6848...
+[2025.03.12-18.41.12:420][257]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/w1993975/Boolean_A8FB6848.Boolean_A8FB6848
+[2025.03.12-18.41.12:420][257]LogStaticMesh: Display: Building static mesh Boolean_A8FB6848...
+[2025.03.12-18.41.12:422][257]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/w1993975/Boolean_A8FB6848.Boolean_A8FB6848
+[2025.03.12-18.41.12:422][257]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.12-18.41.12:427][257]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level3.Level3
+[2025.03.12-18.41.12:427][257]Cmd: MAP LOAD FILE="../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.12-18.41.12:427][257]LightingResults: New page: Lighting Build
+[2025.03.12-18.41.12:427][257]LoadErrors: New page: Loading map: Level3.umap
+[2025.03.12-18.41.12:478][257]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.03.12-18.41.12:479][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.12-18.41.12:483][257]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2025.03.12-18.41.12:483][257]MapCheck: New page: Map Check
+[2025.03.12-18.41.12:483][257]LightingResults: New page: Lighting Build
+[2025.03.12-18.41.12:492][257]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.12-18.41.12:496][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.03.12-18.41.12:780][257]LogDerivedDataCache: C:/Users/milor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/milor/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/31/35/60876d08794e89174b12f4b385aac22d27c6.udd from '/Game/Levels/_GENERATED/w1993975/Boolean_A8FB6848.Boolean_A8FB6848'.
+[2025.03.12-18.41.12:801][257]LogDerivedDataCache: C:/Users/milor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/milor/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/af/6a/5025e18e423f18140b4601de86d66e21fd95.udd from '/Game/Levels/_GENERATED/w1993975/Boolean_A8FB6848.Boolean_A8FB6848'.
+[2025.03.12-18.41.12:802][257]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.03.12-18.41.12:803][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.12-18.41.12:814][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.03.12-18.41.12:825][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.03.12-18.41.12:830][257]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level3'.
+[2025.03.12-18.41.12:831][257]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.12-18.41.12:831][257]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.12-18.41.12:831][257]LogAIModule: Creating AISystem for world Level3
+[2025.03.12-18.41.12:896][257]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.12-18.41.12:908][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.03.12-18.41.12:910][257]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.12-18.41.12:910][257]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.091ms to complete.
+[2025.03.12-18.41.13:993][357]LogShaderCompilers: Display: ================================================
+[2025.03.12-18.41.13:993][357]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.12-18.41.13:993][357]LogShaderCompilers: Display: Total job queries 50, among them cache hits 20 (40.00%)
+[2025.03.12-18.41.13:993][357]LogShaderCompilers: Display: Tracking 24 distinct input hashes that result in 19 distinct outputs (79.17%)
+[2025.03.12-18.41.13:993][357]LogShaderCompilers: Display: RAM used: 507.81 KiB of 1.60 GiB budget. Usage: 0.03%
+[2025.03.12-18.41.13:993][357]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.12-18.41.13:993][357]LogShaderCompilers: Display: Shaders Compiled: 2
+[2025.03.12-18.41.13:993][357]LogShaderCompilers: Display: Jobs assigned 8, completed 2 (25.00%)
+[2025.03.12-18.41.13:993][357]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.09 s
+[2025.03.12-18.41.13:993][357]LogShaderCompilers: Display: Job execution time: average 0.95 s, max 0.95 s
+[2025.03.12-18.41.13:993][357]LogShaderCompilers: Display: Job life time (pending + execution): average 1.03 s, max 1.03
+[2025.03.12-18.41.13:993][357]LogShaderCompilers: Display: Shader code size: average 30.824 KiB, min 29.773 KiB, max 31.875 KiB
+[2025.03.12-18.41.13:993][357]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.03 s
+[2025.03.12-18.41.13:993][357]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.12-18.41.13:993][357]LogShaderCompilers: Display: Average processing rate: 1.94 jobs/sec
+[2025.03.12-18.41.13:993][357]LogShaderCompilers: Display: Total thread time: 0.818 s
+[2025.03.12-18.41.13:993][357]LogShaderCompilers: Display: Total thread preprocess time: 0.697 s
+[2025.03.12-18.41.13:993][357]LogShaderCompilers: Display: Percentage time preprocessing: 85.17%
+[2025.03.12-18.41.13:993][357]LogShaderCompilers: Display: Effective parallelization: 0.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.03.12-18.41.13:993][357]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2025.03.12-18.41.13:993][357]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.41 sec, max 0.42 sec, min 0.40 sec)
+[2025.03.12-18.41.13:993][357]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2025.03.12-18.41.13:993][357]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    2 times, average 0.41 sec, max 0.42 sec, min 0.40 sec)
+[2025.03.12-18.41.13:993][357]LogShaderCompilers: Display: ================================================
