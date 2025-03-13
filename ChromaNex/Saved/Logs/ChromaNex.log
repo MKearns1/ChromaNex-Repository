@@ -1434,3 +1434,192 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2025.03.13-13.59.50:698][760]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 129 ms)
 [2025.03.13-13.59.50:699][760]AssetCheck: New page: Asset Save: TutorialLevel
 [2025.03.13-13.59.50:699][760]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/TutorialLevel.TutorialLevel
+[2025.03.13-14.01.00:382][385]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display: ================================================
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display: Total job queries 3,855, among them cache hits 61 (1.58%)
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display: Tracking 3,781 distinct input hashes that result in 2,709 distinct outputs (71.65%)
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display: RAM used: 70.01 MiB of 3.20 GiB budget. Usage: 2.14%
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display: Shaders Compiled: 3,781
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display: Jobs assigned 3,783, completed 3,781 (99.95%)
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display: Average time worker was idle: 13.37 s
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display: Time job spent in pending queue: average 44.57 s, longest 100.09 s
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display: Job execution time: average 2.17 s, max 7.68 s
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display: Job life time (pending + execution): average 46.76 s, max 102.62
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display: Shader code size: average 38.146 KiB, min 2.086 KiB, max 162.84 KiB
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 120.38 s
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display: Jobs were issued in 548 batches (only local compilation was used), average 6.90 jobs/batch
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display: Average processing rate: 31.41 jobs/sec
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display: Total thread time: 858.172 s
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display: Total thread preprocess time: 61.634 s
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display: Percentage time preprocessing: 7.18%
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display: Effective parallelization: 7.13 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.07 sec, max 5.43 sec, min 0.97 sec)
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 2.75 sec, max 3.65 sec, min 2.06 sec)
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 0.99 sec, max 1.87 sec, min 0.55 sec)
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  134 times, average 0.78 sec, max 1.07 sec, min 0.63 sec)
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 0.77 sec, max 0.77 sec, min 0.77 sec)
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.11% of total time (compiled  134 times, average 0.78 sec, max 1.07 sec, min 0.63 sec)
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.60% of total time (compiled   96 times, average 0.50 sec, max 0.83 sec, min 0.31 sec)
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.60% of total time (compiled   96 times, average 0.41 sec, max 0.63 sec, min 0.10 sec)
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.06% of total time (compiled  128 times, average 0.27 sec, max 0.52 sec, min 0.09 sec)
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 3.96% of total time (compiled  128 times, average 0.27 sec, max 0.57 sec, min 0.19 sec)
+[2025.03.13-14.01.00:738][423]LogShaderCompilers: Display: ================================================
+[2025.03.13-14.01.00:879][429]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.13-14.01.01:028][435]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.13-14.07.11:861][416]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.13-14.07.11:867][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.13-14.07.11:867][416]PIE: New page: PIE session: TutorialLevel (13 Mar 2025, 14:07:11)
+[2025.03.13-14.07.11:871][416]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.03.13-14.07.11:871][416]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.03.13-14.07.11:871][416]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TutorialLevel
+[2025.03.13-14.07.11:873][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002433s)
+[2025.03.13-14.07.11:873][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TutorialLevel.TutorialLevel to /Game/Levels/UEDPIE_0_TutorialLevel.TutorialLevel (0.002478s)
+[2025.03.13-14.07.11:879][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.03.13-14.07.11:880][416]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.13-14.07.11:880][416]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.13-14.07.11:881][416]LogAIModule: Creating AISystem for world TutorialLevel
+[2025.03.13-14.07.11:881][416]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2025.03.13-14.07.11:881][416]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.03.13-14.07.11:881][416]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.13-14.07.11:881][416]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.13-14.07.11:881][416]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.13-14.07.11:881][416]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.13-14.07.11:881][416]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.13-14.07.11:881][416]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.13-14.07.11:881][416]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.13-14.07.11:881][416]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.13-14.07.11:882][416]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.13-14.07.11:882][416]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.13-14.07.11:882][416]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.13-14.07.11:883][416]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.13-14.07.11:917][416]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.13-14.07.11:917][416]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.13-14.07.11:917][416]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.13-14.07.11:917][416]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.13-14.07.11:918][416]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.03.13-14.07.11:918][416]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.03.13-14.07.11:919][416]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.03.13-14.07.11:919][416]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.03.13-14.07.11:919][416]LogInit: FAudioDevice initialized with ID 2.
+[2025.03.13-14.07.11:919][416]LogAudio: Display: Audio Device (ID: 2) registered with world 'TutorialLevel'.
+[2025.03.13-14.07.11:919][416]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.03.13-14.07.11:922][416]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.13-14.07.11:923][416]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2025.03.13-14.07.11
+[2025.03.13-14.07.11:923][416]LogWorld: Bringing up level for play took: 0.001050
+[2025.03.13-14.07.11:925][416]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.03.13-14.07.11:929][416]LogScript: Warning: Accessed None trying to read property PressurePlateSystem
+	Door_C /Game/Levels/UEDPIE_0_TutorialLevel.TutorialLevel:PersistentLevel.Door_C_1
+	Function /Game/DoorSystem/Door.Door_C:ExecuteUbergraph_Door:0441
+[2025.03.13-14.07.11:929][416]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PressurePlateSystem". Node:  Bind Event to Close Doors Graph:  EventGraph Function:  Execute Ubergraph Door Blueprint:  Door
+[2025.03.13-14.07.11:929][416]LogScript: Warning: Accessed None trying to read property PressurePlateSystem
+	Door_C /Game/Levels/UEDPIE_0_TutorialLevel.TutorialLevel:PersistentLevel.Door_C_1
+	Function /Game/DoorSystem/Door.Door_C:ExecuteUbergraph_Door:0483
+[2025.03.13-14.07.11:929][416]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PressurePlateSystem". Node:  Bind Event to Open Doors Graph:  EventGraph Function:  Execute Ubergraph Door Blueprint:  Door
+[2025.03.13-14.07.11:929][416]PIE: Server logged in
+[2025.03.13-14.07.11:930][416]PIE: Play in editor total start time 0.063 seconds.
+[2025.03.13-14.07.23:864][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.13-14.07.23:864][826]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TutorialLevel
+[2025.03.13-14.07.23:864][826]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.13-14.07.23:864][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.13-14.07.23:866][826]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.13-14.07.23:868][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.13-14.07.23:871][826]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.13-14.07.23:871][826]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.03.13-14.07.23:871][826]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.03.13-14.07.23:872][826]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.03.13-14.07.23:877][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.13-14.07.23:878][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.13-14.07.23:957][827]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.03.13-14.07.27:636][221]LogSlate: Window 'Message Log' being destroyed
+[2025.03.13-14.07.27:648][221]LogSlate: Window 'Message Log' being destroyed
+[2025.03.13-14.07.38:101][235]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.13-14.07.38:107][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.13-14.07.38:107][235]PIE: New page: PIE session: TutorialLevel (13 Mar 2025, 14:07:38)
+[2025.03.13-14.07.38:144][235]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TutorialLevel
+[2025.03.13-14.07.38:147][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002932s)
+[2025.03.13-14.07.38:147][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TutorialLevel.TutorialLevel to /Game/Levels/UEDPIE_0_TutorialLevel.TutorialLevel (0.002970s)
+[2025.03.13-14.07.38:150][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.13-14.07.38:151][235]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.13-14.07.38:151][235]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.13-14.07.38:152][235]LogAIModule: Creating AISystem for world TutorialLevel
+[2025.03.13-14.07.38:152][235]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2025.03.13-14.07.38:152][235]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.03.13-14.07.38:152][235]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.13-14.07.38:152][235]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.13-14.07.38:152][235]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.13-14.07.38:152][235]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.13-14.07.38:152][235]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.13-14.07.38:152][235]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.13-14.07.38:152][235]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.13-14.07.38:152][235]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.13-14.07.38:152][235]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.13-14.07.38:152][235]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.13-14.07.38:152][235]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.13-14.07.38:154][235]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.13-14.07.38:182][235]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.13-14.07.38:182][235]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.13-14.07.38:182][235]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.13-14.07.38:182][235]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.13-14.07.38:183][235]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.03.13-14.07.38:183][235]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.03.13-14.07.38:184][235]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.03.13-14.07.38:184][235]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.03.13-14.07.38:184][235]LogInit: FAudioDevice initialized with ID 3.
+[2025.03.13-14.07.38:184][235]LogAudio: Display: Audio Device (ID: 3) registered with world 'TutorialLevel'.
+[2025.03.13-14.07.38:184][235]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.03.13-14.07.38:187][235]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.13-14.07.38:188][235]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2025.03.13-14.07.38
+[2025.03.13-14.07.38:188][235]LogWorld: Bringing up level for play took: 0.000986
+[2025.03.13-14.07.38:189][235]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.03.13-14.07.38:191][235]LogScript: Warning: Accessed None trying to read property PressurePlateSystem
+	Door_C /Game/Levels/UEDPIE_0_TutorialLevel.TutorialLevel:PersistentLevel.Door_C_1
+	Function /Game/DoorSystem/Door.Door_C:ExecuteUbergraph_Door:0441
+[2025.03.13-14.07.38:191][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PressurePlateSystem". Node:  Bind Event to Close Doors Graph:  EventGraph Function:  Execute Ubergraph Door Blueprint:  Door
+[2025.03.13-14.07.38:191][235]LogScript: Warning: Accessed None trying to read property PressurePlateSystem
+	Door_C /Game/Levels/UEDPIE_0_TutorialLevel.TutorialLevel:PersistentLevel.Door_C_1
+	Function /Game/DoorSystem/Door.Door_C:ExecuteUbergraph_Door:0483
+[2025.03.13-14.07.38:191][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PressurePlateSystem". Node:  Bind Event to Open Doors Graph:  EventGraph Function:  Execute Ubergraph Door Blueprint:  Door
+[2025.03.13-14.07.38:191][235]PIE: Server logged in
+[2025.03.13-14.07.38:192][235]PIE: Play in editor total start time 0.085 seconds.
+[2025.03.13-14.07.45:164][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.13-14.07.45:164][ 55]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TutorialLevel
+[2025.03.13-14.07.45:164][ 55]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.13-14.07.45:164][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.13-14.07.45:166][ 55]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.13-14.07.45:168][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.13-14.07.45:171][ 55]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.13-14.07.45:171][ 55]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.03.13-14.07.45:171][ 55]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.03.13-14.07.45:172][ 55]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.03.13-14.07.45:176][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.13-14.07.45:178][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.03.13-14.07.45:263][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.03.13-14.09.17:861][583]LogSlate: Window 'Message Log' being destroyed
+[2025.03.13-14.09.17:873][583]LogSlate: Window 'Message Log' being destroyed
+[2025.03.13-14.10.22:493][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.13-14.10.22:508][478]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/TutorialLevel_Auto1
+[2025.03.13-14.10.22:508][478]LogSavePackage: Moving '../../../../../../Users/w1983319/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/TutorialLevel_Auto13CF544CB44206F26BB00D98462C2B709.tmp' to '../../../../../../Users/w1983319/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/Levels/TutorialLevel_Auto1.umap'
+[2025.03.13-14.10.22:509][478]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/w1983319/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/Levels/TutorialLevel_Auto1.umap is in the /Temp path, will not scan.
+[2025.03.13-14.10.22:509][478]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Levels/TutorialLevel_Auto1 is in the /Temp path, will not scan.
+[2025.03.13-14.10.22:509][478]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Levels/TutorialLevel_Auto1 is in the /Temp path, will not scan.
+[2025.03.13-14.10.22:509][478]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TutorialLevel' took 0.019
+[2025.03.13-14.10.22:509][478]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2025.03.13-14.11.38:149][834]Cmd: POLY SELECT ALL
+[2025.03.13-14.11.48:410][ 60]Cmd: TRANSACTION UNDO
+[2025.03.13-14.11.48:410][ 60]LogEditorTransaction: Undo Clicking on Elements
+[2025.03.13-14.11.49:646][171]Cmd: TRANSACTION UNDO
+[2025.03.13-14.11.49:646][171]LogEditorTransaction: Undo Select All
+[2025.03.13-14.11.52:159][455]Cmd: TRANSACTION UNDO
+[2025.03.13-14.11.52:159][455]LogEditorTransaction: Undo Clicking on Elements
+[2025.03.13-14.11.54:970][748]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.13-14.11.55:009][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.03.13-14.11.55:022][748]LogSavePackage: Moving output files for package: /Game/Levels/TutorialLevel
+[2025.03.13-14.11.55:023][748]LogSavePackage: Moving '../../../../../../Users/w1983319/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/TutorialLevelAE666A0F45A147B15EED2488F92A000A.tmp' to '../../../../../../Users/w1983319/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/TutorialLevel.umap'
+[2025.03.13-14.11.55:028][748]LogFileHelpers: Saving map 'TutorialLevel' took 0.037
+[2025.03.13-14.11.55:034][748]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 193 ms)
+[2025.03.13-14.11.55:036][748]AssetCheck: New page: Asset Save: TutorialLevel
+[2025.03.13-14.11.55:036][748]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/TutorialLevel.TutorialLevel
