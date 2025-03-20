@@ -1515,18 +1515,3 @@ Script Stack (0 frames) :
 [2025.03.20-14.39.12:743][836]LogOutputDevice: Error: [Callstack] 0x00007ffb045c7374 KERNEL32.DLL!UnknownFunction []
 [2025.03.20-14.39.12:743][836]LogOutputDevice: Error: [Callstack] 0x00007ffb052fcc91 ntdll.dll!UnknownFunction []
 [2025.03.20-14.39.12:743][836]LogOutputDevice: Error: 
-[2025.03.20-14.39.12:753][836]LogStats:                SubmitErrorReport -  0.000 s
-[2025.03.20-14.39.16:797][836]LogStats:                    SendNewReport -  4.044 s
-[2025.03.20-14.39.16:797][836]LogStats:             FDebug::EnsureFailed -  4.088 s
-[2025.03.20-14.40.11:084][826]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_StaticBlocks.BP_StaticBlocks
-[2025.03.20-14.40.11:084][826]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
-[2025.03.20-14.40.11:084][826]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
-[2025.03.20-14.40.31:781][108]BlueprintLog: New page: Compile BP_FirstPersonProjectile
-[2025.03.20-14.40.31:807][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
-[2025.03.20-14.40.34:719][409]LogSlate: Window 'BP_StaticBlocks' being destroyed
-[2025.03.20-14.40.34:723][409]LogSlate: Window 'BP_StaticBlocks' being destroyed
-[2025.03.20-14.40.34:754][409]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
-[2025.03.20-14.40.34:754][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2025.03.20-14.40.34:778][409]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
-[2025.03.20-14.40.34:778][409]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
-[2025.03.20-14.40.34:778][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
