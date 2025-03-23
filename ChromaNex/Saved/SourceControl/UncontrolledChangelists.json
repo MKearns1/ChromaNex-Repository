@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/UI/Crosshair.uasset",
+				"C:/Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Blueprints/BP_VelocityTrigger.uasset",
 				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
 				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Scenes/TubesLevel/A/Z9/3M8MFQC8XX2URDBSPR9208.uasset",
