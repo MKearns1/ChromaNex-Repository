@@ -6,7 +6,24 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Blueprints/BP_VelocityTrigger.uasset",
-				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset"
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Scenes/TubesLevel/A/Z9/3M8MFQC8XX2URDBSPR9208.uasset",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Scenes/TubesLevel/2/3S/I5D7Y9BFOXM877RKR1PM62.uasset",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Scenes/TubesLevel/1/YM/BREMRIS0NZ4RS7RJ429JKL.uasset",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Scenes/TubesLevel/1/KD/RNZOYSPZW9V3GFV7LBQ8ID.uasset",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_PlayerInteraction.uasset",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Interfaces/BPI_PlayerInteractable.uasset",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Cube/BP_Cube.uasset",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/PressurePlateSystem/BP_PressurePlateSystem2.uasset",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Button/BP_PedestalButton.uasset",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Scenes/TubesLevel/0/HA/H3OZ1GVU3U2KM308714D7C.uasset",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Scenes/TubesLevel/6/2Y/1P2YYW7KB27K41ZR1YGSOR.uasset",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Scenes/TubesLevel/9/S8/PC74H9J2238MIYWHB6JA4X.uasset",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Scenes/TubesLevel/1/NA/HCXBXOXXL2JO59PIM3AHR2.uasset",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/BPI_ColourProperties.uasset",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Scenes/TubesLevel/8/V0/74WF6RE0T4073EEI4UY2VB.uasset",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_FloorDetector.uasset"
 			]
 		}
 	]
