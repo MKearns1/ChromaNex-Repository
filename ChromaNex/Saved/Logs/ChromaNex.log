@@ -1620,3 +1620,41 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.24-11.00.51:576][ 98]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2445.090332
 [2025.03.24-11.00.52:577][101]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.03.24-11.00.52:577][101]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2445.757324, Update Interval: 336.891388
+[2025.03.24-11.01.26:965][549]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ColorPillar/ColorPillar.ColorPillar
+[2025.03.24-11.01.26:966][549]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.24-11.01.26:966][549]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.24-11.01.29:896][584]LogViewport: Scene viewport resized to 1141x891, mode Windowed.
+[2025.03.24-11.01.34:597][642]LogSlate: Window 'ColorPillar' being destroyed
+[2025.03.24-11.01.34:686][642]LogSlate: Window 'ColorPillar' being destroyed
+[2025.03.24-11.01.34:696][642]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-11.01.34:696][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-11.01.46:111][946]Cmd: DELETE
+[2025.03.24-11.01.46:111][946]Cmd: ACTOR DELETE
+[2025.03.24-11.01.46:114][946]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.24-11.01.46:116][946]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.24-11.01.46:147][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.03.24-11.01.46:154][946]LogEditorActor: Deleted 2 Actors (0.043 secs)
+[2025.03.24-11.01.48:930][  9]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ColorPillar/ColorPillar.ColorPillar_C
+[2025.03.24-11.01.48:930][  9]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ColorPillar/ColorPillar.ColorPillar_C
+[2025.03.24-11.01.48:933][  9]LogActorFactory: Actor Factory spawned Blueprint /Game/ColorPillar/ColorPillar.ColorPillar as actor: ColorPillar_C /Game/Levels/level4.level4:PersistentLevel.ColorPillar_C_4
+[2025.03.24-11.01.48:934][  9]LogActorFactory: Actor Factory spawned Blueprint /Game/ColorPillar/ColorPillar.ColorPillar as actor: ColorPillar_C /Game/Levels/level4.level4:PersistentLevel.ColorPillar_C_4
+[2025.03.24-11.01.50:952][ 68]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ColorPillar/ColorPillar.ColorPillar_C
+[2025.03.24-11.01.50:952][ 68]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ColorPillar/ColorPillar.ColorPillar_C
+[2025.03.24-11.01.50:955][ 68]LogActorFactory: Actor Factory spawned Blueprint /Game/ColorPillar/ColorPillar.ColorPillar as actor: ColorPillar_C /Game/Levels/level4.level4:PersistentLevel.ColorPillar_C_5
+[2025.03.24-11.01.50:957][ 68]LogActorFactory: Actor Factory spawned Blueprint /Game/ColorPillar/ColorPillar.ColorPillar as actor: ColorPillar_C /Game/Levels/level4.level4:PersistentLevel.ColorPillar_C_5
+[2025.03.24-11.02.20:267][922]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-11.02.20:542][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.03.24-11.02.20:572][922]LogSavePackage: Moving output files for package: /Game/Levels/level4
+[2025.03.24-11.02.20:572][922]LogSavePackage: Moving '../../../../../../Users/seemo/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/level4DC2AA65A453FAE9B869830A5B6B44254.tmp' to '../../../../../../Users/seemo/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/level4.umap'
+[2025.03.24-11.02.20:583][922]LogFileHelpers: Saving map 'level4' took 0.098
+[2025.03.24-11.02.20:634][922]LogFileHelpers: InternalPromptForCheckoutAndSave took 368 ms (total: 2.88 sec)
+[2025.03.24-11.02.20:636][922]AssetCheck: New page: Asset Save: level4
+[2025.03.24-11.02.20:636][922]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/level4.level4
+[2025.03.24-11.02.29:093][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-11.02.29:347][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.03.24-11.02.29:371][182]LogSavePackage: Moving output files for package: /Game/Levels/level4
+[2025.03.24-11.02.29:372][182]LogSavePackage: Moving '../../../../../../Users/seemo/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/level438A800D7475F76BCE18B02A20EF78611.tmp' to '../../../../../../Users/seemo/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/level4.umap'
+[2025.03.24-11.02.29:381][182]LogFileHelpers: Saving map 'level4' took 0.086
+[2025.03.24-11.02.29:429][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 336 ms (total: 3.21 sec)
+[2025.03.24-11.02.29:431][182]AssetCheck: New page: Asset Save: level4
+[2025.03.24-11.02.29:431][182]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/level4.level4
