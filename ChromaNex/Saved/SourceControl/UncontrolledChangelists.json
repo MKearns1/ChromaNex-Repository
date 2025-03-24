@@ -6,6 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/w1983319/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Blueprints/BP_StaticBlocks.uasset",
+				"C:/Users/w1983319/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Blueprints/PauseMenu.uasset",
+				"C:/Users/w1983319/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/w1983319/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/TutorialLevel.umap",
+				"C:/Users/w1983319/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/w1983319/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/IA_Pause.uasset",
 				"C:/Users/W1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Cube/BP_Cube.uasset",
 				"C:/Users/W1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Scenes/TubesLevel/3/FY/Q5RXXHIKDFHNM46RP5DWAO.uasset",
 				"C:/Temp/Github/Chromanex/ChromaNex-Repository/ChromaNex/Content/Button/PedestalButton_Cylinder_004.uasset",
