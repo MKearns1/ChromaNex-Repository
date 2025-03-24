@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/w1983319/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/TutorialLevel.umap",
+				"C:/Users/w1983319/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/w1983319/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/IA_Pause.uasset",
+				"C:/Users/w1983319/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/IA_Pause.uasset",
+				"C:/Users/w1983319/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Input/Actions/IA_Pause.uasset",
 				"C:/Users/aknig/OneDrive/Documents/ChromaNex-Repository/ChromaNex/Content/Levels/Level3.umap",
 				"/Users/talmonguedes/Documents/ChromaNex-Repository/ChromaNex/Content/UI/Crosshair.uasset",
 				"/Users/talmonguedes/Documents/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
