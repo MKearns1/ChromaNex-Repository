@@ -6057,3 +6057,808 @@ Scale3D: 1.000000 1.000000 1.000000
 [2025.03.25-12.06.31:262][797]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
 [2025.03.25-12.06.31:270][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
 [2025.03.25-12.06.31:308][798]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.03.25-12.12.01:632][394]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile
+[2025.03.25-12.12.01:632][394]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.25-12.12.01:633][394]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.25-12.12.53:748][ 70]Cmd: TRANSACTION UNDO
+[2025.03.25-12.12.53:748][ 70]LogEditorTransaction: Undo Add Variable
+[2025.03.25-12.13.56:310][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.03.25-12.13.56:311][111]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level3' took 0.016
+[2025.03.25-12.13.56:312][111]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Weapon_Component] ([2] browsable assets)...
+[2025.03.25-12.13.56:312][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Weapon_Component]
+[2025.03.25-12.13.56:333][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_Weapon_Component_Auto1
+[2025.03.25-12.13.56:334][111]LogSavePackage: Moving '../../../../../../Users/w1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_Weapon_Component_Auto1FF6A06764E62DBB94DFF2B9963C1500B.tmp' to '../../../../../../Users/w1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Weapon_Component_Auto1.uasset'
+[2025.03.25-12.13.56:335][111]LogFileHelpers: Auto-saving content packages took 0.023
+[2025.03.25-12.15.34:385][629]BlueprintLog: New page: Compile BP_Weapon_Component
+[2025.03.25-12.15.34:426][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.03.25-12.15.36:400][727]LogSlate: Took 0.005097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.03.25-12.16.57:195][940]BlueprintLog: New page: Compile BP_Weapon_Component
+[2025.03.25-12.16.57:240][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.03.25-12.16.57:867][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.25-12.16.57:954][969]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2025.03.25-12.16.57:954][969]LogSavePackage: Moving '../../../../../../Users/w1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_Weapon_Component9C4512EA49B11339460AA3B9039A8C97.tmp' to '../../../../../../Users/w1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2025.03.25-12.16.57:961][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 2.71 sec)
+[2025.03.25-12.16.57:962][969]AssetCheck: New page: Asset Save: BP_Weapon_Component
+[2025.03.25-12.16.57:962][969]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2025.03.25-12.17.10:897][641]BlueprintLog: New page: Compile BP_Weapon_Component
+[2025.03.25-12.17.10:944][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.03.25-12.17.11:456][664]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.25-12.17.11:571][664]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2025.03.25-12.17.11:571][664]LogSavePackage: Moving '../../../../../../Users/w1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_Weapon_ComponentDADFBA3C49738552886E17BA3345ACCE.tmp' to '../../../../../../Users/w1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2025.03.25-12.17.11:577][664]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 2.83 sec)
+[2025.03.25-12.17.11:579][664]AssetCheck: New page: Asset Save: BP_Weapon_Component
+[2025.03.25-12.17.11:579][664]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2025.03.25-12.17.13:491][767]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.25-12.17.13:499][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.25-12.17.13:499][767]PIE: New page: PIE session: Level3 (25 Mar 2025, 12:17:13)
+[2025.03.25-12.17.13:499][767]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level3
+[2025.03.25-12.17.13:505][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005237s)
+[2025.03.25-12.17.13:505][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level3.Level3 to /Game/Levels/UEDPIE_0_Level3.Level3 (0.005264s)
+[2025.03.25-12.17.13:513][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.03.25-12.17.13:514][767]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.25-12.17.13:514][767]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.25-12.17.13:514][767]LogAIModule: Creating AISystem for world Level3
+[2025.03.25-12.17.13:514][767]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2025.03.25-12.17.13:515][767]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.03.25-12.17.13:515][767]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.25-12.17.13:515][767]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.25-12.17.13:515][767]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.25-12.17.13:515][767]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.25-12.17.13:515][767]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.25-12.17.13:515][767]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.25-12.17.13:515][767]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.25-12.17.13:515][767]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.25-12.17.13:515][767]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.25-12.17.13:515][767]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.25-12.17.13:515][767]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.25-12.17.13:517][767]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.25-12.17.13:565][767]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.25-12.17.13:565][767]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.25-12.17.13:565][767]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.25-12.17.13:565][767]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.25-12.17.13:566][767]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.03.25-12.17.13:566][767]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.03.25-12.17.13:568][767]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.03.25-12.17.13:568][767]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.03.25-12.17.13:568][767]LogInit: FAudioDevice initialized with ID 21.
+[2025.03.25-12.17.13:568][767]LogAudio: Display: Audio Device (ID: 21) registered with world 'Level3'.
+[2025.03.25-12.17.13:568][767]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.03.25-12.17.13:570][767]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.25-12.17.13:572][767]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2025.03.25-12.17.13
+[2025.03.25-12.17.13:572][767]LogWorld: Bringing up level for play took: 0.001906
+[2025.03.25-12.17.13:573][767]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.03.25-12.17.13:575][767]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.17.13:575][767]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.17.13:576][767]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.17.13:576][767]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.17.13:576][767]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.17.13:576][767]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.17.13:576][767]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.17.13:576][767]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.17.13:576][767]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.17.13:576][767]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.17.13:576][767]PIE: Server logged in
+[2025.03.25-12.17.13:576][767]PIE: Play in editor total start time 0.077 seconds.
+[2025.03.25-12.17.21:204][ 94]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.21:204][ 94]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.21:204][ 94]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.21:204][ 94]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.21:204][ 94]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.23:310][203]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.23:310][203]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.23:310][203]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.23:310][203]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.23:310][203]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.24:765][282]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.24:765][282]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.24:765][282]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.24:765][282]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.24:765][282]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.25:771][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.25-12.17.25:771][333]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2025.03.25-12.17.25:771][333]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.03.25-12.17.25:772][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-12.17.25:774][333]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.25-12.17.25:777][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-12.17.25:785][333]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.25-12.17.25:785][333]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.03.25-12.17.25:785][333]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.03.25-12.17.25:786][333]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.03.25-12.17.25:790][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.25-12.17.25:792][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.03.25-12.17.25:825][334]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.03.25-12.17.34:376][738]BlueprintLog: New page: Compile BP_Weapon_Component
+[2025.03.25-12.17.34:421][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.03.25-12.17.35:143][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.25-12.17.35:242][776]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2025.03.25-12.17.35:242][776]LogSavePackage: Moving '../../../../../../Users/w1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_Weapon_Component7792EDE2428B666C78D33C901B1E8B74.tmp' to '../../../../../../Users/w1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2025.03.25-12.17.35:248][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 2.94 sec)
+[2025.03.25-12.17.35:249][776]AssetCheck: New page: Asset Save: BP_Weapon_Component
+[2025.03.25-12.17.35:249][776]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2025.03.25-12.17.37:045][884]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.25-12.17.37:052][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.25-12.17.37:052][884]PIE: New page: PIE session: Level3 (25 Mar 2025, 12:17:37)
+[2025.03.25-12.17.37:053][884]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level3
+[2025.03.25-12.17.37:058][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004876s)
+[2025.03.25-12.17.37:058][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level3.Level3 to /Game/Levels/UEDPIE_0_Level3.Level3 (0.004904s)
+[2025.03.25-12.17.37:067][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.03.25-12.17.37:069][884]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.25-12.17.37:069][884]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.25-12.17.37:069][884]LogAIModule: Creating AISystem for world Level3
+[2025.03.25-12.17.37:070][884]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2025.03.25-12.17.37:070][884]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.03.25-12.17.37:070][884]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.25-12.17.37:070][884]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.25-12.17.37:070][884]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.25-12.17.37:070][884]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.25-12.17.37:070][884]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.25-12.17.37:070][884]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.25-12.17.37:070][884]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.25-12.17.37:070][884]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.25-12.17.37:070][884]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.25-12.17.37:070][884]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.25-12.17.37:070][884]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.25-12.17.37:072][884]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.25-12.17.37:119][884]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.25-12.17.37:119][884]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.25-12.17.37:119][884]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.25-12.17.37:119][884]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.25-12.17.37:120][884]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.03.25-12.17.37:120][884]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.03.25-12.17.37:121][884]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.03.25-12.17.37:121][884]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.03.25-12.17.37:121][884]LogInit: FAudioDevice initialized with ID 22.
+[2025.03.25-12.17.37:121][884]LogAudio: Display: Audio Device (ID: 22) registered with world 'Level3'.
+[2025.03.25-12.17.37:121][884]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.03.25-12.17.37:123][884]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.25-12.17.37:125][884]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2025.03.25-12.17.37
+[2025.03.25-12.17.37:125][884]LogWorld: Bringing up level for play took: 0.001835
+[2025.03.25-12.17.37:127][884]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.03.25-12.17.37:129][884]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.17.37:129][884]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.17.37:129][884]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.17.37:129][884]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.17.37:129][884]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.17.37:130][884]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.17.37:130][884]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.17.37:130][884]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.17.37:130][884]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.17.37:130][884]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.17.37:130][884]PIE: Server logged in
+[2025.03.25-12.17.37:130][884]PIE: Play in editor total start time 0.078 seconds.
+[2025.03.25-12.17.40:979][ 35]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.40:979][ 35]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.40:979][ 35]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.40:979][ 35]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.40:980][ 35]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.42:629][109]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.42:629][109]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.42:629][109]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.42:629][109]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.42:629][109]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.44:920][221]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.44:921][221]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.44:921][221]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.44:921][221]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.44:921][221]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.47:607][356]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.47:607][356]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.47:607][356]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.47:607][356]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.47:607][356]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.48:138][384]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.48:138][384]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.48:138][384]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.48:138][384]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.48:139][384]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.50:791][517]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.50:791][517]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.50:791][517]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.50:791][517]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.50:791][517]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.51:253][541]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.51:253][541]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.51:253][541]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.51:253][541]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.51:253][541]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.51:977][578]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_3] Hello
+[2025.03.25-12.17.52:039][581]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.52:039][581]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.52:039][581]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.52:039][581]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.52:039][581]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.54:231][688]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.54:231][688]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.54:231][688]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.54:231][688]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.54:231][688]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.55:180][736]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.55:180][736]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.55:180][736]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.55:180][736]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.55:180][736]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.55:804][769]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_5] Hello
+[2025.03.25-12.17.55:954][777]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.55:954][777]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.55:954][777]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.55:954][777]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.55:954][777]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.56:534][805]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_6] Hello
+[2025.03.25-12.17.56:640][810]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.56:640][810]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.56:640][810]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.56:640][810]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.56:640][810]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.59:952][972]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.59:952][972]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.59:952][972]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.59:953][972]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.17.59:953][972]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.18.03:065][121]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.18.03:065][121]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.18.03:065][121]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.18.03:065][121]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.18.03:065][121]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.18.04:391][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.25-12.18.04:391][186]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2025.03.25-12.18.04:391][186]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.03.25-12.18.04:392][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-12.18.04:398][186]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.25-12.18.04:401][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-12.18.04:408][186]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.25-12.18.04:409][186]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.03.25-12.18.04:409][186]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.03.25-12.18.04:410][186]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.03.25-12.18.04:415][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.25-12.18.04:417][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.03.25-12.18.04:675][188]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.03.25-12.18.57:787][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.25-12.18.57:872][ 45]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2025.03.25-12.18.57:873][ 45]LogSavePackage: Moving '../../../../../../Users/w1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_Weapon_Component82DE827A4746AC89D32BCAAC711A86E1.tmp' to '../../../../../../Users/w1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2025.03.25-12.18.57:878][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 3.03 sec)
+[2025.03.25-12.18.57:880][ 45]AssetCheck: New page: Asset Save: BP_Weapon_Component
+[2025.03.25-12.18.57:880][ 45]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2025.03.25-12.19.06:530][518]BlueprintLog: New page: Compile BP_Weapon_Component
+[2025.03.25-12.19.06:550][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.03.25-12.19.07:483][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.25-12.19.07:572][563]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2025.03.25-12.19.07:572][563]LogSavePackage: Moving '../../../../../../Users/w1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_Weapon_Component0C728FBE4B9581CCC1D4D6A2CF91C5EF.tmp' to '../../../../../../Users/w1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2025.03.25-12.19.07:578][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 3.12 sec)
+[2025.03.25-12.19.07:579][563]AssetCheck: New page: Asset Save: BP_Weapon_Component
+[2025.03.25-12.19.07:579][563]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2025.03.25-12.20.17:282][371]BlueprintLog: New page: Compile BP_FirstPersonProjectile
+[2025.03.25-12.20.17:314][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.03.25-12.20.17:976][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.25-12.20.18:122][400]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile
+[2025.03.25-12.20.18:123][400]LogSavePackage: Moving '../../../../../../Users/w1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_FirstPersonProjectile124A3DF3410A4BD863A6BDB28EF6A23A.tmp' to '../../../../../../Users/w1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset'
+[2025.03.25-12.20.18:130][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 3.28 sec)
+[2025.03.25-12.20.18:131][400]AssetCheck: New page: Asset Save: BP_FirstPersonProjectile
+[2025.03.25-12.20.18:131][400]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile
+[2025.03.25-12.20.36:315][398]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.25-12.20.36:466][398]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile
+[2025.03.25-12.20.36:467][398]LogSavePackage: Moving '../../../../../../Users/w1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_FirstPersonProjectile68B5D251413AA9AFA10FC5931024758E.tmp' to '../../../../../../Users/w1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset'
+[2025.03.25-12.20.36:474][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 3.43 sec)
+[2025.03.25-12.20.36:475][398]AssetCheck: New page: Asset Save: BP_FirstPersonProjectile
+[2025.03.25-12.20.36:475][398]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile
+[2025.03.25-12.20.36:847][420]BlueprintLog: New page: Compile BP_FirstPersonProjectile
+[2025.03.25-12.20.36:883][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.03.25-12.20.41:907][692]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.25-12.20.41:915][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.25-12.20.41:915][692]PIE: New page: PIE session: Level3 (25 Mar 2025, 12:20:41)
+[2025.03.25-12.20.41:916][692]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level3
+[2025.03.25-12.20.41:921][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005085s)
+[2025.03.25-12.20.41:921][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level3.Level3 to /Game/Levels/UEDPIE_0_Level3.Level3 (0.005112s)
+[2025.03.25-12.20.41:930][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.03.25-12.20.41:931][692]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.25-12.20.41:931][692]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.25-12.20.41:932][692]LogAIModule: Creating AISystem for world Level3
+[2025.03.25-12.20.41:932][692]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2025.03.25-12.20.41:932][692]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.03.25-12.20.41:932][692]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.25-12.20.41:932][692]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.25-12.20.41:932][692]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.25-12.20.41:932][692]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.25-12.20.41:932][692]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.25-12.20.41:932][692]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.25-12.20.41:932][692]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.25-12.20.41:932][692]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.25-12.20.41:932][692]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.25-12.20.41:932][692]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.25-12.20.41:932][692]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.25-12.20.41:934][692]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.25-12.20.41:982][692]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.25-12.20.41:982][692]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.25-12.20.41:982][692]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.25-12.20.41:982][692]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.25-12.20.41:983][692]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.03.25-12.20.41:983][692]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.03.25-12.20.41:984][692]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.03.25-12.20.41:984][692]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.03.25-12.20.41:984][692]LogInit: FAudioDevice initialized with ID 23.
+[2025.03.25-12.20.41:984][692]LogAudio: Display: Audio Device (ID: 23) registered with world 'Level3'.
+[2025.03.25-12.20.41:984][692]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.03.25-12.20.41:986][692]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.25-12.20.41:988][692]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2025.03.25-12.20.41
+[2025.03.25-12.20.41:989][692]LogWorld: Bringing up level for play took: 0.001797
+[2025.03.25-12.20.41:990][692]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2025.03.25-12.20.41:992][692]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.41:992][692]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.41:992][692]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.41:992][692]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.41:992][692]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.41:992][692]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.41:992][692]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.41:992][692]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.41:992][692]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.41:992][692]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.41:992][692]PIE: Server logged in
+[2025.03.25-12.20.41:992][692]PIE: Play in editor total start time 0.078 seconds.
+[2025.03.25-12.20.46:867][890]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.46:867][890]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.46:867][890]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.46:867][890]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.46:867][890]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.49:926][ 41]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.49:926][ 41]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.49:926][ 41]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.49:926][ 41]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.49:926][ 41]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.52:951][192]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.52:951][192]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.52:951][192]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.52:951][192]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.52:951][192]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.56:033][350]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.56:033][350]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.56:033][350]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.56:033][350]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.56:033][350]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.20.56:204][359]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_3] Hello
+[2025.03.25-12.20.56:224][360]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.56:224][360]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.56:224][360]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.56:224][360]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.56:224][360]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.56:420][370]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_4] Hello
+[2025.03.25-12.20.56:576][378]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.56:576][378]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.56:576][378]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.56:576][378]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.56:576][378]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.56:709][385]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_5] Hello
+[2025.03.25-12.20.56:747][387]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.56:747][387]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.56:747][387]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.56:747][387]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.56:747][387]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.56:883][394]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_6] Hello
+[2025.03.25-12.20.56:903][395]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.56:903][395]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.56:903][395]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.56:903][395]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.56:903][395]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:060][403]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_7] Hello
+[2025.03.25-12.20.57:101][405]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:101][405]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:101][405]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:101][405]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:101][405]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:220][411]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_8] Hello
+[2025.03.25-12.20.57:260][413]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:260][413]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:260][413]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:260][413]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:260][413]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:377][419]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_9] Hello
+[2025.03.25-12.20.57:456][423]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:456][423]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:456][423]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:456][423]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:456][423]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:553][428]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_10] Hello
+[2025.03.25-12.20.57:650][433]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:650][433]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:651][433]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:651][433]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:651][433]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:767][439]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_11] Hello
+[2025.03.25-12.20.57:826][442]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:826][442]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:826][442]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:826][442]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:826][442]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.57:944][448]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_12] Hello
+[2025.03.25-12.20.58:002][451]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:002][451]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:002][451]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:002][451]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:002][451]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:116][457]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_13] Hello
+[2025.03.25-12.20.58:155][459]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:155][459]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:155][459]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:155][459]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:155][459]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:286][466]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_14] Hello
+[2025.03.25-12.20.58:323][468]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:324][468]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:324][468]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:324][468]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:324][468]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:456][475]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_15] Hello
+[2025.03.25-12.20.58:495][477]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:495][477]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:495][477]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:495][477]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:496][477]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:610][483]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_16] Hello
+[2025.03.25-12.20.58:669][486]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:669][486]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:669][486]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:669][486]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:669][486]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:786][492]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_17] Hello
+[2025.03.25-12.20.58:827][494]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:827][494]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:827][494]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:827][494]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:827][494]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.58:925][499]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_18] Hello
+[2025.03.25-12.20.59:005][503]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:005][503]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:005][503]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:005][503]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:005][503]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:121][509]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_19] Hello
+[2025.03.25-12.20.59:161][511]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:161][511]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:161][511]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:161][511]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:161][511]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:277][517]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_20] Hello
+[2025.03.25-12.20.59:338][520]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:338][520]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:338][520]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:338][520]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:338][520]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:454][526]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_21] Hello
+[2025.03.25-12.20.59:513][529]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:513][529]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:514][529]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:514][529]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:514][529]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:629][535]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_22] Hello
+[2025.03.25-12.20.59:688][538]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:688][538]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:688][538]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:689][538]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:689][538]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.20.59:864][547]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_23] Hello
+[2025.03.25-12.21.00:059][557]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.21.00:059][557]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.21.00:059][557]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.21.00:059][557]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.21.00:059][557]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.21.00:277][568]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_24] Hello
+[2025.03.25-12.21.00:743][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.25-12.21.00:743][591]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2025.03.25-12.21.00:743][591]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.03.25-12.21.00:743][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-12.21.00:746][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.25-12.21.00:749][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-12.21.00:757][591]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.25-12.21.00:757][591]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.03.25-12.21.00:757][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.03.25-12.21.00:758][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.03.25-12.21.00:763][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.25-12.21.00:765][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.03.25-12.21.01:060][593]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2025.03.25-12.21.06:096][800]BlueprintLog: New page: Compile BP_Weapon_Component
+[2025.03.25-12.21.06:120][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.03.25-12.21.06:767][826]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.25-12.21.06:874][826]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2025.03.25-12.21.06:874][826]LogSavePackage: Moving '../../../../../../Users/w1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_Weapon_Component076F6AAE426A689FAEF82DA6542EAE3B.tmp' to '../../../../../../Users/w1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2025.03.25-12.21.06:880][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 3.55 sec)
+[2025.03.25-12.21.06:881][826]AssetCheck: New page: Asset Save: BP_Weapon_Component
+[2025.03.25-12.21.06:881][826]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2025.03.25-12.21.09:875][987]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.25-12.21.09:882][987]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.25-12.21.09:882][987]PIE: New page: PIE session: Level3 (25 Mar 2025, 12:21:09)
+[2025.03.25-12.21.09:883][987]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level3
+[2025.03.25-12.21.09:888][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004991s)
+[2025.03.25-12.21.09:888][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level3.Level3 to /Game/Levels/UEDPIE_0_Level3.Level3 (0.005019s)
+[2025.03.25-12.21.09:897][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.03.25-12.21.09:899][987]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.25-12.21.09:899][987]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.25-12.21.09:899][987]LogAIModule: Creating AISystem for world Level3
+[2025.03.25-12.21.09:900][987]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2025.03.25-12.21.09:900][987]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.03.25-12.21.09:900][987]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.25-12.21.09:900][987]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.25-12.21.09:900][987]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.25-12.21.09:900][987]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.25-12.21.09:900][987]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.25-12.21.09:900][987]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.25-12.21.09:900][987]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.25-12.21.09:900][987]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.25-12.21.09:900][987]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.25-12.21.09:900][987]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.25-12.21.09:900][987]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.25-12.21.09:902][987]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.25-12.21.09:948][987]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.25-12.21.09:948][987]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.25-12.21.09:949][987]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.25-12.21.09:949][987]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.25-12.21.09:949][987]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.03.25-12.21.09:949][987]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.03.25-12.21.09:950][987]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.03.25-12.21.09:950][987]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.03.25-12.21.09:950][987]LogInit: FAudioDevice initialized with ID 24.
+[2025.03.25-12.21.09:950][987]LogAudio: Display: Audio Device (ID: 24) registered with world 'Level3'.
+[2025.03.25-12.21.09:951][987]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.03.25-12.21.09:952][987]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.25-12.21.09:954][987]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2025.03.25-12.21.09
+[2025.03.25-12.21.09:954][987]LogWorld: Bringing up level for play took: 0.001745
+[2025.03.25-12.21.09:956][987]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.03.25-12.21.09:958][987]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.09:958][987]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.09:958][987]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.09:958][987]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.09:958][987]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.09:958][987]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.09:958][987]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.09:958][987]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.09:958][987]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.09:958][987]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.09:958][987]PIE: Server logged in
+[2025.03.25-12.21.09:959][987]PIE: Play in editor total start time 0.077 seconds.
+[2025.03.25-12.21.13:440][110]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.13:441][110]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.13:441][110]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.13:441][110]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.13:441][110]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.16:740][267]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.16:740][267]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.16:740][267]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.16:740][267]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.16:740][267]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.19:931][414]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.19:931][414]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.19:931][414]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.19:931][414]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.19:931][414]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.23:147][563]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.23:147][563]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.23:147][563]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.23:147][563]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.23:147][563]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.26:259][703]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.26:259][703]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.26:259][703]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.26:259][703]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.26:259][703]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.29:296][841]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.29:296][841]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.29:296][841]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.29:296][841]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.29:296][841]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.33:687][ 40]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.33:687][ 40]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.33:687][ 40]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.33:687][ 40]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.33:687][ 40]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.21.33:885][ 50]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_6] Hello
+[2025.03.25-12.21.34:833][ 99]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] No More Charges for this colour
+[2025.03.25-12.21.35:197][118]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] No More Charges for this colour
+[2025.03.25-12.21.35:635][141]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.21.35:635][141]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.21.35:635][141]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.21.35:635][141]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.21.35:635][141]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.21.36:273][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.25-12.21.36:273][173]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2025.03.25-12.21.36:273][173]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.03.25-12.21.36:273][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-12.21.36:276][173]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.25-12.21.36:281][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-12.21.36:288][173]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.25-12.21.36:288][173]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.03.25-12.21.36:288][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.03.25-12.21.36:290][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.03.25-12.21.36:295][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.25-12.21.36:297][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.03.25-12.21.36:636][175]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2025.03.25-12.22.09:646][999]BlueprintLog: New page: Compile BP_Weapon_Component
+[2025.03.25-12.22.09:668][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.03.25-12.22.10:221][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.25-12.22.10:305][ 25]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2025.03.25-12.22.10:306][ 25]LogSavePackage: Moving '../../../../../../Users/w1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_Weapon_Component30EA24A84500E9DA577A5A8243421421.tmp' to '../../../../../../Users/w1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2025.03.25-12.22.10:312][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 3.64 sec)
+[2025.03.25-12.22.10:313][ 25]AssetCheck: New page: Asset Save: BP_Weapon_Component
+[2025.03.25-12.22.10:313][ 25]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2025.03.25-12.23.33:480][745]LogEditorTransaction: Undo Move Nodes
+[2025.03.25-12.23.53:651][873]BlueprintLog: New page: Compile BP_FirstPersonProjectile
+[2025.03.25-12.23.53:686][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.03.25-12.23.54:280][900]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.25-12.23.54:402][900]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile
+[2025.03.25-12.23.54:403][900]LogSavePackage: Moving '../../../../../../Users/w1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_FirstPersonProjectileFB7D40E640C8B3E4E804B1936AAA3C14.tmp' to '../../../../../../Users/w1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset'
+[2025.03.25-12.23.54:409][900]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 3.77 sec)
+[2025.03.25-12.23.54:411][900]AssetCheck: New page: Asset Save: BP_FirstPersonProjectile
+[2025.03.25-12.23.54:411][900]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile
+[2025.03.25-12.24.04:866][501]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.25-12.24.04:874][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.25-12.24.04:874][501]PIE: New page: PIE session: Level3 (25 Mar 2025, 12:24:04)
+[2025.03.25-12.24.04:874][501]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level3
+[2025.03.25-12.24.04:879][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005335s)
+[2025.03.25-12.24.04:879][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level3.Level3 to /Game/Levels/UEDPIE_0_Level3.Level3 (0.005362s)
+[2025.03.25-12.24.04:887][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.03.25-12.24.04:889][501]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.25-12.24.04:889][501]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.25-12.24.04:889][501]LogAIModule: Creating AISystem for world Level3
+[2025.03.25-12.24.04:889][501]LogPlayLevel: PIE: World Init took: (0.000794s)
+[2025.03.25-12.24.04:889][501]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.03.25-12.24.04:889][501]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.25-12.24.04:889][501]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.25-12.24.04:889][501]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.25-12.24.04:889][501]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.25-12.24.04:889][501]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.25-12.24.04:889][501]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.25-12.24.04:889][501]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.25-12.24.04:889][501]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.25-12.24.04:890][501]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.25-12.24.04:890][501]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.25-12.24.04:890][501]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.25-12.24.04:892][501]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.25-12.24.04:937][501]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.25-12.24.04:937][501]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.25-12.24.04:937][501]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.25-12.24.04:937][501]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.25-12.24.04:939][501]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.03.25-12.24.04:939][501]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.03.25-12.24.04:940][501]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.03.25-12.24.04:940][501]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.03.25-12.24.04:940][501]LogInit: FAudioDevice initialized with ID 25.
+[2025.03.25-12.24.04:940][501]LogAudio: Display: Audio Device (ID: 25) registered with world 'Level3'.
+[2025.03.25-12.24.04:940][501]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.03.25-12.24.04:942][501]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.25-12.24.04:945][501]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2025.03.25-12.24.04
+[2025.03.25-12.24.04:945][501]LogWorld: Bringing up level for play took: 0.001955
+[2025.03.25-12.24.04:946][501]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2025.03.25-12.24.04:948][501]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.04:948][501]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.04:949][501]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.04:949][501]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.04:949][501]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.04:949][501]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.04:949][501]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.04:949][501]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.04:949][501]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.04:949][501]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.04:949][501]PIE: Server logged in
+[2025.03.25-12.24.04:949][501]PIE: Play in editor total start time 0.076 seconds.
+[2025.03.25-12.24.09:840][641]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.09:840][641]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.09:840][641]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.09:840][641]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.09:840][641]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.13:371][767]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.13:371][767]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.13:371][767]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.13:371][767]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.13:371][767]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.17:225][923]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.17:225][923]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.17:225][923]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.17:225][923]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.17:225][923]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.20:831][105]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.20:831][105]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.20:831][105]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.20:831][105]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.20:831][105]LogBlueprintUserMessages: [Crosshair_C_0] true
+[2025.03.25-12.24.21:095][119]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.21:095][119]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.21:095][119]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.21:095][119]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.21:095][119]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.21:095][119]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_3] Hello
+[2025.03.25-12.24.22:639][201]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.22:639][201]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.22:639][201]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.22:639][201]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.22:639][201]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.23:448][243]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.23:448][243]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.23:448][243]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.23:448][243]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.23:448][243]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.23:744][258]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.23:745][258]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.23:745][258]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.23:745][258]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.23:745][258]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.23:745][258]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_4] Hello
+[2025.03.25-12.24.25:365][343]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.25:365][343]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.25:365][343]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.25:365][343]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.25:365][343]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.26:686][413]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.26:686][413]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.26:686][413]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.26:686][413]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.26:686][413]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.32:106][682]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.32:106][682]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.32:106][682]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.32:106][682]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.32:106][682]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.32:240][689]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.32:240][689]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.32:240][689]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.32:240][689]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.32:240][689]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.32:240][689]LogBlueprintUserMessages: [BP_FirstPersonProjectile_C_6] Hello
+[2025.03.25-12.24.32:689][712]LogBlueprintUserMessages: [BP_StaticBlocks_C_4] Hello
+[2025.03.25-12.24.33:589][761]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.33:589][761]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.33:589][761]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.33:589][761]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.33:589][761]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.33:881][777]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.33:881][777]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.33:881][777]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.33:881][777]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.33:881][777]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.34:390][805]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.34:390][805]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.34:390][805]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.34:390][805]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.34:390][805]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.37:570][960]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.37:571][960]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.37:571][960]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.37:571][960]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.37:571][960]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.40:642][113]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.40:642][113]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.40:642][113]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.40:642][113]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.40:642][113]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.41:289][146]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.41:289][146]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.41:289][146]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.41:289][146]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.41:289][146]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.43:718][271]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.43:718][271]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.43:718][271]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.43:718][271]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.43:718][271]LogBlueprintUserMessages: [Crosshair_C_0] false
+[2025.03.25-12.24.46:746][426]LogScript: Warning: Infinite script recursion (120 calls) detected - see log for stack trace
+	BP_FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Level3.Level3:PersistentLevel.BP_FirstPersonCharacter_C_0
+	Function /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:0000
+[2025.03.25-12.24.46:746][426]PIE: Error: Infinite loop detected. Blueprint:  BP_FirstPersonCharacter Function:  Delay Call Stack:  Show
+[2025.03.25-12.24.46:773][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.25-12.24.46:773][426]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2025.03.25-12.24.46:773][426]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.03.25-12.24.46:774][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-12.24.46:777][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.25-12.24.46:780][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-12.24.46:789][426]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.25-12.24.46:789][426]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.03.25-12.24.46:789][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.03.25-12.24.46:791][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.03.25-12.24.46:809][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.25-12.24.46:811][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.03.25-12.24.46:936][427]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2025.03.25-12.24.48:514][482]LogSlate: Window 'Message Log' being destroyed
+[2025.03.25-12.24.48:541][482]LogSlate: Window 'Message Log' being destroyed
+[2025.03.25-12.24.51:580][588]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.25-12.24.51:686][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.03.25-12.24.51:715][588]LogSavePackage: Moving output files for package: /Game/Levels/Level3
+[2025.03.25-12.24.51:716][588]LogSavePackage: Moving '../../../../../../Users/w1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/Level3192DC9574501044473256FB10EBDDE73.tmp' to '../../../../../../Users/w1972476/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/Level3.umap'
+[2025.03.25-12.24.51:722][588]LogFileHelpers: Saving map 'Level3' took 0.067
+[2025.03.25-12.24.51:728][588]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 3.92 sec)
+[2025.03.25-12.24.51:729][588]AssetCheck: New page: Asset Save: Level3
+[2025.03.25-12.24.51:729][588]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level3.Level3
