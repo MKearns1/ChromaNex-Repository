@@ -1308,3 +1308,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.26-14.20.18:509][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
 [2025.03.26-14.20.18:515][366]Cmd: MAP CHECKDEP NOCLEARLOG
 [2025.03.26-14.20.18:515][366]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.071ms to complete.
+[2025.03.26-14.21.00:912][640]LogDerivedDataCache: C:/Users/w1993975/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.097 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1050 files in 1746 folders with total size 90 MiB.
