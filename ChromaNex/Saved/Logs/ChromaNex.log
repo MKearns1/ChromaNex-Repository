@@ -30850,3 +30850,10 @@ LogInit: Object subsystem initialized
 [2025.03.26-17.14.37:720][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
 [2025.03.26-17.14.37:726][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
 [2025.03.26-17.14.37:800][431]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2025.03.26-17.20.13:769][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.03.26-17.20.13:799][462]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/TutorialLevel_Auto3
+[2025.03.26-17.20.13:799][462]LogSavePackage: Moving '../../../../../../Users/w1983319/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/TutorialLevel_Auto34FA3F6984AF534073E54FEB1758953EE.tmp' to '../../../../../../Users/w1983319/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/Levels/TutorialLevel_Auto3.umap'
+[2025.03.26-17.20.13:801][462]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/w1983319/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/Levels/TutorialLevel_Auto3.umap is in the /Temp path, will not scan.
+[2025.03.26-17.20.13:801][462]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TutorialLevel' took 0.043
+[2025.03.26-17.20.13:801][462]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
+[2025.03.26-17.24.59:792][438]LogDerivedDataCache: C:/Users/w1983319/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.107 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1070 files in 1766 folders with total size 90 MiB.
