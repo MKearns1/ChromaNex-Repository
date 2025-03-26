@@ -29995,3 +29995,858 @@ LogInit: Object subsystem initialized
 [2025.03.26-17.09.16:262][ 86]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Cube/BP_Cube.BP_Cube
 [2025.03.26-17.09.16:262][ 86]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_StaticBlocks.BP_StaticBlocks
 [2025.03.26-17.09.16:262][ 86]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2025.03.26-17.11.44:280][148]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.26-17.11.44:288][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.26-17.11.44:288][148]PIE: New page: PIE session: TutorialLevel (26 Mar 2025, 17:11:44)
+[2025.03.26-17.11.44:288][148]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TutorialLevel
+[2025.03.26-17.11.44:292][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004630s)
+[2025.03.26-17.11.44:292][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TutorialLevel.TutorialLevel to /Game/Levels/UEDPIE_0_TutorialLevel.TutorialLevel (0.004658s)
+[2025.03.26-17.11.44:307][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.03.26-17.11.44:309][148]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-17.11.44:309][148]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.26-17.11.44:309][148]LogAIModule: Creating AISystem for world TutorialLevel
+[2025.03.26-17.11.44:309][148]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2025.03.26-17.11.44:309][148]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2025.03.26-17.11.44:310][148]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.26-17.11.44:310][148]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.26-17.11.44:310][148]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.26-17.11.44:310][148]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.26-17.11.44:310][148]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.26-17.11.44:310][148]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.26-17.11.44:310][148]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.26-17.11.44:310][148]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.26-17.11.44:310][148]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.26-17.11.44:310][148]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.26-17.11.44:310][148]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.26-17.11.44:312][148]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.26-17.11.44:352][148]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.26-17.11.44:352][148]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.26-17.11.44:352][148]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.26-17.11.44:353][148]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.26-17.11.44:353][148]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2025.03.26-17.11.44:353][148]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2025.03.26-17.11.44:354][148]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2025.03.26-17.11.44:354][148]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2025.03.26-17.11.44:354][148]LogInit: FAudioDevice initialized with ID 34.
+[2025.03.26-17.11.44:354][148]LogAudio: Display: Audio Device (ID: 34) registered with world 'TutorialLevel'.
+[2025.03.26-17.11.44:354][148]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2025.03.26-17.11.44:357][148]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-17.11.44:359][148]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2025.03.26-17.11.44
+[2025.03.26-17.11.44:359][148]LogWorld: Bringing up level for play took: 0.001940
+[2025.03.26-17.11.44:360][148]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.11.44:363][148]PIE: Server logged in
+[2025.03.26-17.11.44:364][148]PIE: Play in editor total start time 0.076 seconds.
+[2025.03.26-17.12.03:537][794]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-17.12.03:537][794]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.26-17.12.04:553][831]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-17.12.04:553][831]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-17.12.05:208][855]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-17.12.05:208][855]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.26-17.12.07:013][921]LogNet: Browse: /Game/Levels/MainMenu
+[2025.03.26-17.12.07:013][921]LogLoad: LoadMap: /Game/Levels/MainMenu
+[2025.03.26-17.12.07:013][921]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TutorialLevel
+[2025.03.26-17.12.07:014][921]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-17.12.07:014][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-17.12.07:029][921]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-17.12.07:041][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.03.26-17.12.07:084][921]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_-1.000000_SR1_-1.000000_SR2_-1.000000_SR3_-1.000000_SR4_-1.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_-1_END wave pop__1_...
+[2025.03.26-17.12.07:090][921]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/pop__1_.pop__1_: Chunk0=28 bytes, Chunk1-N=256k
+[2025.03.26-17.12.07:110][921]LogTexture: Display: Building textures: /Game/UI/ChromaNexLogo.ChromaNexLogo (BGRA8, 1673x426 x1x1x1) (Required Memory Estimate: 20.906075 MB), EncodeSpeed: Fast
+[2025.03.26-17.12.07:197][921]LogTexture: Display: Building textures: /Game/UI/Screenshot_2025-02-16_163222.Screenshot_2025-02-16_163222 (TFO_AutoDXT, 3136x1676 x1x1x1) (Required Memory Estimate: 360.958952 MB), EncodeSpeed: Fast
+[2025.03.26-17.12.07:246][921]LogAudio: Display: Audio Device (ID: 34) registered with world 'MainMenu'.
+[2025.03.26-17.12.07:246][921]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-17.12.07:246][921]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.26-17.12.07:247][921]LogAIModule: Creating AISystem for world MainMenu
+[2025.03.26-17.12.07:247][921]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2025.03.26-17.12.07:247][921]LogLoad: Game class is 'MenuGameMode_C'
+[2025.03.26-17.12.07:247][921]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.03.26-17.12.07
+[2025.03.26-17.12.07:248][921]LogWorld: Bringing up level for play took: 0.000409
+[2025.03.26-17.12.07:248][921]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.26-17.12.07:250][921]LogLoad: Took 0.236393 seconds to LoadMap(/Game/Levels/MainMenu)
+[2025.03.26-17.12.11:526][416]LogBlueprintUserMessages: [MainMenu_C_0] Loading Tutorial (Not created yet)
+[2025.03.26-17.12.11:526][416]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-17.12.11:526][416]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-17.12.11:526][416]LogBlueprintUserMessages: [MainMenu_C_0] CHANGE THIS TO TUTORIAL LEVEL
+[2025.03.26-17.12.11:527][416]LogNet: Browse: /Game/Levels/Level1
+[2025.03.26-17.12.11:527][416]LogLoad: LoadMap: /Game/Levels/Level1
+[2025.03.26-17.12.11:527][416]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2025.03.26-17.12.11:527][416]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-17.12.11:527][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-17.12.11:564][416]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-17.12.11:567][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.03.26-17.12.11:576][416]LogAudio: Display: Audio Device (ID: 34) registered with world 'Level1'.
+[2025.03.26-17.12.11:576][416]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-17.12.11:576][416]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.26-17.12.11:576][416]LogAIModule: Creating AISystem for world Level1
+[2025.03.26-17.12.11:576][416]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.26-17.12.11:576][416]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.26-17.12.11:576][416]LogWorldPartition: UWorldPartition::Initialize : World = Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.03.26-17.12.11:576][416]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.26-17.12.11:578][416]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2025.03.26-17.12.11:608][416]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 28 ms
+[2025.03.26-17.12.11:608][416]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2025.03.26-17.12.11:608][416]LogWorldPartition: Display: WorldPartition initialize took 31 ms (total: 84 ms)
+[2025.03.26-17.12.11:608][416]LogPlayLevel: PIE: World Init took: (0.032105s)
+[2025.03.26-17.12.11:608][416]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-17.12.11:609][416]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Levels/_GENERATED/Sneek/Boolean_09FFFA2A.Boolean_09FFFA2A being ready before playing
+[2025.03.26-17.12.11:612][416]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2025.03.26-17.12.11
+[2025.03.26-17.12.11:612][416]LogWorld: Bringing up level for play took: 0.003391
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:614][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:615][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:615][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:615][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:615][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:615][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:615][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:615][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:615][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:615][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:615][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:615][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:615][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:615][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:615][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:615][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:615][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:615][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:615][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:615][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:615][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:615][416]LogBlueprintUserMessages: [Crosshair_C_1] 
+[2025.03.26-17.12.11:615][416]LogLoad: Took 0.087921 seconds to LoadMap(/Game/Levels/Level1)
+[2025.03.26-17.12.13:876][504]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-17.12.13:876][504]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.26-17.12.14:723][537]LogNet: Browse: /Game/Levels/MainMenu
+[2025.03.26-17.12.14:723][537]LogLoad: LoadMap: /Game/Levels/MainMenu
+[2025.03.26-17.12.14:723][537]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2025.03.26-17.12.14:724][537]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-17.12.14:724][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-17.12.14:724][537]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2025.03.26-17.12.14:736][537]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-17.12.14:748][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.03.26-17.12.14:754][537]LogAudio: Display: Audio Device (ID: 34) registered with world 'MainMenu'.
+[2025.03.26-17.12.14:754][537]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-17.12.14:754][537]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.26-17.12.14:754][537]LogAIModule: Creating AISystem for world MainMenu
+[2025.03.26-17.12.14:755][537]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2025.03.26-17.12.14:755][537]LogLoad: Game class is 'MenuGameMode_C'
+[2025.03.26-17.12.14:755][537]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.03.26-17.12.14
+[2025.03.26-17.12.14:755][537]LogWorld: Bringing up level for play took: 0.000291
+[2025.03.26-17.12.14:755][537]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.26-17.12.14:757][537]LogLoad: Took 0.034466 seconds to LoadMap(/Game/Levels/MainMenu)
+[2025.03.26-17.12.18:572][994]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-17.12.18:572][994]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-17.12.18:572][994]LogNet: Browse: /Game/Levels/Level2
+[2025.03.26-17.12.18:572][994]LogLoad: LoadMap: /Game/Levels/Level2
+[2025.03.26-17.12.18:572][994]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2025.03.26-17.12.18:573][994]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-17.12.18:573][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-17.12.18:605][994]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-17.12.18:606][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.03.26-17.12.18:615][994]LogAudio: Display: Audio Device (ID: 34) registered with world 'Level2'.
+[2025.03.26-17.12.18:615][994]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-17.12.18:615][994]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.26-17.12.18:616][994]LogAIModule: Creating AISystem for world Level2
+[2025.03.26-17.12.18:616][994]LogWorldPartition: ULevel::OnLevelLoaded(Level2)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.26-17.12.18:616][994]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.26-17.12.18:616][994]LogWorldPartition: UWorldPartition::Initialize : World = Level2, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.03.26-17.12.18:616][994]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.26-17.12.18:617][994]LogWorldPartition: Display: GenerateStreaming for 'Level2' started...
+[2025.03.26-17.12.18:628][994]LogLinker: Warning: [AssetLog] C:\Users\w1983319\Documents\GitHub\ChromaNex-Repository\ChromaNex\Content\__ExternalActors__\Levels\Level2\4\L0\W69L9872SNVKTPK6O60WVJ.uasset: Failed to load '/Game/FirstPerson/Maps/_GENERATED/Sneek/Boolean_09C09883': Can't find file.
+[2025.03.26-17.12.18:628][994]LogLinker: Warning: [AssetLog] C:\Users\w1983319\Documents\GitHub\ChromaNex-Repository\ChromaNex\Content\__ExternalActors__\Levels\Level2\4\L0\W69L9872SNVKTPK6O60WVJ.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/Maps/_GENERATED/Sneek/Boolean_09C09883'
+[2025.03.26-17.12.18:653][994]LogWorldPartition: Display: GenerateStreaming for 'Level2' took 35 ms (total: 64 ms)
+[2025.03.26-17.12.18:653][994]LogContentBundle: [Level2(Standalone)] Creating new contrainer.
+[2025.03.26-17.12.18:653][994]LogWorldPartition: Display: WorldPartition initialize took 37 ms (total: 122 ms)
+[2025.03.26-17.12.18:653][994]LogPlayLevel: PIE: World Init took: (0.038222s)
+[2025.03.26-17.12.18:653][994]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-17.12.18:658][994]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2025.03.26-17.12.18
+[2025.03.26-17.12.18:658][994]LogWorld: Bringing up level for play took: 0.005328
+[2025.03.26-17.12.18:660][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:660][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:660][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:660][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:660][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:660][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:660][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:660][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:660][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:660][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:660][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:660][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:660][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:660][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:660][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:660][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:660][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:660][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:660][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:660][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:660][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:660][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogBlueprintUserMessages: [Crosshair_C_2] 
+[2025.03.26-17.12.18:661][994]LogLoad: Took 0.089407 seconds to LoadMap(/Game/Levels/Level2)
+[2025.03.26-17.12.19:382][ 19]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-17.12.19:382][ 19]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.26-17.12.20:760][ 62]LogNet: Browse: /Game/Levels/MainMenu
+[2025.03.26-17.12.20:760][ 62]LogLoad: LoadMap: /Game/Levels/MainMenu
+[2025.03.26-17.12.20:760][ 62]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2
+[2025.03.26-17.12.20:760][ 62]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-17.12.20:761][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-17.12.20:761][ 62]LogContentBundle: [Level2(Standalone)] Deleting container.
+[2025.03.26-17.12.20:807][ 62]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-17.12.20:810][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.03.26-17.12.20:816][ 62]LogAudio: Display: Audio Device (ID: 34) registered with world 'MainMenu'.
+[2025.03.26-17.12.20:816][ 62]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-17.12.20:817][ 62]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.26-17.12.20:817][ 62]LogAIModule: Creating AISystem for world MainMenu
+[2025.03.26-17.12.20:817][ 62]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2025.03.26-17.12.20:817][ 62]LogLoad: Game class is 'MenuGameMode_C'
+[2025.03.26-17.12.20:817][ 62]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.03.26-17.12.20
+[2025.03.26-17.12.20:817][ 62]LogWorld: Bringing up level for play took: 0.000288
+[2025.03.26-17.12.20:818][ 62]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.26-17.12.20:819][ 62]LogLoad: Took 0.059315 seconds to LoadMap(/Game/Levels/MainMenu)
+[2025.03.26-17.12.29:075][ 51]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-17.12.29:075][ 51]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-17.12.29:075][ 51]LogBlueprintUserMessages: [MainMenu_C_2] CHANGE THIS TO TUTORIAL LEVEL
+[2025.03.26-17.12.29:075][ 51]LogBlueprintUserMessages: [MainMenu_C_2] CHANGE THIS TO TUTORIAL LEVEL
+[2025.03.26-17.12.29:082][ 52]LogNet: Browse: /Game/Levels/Level1
+[2025.03.26-17.12.29:082][ 52]LogLoad: LoadMap: /Game/Levels/Level1
+[2025.03.26-17.12.29:082][ 52]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2025.03.26-17.12.29:083][ 52]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-17.12.29:083][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-17.12.29:126][ 52]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-17.12.29:128][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.03.26-17.12.29:136][ 52]LogAudio: Display: Audio Device (ID: 34) registered with world 'Level1'.
+[2025.03.26-17.12.29:137][ 52]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-17.12.29:137][ 52]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.26-17.12.29:137][ 52]LogAIModule: Creating AISystem for world Level1
+[2025.03.26-17.12.29:137][ 52]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.26-17.12.29:137][ 52]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.26-17.12.29:137][ 52]LogWorldPartition: UWorldPartition::Initialize : World = Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.03.26-17.12.29:137][ 52]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.26-17.12.29:138][ 52]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2025.03.26-17.12.29:161][ 52]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 22 ms (total: 86 ms)
+[2025.03.26-17.12.29:161][ 52]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2025.03.26-17.12.29:161][ 52]LogWorldPartition: Display: WorldPartition initialize took 24 ms (total: 146 ms)
+[2025.03.26-17.12.29:161][ 52]LogPlayLevel: PIE: World Init took: (0.024819s)
+[2025.03.26-17.12.29:161][ 52]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-17.12.29:165][ 52]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2025.03.26-17.12.29
+[2025.03.26-17.12.29:165][ 52]LogWorld: Bringing up level for play took: 0.003217
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogBlueprintUserMessages: [Crosshair_C_3] 
+[2025.03.26-17.12.29:167][ 52]LogLoad: Took 0.084950 seconds to LoadMap(/Game/Levels/Level1)
+[2025.03.26-17.12.34:704][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-17.12.34:704][227]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2025.03.26-17.12.34:704][227]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-17.12.34:704][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-17.12.34:705][227]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2025.03.26-17.12.34:707][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.26-17.12.34:711][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-17.12.34:719][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-17.12.34:719][227]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2025.03.26-17.12.34:719][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2025.03.26-17.12.34:720][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2025.03.26-17.12.34:728][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.03.26-17.12.35:072][229]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2025.03.26-17.12.43:431][522]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-17.12.44:271][550]LogShaderCompilers: Display: ================================================
+[2025.03.26-17.12.44:271][550]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.26-17.12.44:271][550]LogShaderCompilers: Display: Total job queries 99, among them cache hits 40 (40.40%)
+[2025.03.26-17.12.44:271][550]LogShaderCompilers: Display: Tracking 54 distinct input hashes that result in 34 distinct outputs (62.96%)
+[2025.03.26-17.12.44:271][550]LogShaderCompilers: Display: RAM used: 1.13 MiB of 1.60 GiB budget. Usage: 0.07%
+[2025.03.26-17.12.44:271][550]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.26-17.12.44:271][550]LogShaderCompilers: Display: Shaders Compiled: 2
+[2025.03.26-17.12.44:271][550]LogShaderCompilers: Display: Jobs assigned 7, completed 2 (28.57%)
+[2025.03.26-17.12.44:271][550]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.07 s
+[2025.03.26-17.12.44:271][550]LogShaderCompilers: Display: Job execution time: average 0.48 s, max 0.48 s
+[2025.03.26-17.12.44:271][550]LogShaderCompilers: Display: Job life time (pending + execution): average 0.54 s, max 0.54
+[2025.03.26-17.12.44:272][550]LogShaderCompilers: Display: Shader code size: average 19.242 KiB, min 4.668 KiB, max 33.816 KiB
+[2025.03.26-17.12.44:272][550]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.54 s
+[2025.03.26-17.12.44:272][550]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.26-17.12.44:272][550]LogShaderCompilers: Display: Average processing rate: 3.70 jobs/sec
+[2025.03.26-17.12.44:272][550]LogShaderCompilers: Display: Total thread time: 0.299 s
+[2025.03.26-17.12.44:272][550]LogShaderCompilers: Display: Total thread preprocess time: 0.058 s
+[2025.03.26-17.12.44:272][550]LogShaderCompilers: Display: Percentage time preprocessing: 19.39%
+[2025.03.26-17.12.44:272][550]LogShaderCompilers: Display: Effective parallelization: 0.55 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.03.26-17.12.44:272][550]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2025.03.26-17.12.44:272][550]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.16 sec, max 0.16 sec, min 0.16 sec)
+[2025.03.26-17.12.44:272][550]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.14 sec, max 0.14 sec, min 0.14 sec)
+[2025.03.26-17.12.44:272][550]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2025.03.26-17.12.44:272][550]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 52.76% of total time (compiled    1 times, average 0.16 sec, max 0.16 sec, min 0.16 sec)
+[2025.03.26-17.12.44:272][550]LogShaderCompilers: Display:                                                  FHitProxyPS - 47.24% of total time (compiled    1 times, average 0.14 sec, max 0.14 sec, min 0.14 sec)
+[2025.03.26-17.12.44:272][550]LogShaderCompilers: Display: ================================================
+[2025.03.26-17.12.44:647][563]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-17.12.45:906][602]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-17.13.11:602][938]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-17.13.11:602][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-17.13.45:336][708]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.26-17.13.53:654][ 15]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.26-17.13.55:917][100]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.26-17.13.57:383][158]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.26-17.13.57:390][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.26-17.13.57:390][158]PIE: New page: PIE session: TutorialLevel (26 Mar 2025, 17:13:57)
+[2025.03.26-17.13.57:390][158]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TutorialLevel
+[2025.03.26-17.13.57:395][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004575s)
+[2025.03.26-17.13.57:395][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TutorialLevel.TutorialLevel to /Game/Levels/UEDPIE_0_TutorialLevel.TutorialLevel (0.004602s)
+[2025.03.26-17.13.57:411][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.03.26-17.13.57:418][158]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-17.13.57:418][158]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.26-17.13.57:418][158]LogAIModule: Creating AISystem for world TutorialLevel
+[2025.03.26-17.13.57:419][158]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2025.03.26-17.13.57:419][158]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2025.03.26-17.13.57:419][158]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.26-17.13.57:419][158]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.26-17.13.57:419][158]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.26-17.13.57:419][158]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.26-17.13.57:419][158]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.26-17.13.57:419][158]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.26-17.13.57:419][158]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.26-17.13.57:419][158]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.26-17.13.57:419][158]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.26-17.13.57:419][158]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.26-17.13.57:419][158]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.26-17.13.57:421][158]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.26-17.13.57:462][158]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.26-17.13.57:462][158]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.26-17.13.57:462][158]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.26-17.13.57:462][158]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.26-17.13.57:463][158]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2025.03.26-17.13.57:463][158]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2025.03.26-17.13.57:464][158]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2025.03.26-17.13.57:464][158]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2025.03.26-17.13.57:464][158]LogInit: FAudioDevice initialized with ID 35.
+[2025.03.26-17.13.57:464][158]LogAudio: Display: Audio Device (ID: 35) registered with world 'TutorialLevel'.
+[2025.03.26-17.13.57:464][158]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2025.03.26-17.13.57:466][158]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-17.13.57:468][158]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2025.03.26-17.13.57
+[2025.03.26-17.13.57:468][158]LogWorld: Bringing up level for play took: 0.001930
+[2025.03.26-17.13.57:470][158]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:472][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:473][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:473][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:473][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:473][158]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.13.57:473][158]PIE: Server logged in
+[2025.03.26-17.13.57:473][158]PIE: Play in editor total start time 0.083 seconds.
+[2025.03.26-17.14.00:165][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-17.14.00:165][231]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TutorialLevel
+[2025.03.26-17.14.00:165][231]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-17.14.00:166][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-17.14.00:168][231]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.26-17.14.00:171][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-17.14.00:180][231]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-17.14.00:180][231]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2025.03.26-17.14.00:180][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2025.03.26-17.14.00:182][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2025.03.26-17.14.00:187][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-17.14.00:189][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.03.26-17.14.00:236][233]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2025.03.26-17.14.04:309][375]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.26-17.14.04:315][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.26-17.14.04:315][375]PIE: New page: PIE session: TutorialLevel (26 Mar 2025, 17:14:04)
+[2025.03.26-17.14.04:315][375]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TutorialLevel
+[2025.03.26-17.14.04:319][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004229s)
+[2025.03.26-17.14.04:320][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TutorialLevel.TutorialLevel to /Game/Levels/UEDPIE_0_TutorialLevel.TutorialLevel (0.004252s)
+[2025.03.26-17.14.04:329][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.03.26-17.14.04:331][375]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-17.14.04:331][375]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.26-17.14.04:332][375]LogAIModule: Creating AISystem for world TutorialLevel
+[2025.03.26-17.14.04:332][375]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2025.03.26-17.14.04:332][375]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2025.03.26-17.14.04:332][375]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.26-17.14.04:332][375]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.26-17.14.04:332][375]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.26-17.14.04:332][375]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.26-17.14.04:332][375]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.26-17.14.04:332][375]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.26-17.14.04:332][375]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.26-17.14.04:332][375]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.26-17.14.04:332][375]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.26-17.14.04:332][375]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.26-17.14.04:332][375]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.26-17.14.04:334][375]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.26-17.14.04:370][375]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.26-17.14.04:370][375]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.26-17.14.04:370][375]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.26-17.14.04:370][375]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.26-17.14.04:371][375]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2025.03.26-17.14.04:371][375]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2025.03.26-17.14.04:373][375]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2025.03.26-17.14.04:373][375]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2025.03.26-17.14.04:373][375]LogInit: FAudioDevice initialized with ID 36.
+[2025.03.26-17.14.04:373][375]LogAudio: Display: Audio Device (ID: 36) registered with world 'TutorialLevel'.
+[2025.03.26-17.14.04:373][375]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2025.03.26-17.14.04:375][375]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-17.14.04:377][375]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2025.03.26-17.14.04
+[2025.03.26-17.14.04:377][375]LogWorld: Bringing up level for play took: 0.001708
+[2025.03.26-17.14.04:378][375]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2025.03.26-17.14.04:380][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.04:381][375]PIE: Server logged in
+[2025.03.26-17.14.04:382][375]PIE: Play in editor total start time 0.067 seconds.
+[2025.03.26-17.14.07:545][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-17.14.07:546][462]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TutorialLevel
+[2025.03.26-17.14.07:546][462]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-17.14.07:546][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-17.14.07:552][462]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.26-17.14.07:555][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-17.14.07:564][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-17.14.07:565][462]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2025.03.26-17.14.07:565][462]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2025.03.26-17.14.07:567][462]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2025.03.26-17.14.07:574][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.03.26-17.14.07:621][463]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2025.03.26-17.14.14:793][720]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.26-17.14.14:800][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.26-17.14.14:800][720]PIE: New page: PIE session: TutorialLevel (26 Mar 2025, 17:14:14)
+[2025.03.26-17.14.14:800][720]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TutorialLevel
+[2025.03.26-17.14.14:805][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004200s)
+[2025.03.26-17.14.14:805][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TutorialLevel.TutorialLevel to /Game/Levels/UEDPIE_0_TutorialLevel.TutorialLevel (0.004224s)
+[2025.03.26-17.14.14:814][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.03.26-17.14.14:816][720]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-17.14.14:817][720]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.26-17.14.14:817][720]LogAIModule: Creating AISystem for world TutorialLevel
+[2025.03.26-17.14.14:817][720]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2025.03.26-17.14.14:817][720]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2025.03.26-17.14.14:817][720]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.26-17.14.14:817][720]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.26-17.14.14:817][720]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.26-17.14.14:817][720]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.26-17.14.14:817][720]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.26-17.14.14:817][720]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.26-17.14.14:817][720]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.26-17.14.14:817][720]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.26-17.14.14:818][720]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.26-17.14.14:818][720]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.26-17.14.14:818][720]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.26-17.14.14:820][720]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.26-17.14.14:860][720]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.26-17.14.14:861][720]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.26-17.14.14:861][720]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.26-17.14.14:861][720]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.26-17.14.14:861][720]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2025.03.26-17.14.14:861][720]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2025.03.26-17.14.14:863][720]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2025.03.26-17.14.14:863][720]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2025.03.26-17.14.14:863][720]LogInit: FAudioDevice initialized with ID 37.
+[2025.03.26-17.14.14:863][720]LogAudio: Display: Audio Device (ID: 37) registered with world 'TutorialLevel'.
+[2025.03.26-17.14.14:863][720]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2025.03.26-17.14.14:865][720]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-17.14.14:867][720]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2025.03.26-17.14.14
+[2025.03.26-17.14.14:867][720]LogWorld: Bringing up level for play took: 0.001971
+[2025.03.26-17.14.14:868][720]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.14:870][720]PIE: Server logged in
+[2025.03.26-17.14.14:871][720]PIE: Play in editor total start time 0.071 seconds.
+[2025.03.26-17.14.18:785][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-17.14.18:785][829]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TutorialLevel
+[2025.03.26-17.14.18:785][829]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-17.14.18:786][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-17.14.18:788][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.26-17.14.18:791][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-17.14.18:799][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-17.14.18:799][829]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2025.03.26-17.14.18:799][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2025.03.26-17.14.18:801][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2025.03.26-17.14.18:808][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.03.26-17.14.18:875][830]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2025.03.26-17.14.29:078][160]Cmd: TRANSACTION UNDO
+[2025.03.26-17.14.29:078][160]LogEditorTransaction: Undo Move Elements
+[2025.03.26-17.14.33:281][306]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.26-17.14.33:288][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.26-17.14.33:288][306]PIE: New page: PIE session: TutorialLevel (26 Mar 2025, 17:14:33)
+[2025.03.26-17.14.33:288][306]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TutorialLevel
+[2025.03.26-17.14.33:293][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004239s)
+[2025.03.26-17.14.33:293][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TutorialLevel.TutorialLevel to /Game/Levels/UEDPIE_0_TutorialLevel.TutorialLevel (0.004263s)
+[2025.03.26-17.14.33:302][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.03.26-17.14.33:305][306]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-17.14.33:305][306]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.26-17.14.33:305][306]LogAIModule: Creating AISystem for world TutorialLevel
+[2025.03.26-17.14.33:305][306]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2025.03.26-17.14.33:305][306]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2025.03.26-17.14.33:305][306]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.26-17.14.33:305][306]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.26-17.14.33:305][306]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.26-17.14.33:305][306]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.26-17.14.33:305][306]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.26-17.14.33:305][306]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.26-17.14.33:305][306]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.26-17.14.33:305][306]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.26-17.14.33:306][306]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.26-17.14.33:306][306]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.26-17.14.33:306][306]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.26-17.14.33:308][306]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.26-17.14.33:347][306]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.26-17.14.33:347][306]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.26-17.14.33:347][306]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.26-17.14.33:347][306]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.26-17.14.33:348][306]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2025.03.26-17.14.33:348][306]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2025.03.26-17.14.33:349][306]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2025.03.26-17.14.33:349][306]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2025.03.26-17.14.33:349][306]LogInit: FAudioDevice initialized with ID 38.
+[2025.03.26-17.14.33:349][306]LogAudio: Display: Audio Device (ID: 38) registered with world 'TutorialLevel'.
+[2025.03.26-17.14.33:349][306]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2025.03.26-17.14.33:352][306]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-17.14.33:354][306]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2025.03.26-17.14.33
+[2025.03.26-17.14.33:354][306]LogWorld: Bringing up level for play took: 0.001969
+[2025.03.26-17.14.33:355][306]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]LogBlueprintUserMessages: [Crosshair_C_0] 
+[2025.03.26-17.14.33:358][306]PIE: Server logged in
+[2025.03.26-17.14.33:359][306]PIE: Play in editor total start time 0.07 seconds.
+[2025.03.26-17.14.37:705][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-17.14.37:705][430]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TutorialLevel
+[2025.03.26-17.14.37:705][430]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-17.14.37:705][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-17.14.37:708][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.26-17.14.37:711][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-17.14.37:718][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-17.14.37:718][430]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2025.03.26-17.14.37:718][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.03.26-17.14.37:720][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.03.26-17.14.37:726][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.03.26-17.14.37:800][431]LogPlayLevel: Display: Destroying online subsystem :Context_65
