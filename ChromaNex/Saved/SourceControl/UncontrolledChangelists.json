@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/w1993313/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Cube/BP_Cube.uasset",
+				"C:/Users/w1993313/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/Level3.umap",
+				"C:/Users/w1993313/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/ColorPillar/ColorPillar.uasset",
+				"C:/Users/w1993313/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
 				"C:/Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/UI/Crosshair.uasset",
 				"C:/Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/Billboard/Level2/BillboardRedLvl2.uasset",
