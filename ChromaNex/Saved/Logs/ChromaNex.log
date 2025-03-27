@@ -1600,3 +1600,13 @@ Script call stack:
 [2025.03.27-06.54.43:086][966]LogPlayLevel: Display: Destroying online subsystem :Context_7
 [2025.03.27-06.55.15:772][544]LogSlate: Window 'Message Log' being destroyed
 [2025.03.27-06.55.15:780][544]LogSlate: Window 'Message Log' being destroyed
+[2025.03.27-06.55.46:835][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.03.27-06.55.46:837][337]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainMenu' took 0.014
+[2025.03.27-06.55.46:838][337]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu] ([2] browsable assets)...
+[2025.03.27-06.55.46:842][337]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu.MainMenu]
+[2025.03.27-06.55.46:842][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu]
+[2025.03.27-06.55.46:842][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/UI/MainMenu_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.03.27-06.55.46:858][337]LogPackageLocalizationCache: Processed 48 localized package path(s) for 1 prioritized culture(s) in 0.008071 seconds
+[2025.03.27-06.55.47:031][337]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/MainMenu_Auto1
+[2025.03.27-06.55.47:031][337]LogSavePackage: Moving '../../../../../ChromaNex-Repository/ChromaNex/Saved/MainMenu_Auto10186E69F4A704E3933C25FAD94F9E74A.tmp' to '../../../../../ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/UI/MainMenu_Auto1.uasset'
+[2025.03.27-06.55.47:056][337]LogFileHelpers: Auto-saving content packages took 0.219
