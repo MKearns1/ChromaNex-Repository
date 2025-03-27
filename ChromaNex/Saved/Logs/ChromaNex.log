@@ -1670,3 +1670,370 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.27-16.27.32:897][816]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms
 [2025.03.27-16.27.32:900][816]AssetCheck: New page: Asset Save: Level4
 [2025.03.27-16.27.32:900][816]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/level4.Level4
+[2025.03.27-16.28.24:806][283]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-16.28.26:908][388]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Cube/BP_Cube.BP_Cube
+[2025.03.27-16.28.26:909][388]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-16.28.26:909][388]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-16.28.26:933][388]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2025.03.27-16.28.28:175][388]LogSlate: Took 0.006674 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.03.27-16.28.37:544][849]LogViewport: Scene viewport resized to 1141x891, mode Windowed.
+[2025.03.27-16.28.49:975][349]LogSlate: Window 'BP_Cube' being destroyed
+[2025.03.27-16.28.49:989][349]LogSlate: Window 'BP_Cube' being destroyed
+[2025.03.27-16.28.49:995][349]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-16.28.49:995][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-16.28.56:431][705]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 350.607635
+[2025.03.27-16.28.56:595][714]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.27-16.28.56:596][714]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 350.754120, Update Interval: 303.799561
+[2025.03.27-16.29.33:326][642]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2025.03.27-16.29.36:684][793]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.27-16.29.36:692][793]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.27-16.29.36:701][794]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.27-16.29.41:717][ 67]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2025.03.27-16.29.41:718][ 67]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.27-16.30.21:649][243]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-16.30.21:693][244]LogShaderCompilers: Display: ================================================
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display: Total job queries 80, among them cache hits 28 (35.00%)
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display: Tracking 52 distinct input hashes that result in 30 distinct outputs (57.69%)
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display: RAM used: 1.08 MiB of 819.20 MiB budget. Usage: 0.13%
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display: Shaders Compiled: 8
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100%)
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.16 s
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display: Job execution time: average 0.49 s, max 0.55 s
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display: Job life time (pending + execution): average 0.57 s, max 0.71
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display: Shader code size: average 35.479 KiB, min 33.09 KiB, max 37.781 KiB
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.71 s
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display: Average processing rate: 11.24 jobs/sec
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display: Total thread time: 1.491 s
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display: Total thread preprocess time: 0.193 s
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display: Percentage time preprocessing: 12.92%
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display: Effective parallelization: 2.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.24 sec, max 0.25 sec, min 0.23 sec)
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.21 sec, max 0.22 sec, min 0.20 sec)
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.10 sec, max 0.10 sec, min 0.10 sec)
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.84% of total time (compiled    2 times, average 0.24 sec, max 0.25 sec, min 0.23 sec)
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display:                                                 FLumenCardVS - 27.92% of total time (compiled    2 times, average 0.21 sec, max 0.22 sec, min 0.20 sec)
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.33% of total time (compiled    2 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 12.90% of total time (compiled    2 times, average 0.10 sec, max 0.10 sec, min 0.10 sec)
+[2025.03.27-16.30.21:694][244]LogShaderCompilers: Display: ================================================
+[2025.03.27-16.30.49:601][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.03.27-16.30.49:743][787]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-16.30.49:748][787]LogWorldPartition: ULevel::OnLevelLoaded(Level2)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.03.27-16.30.49:748][787]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.27-16.30.49:748][787]LogWorldPartition: UWorldPartition::Initialize : World = Level2, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.27-16.30.49:812][787]LogLinker: Warning: [AssetLog] C:\Users\seemo\Documents\GitHub\ChromaNex-Repository\ChromaNex\Content\__ExternalActors__\Levels\Level2\4\L0\W69L9872SNVKTPK6O60WVJ.uasset: Failed to load '/Game/FirstPerson/Maps/_GENERATED/Sneek/Boolean_09C09883': Can't find file.
+[2025.03.27-16.30.49:812][787]LogLinker: Warning: [AssetLog] C:\Users\seemo\Documents\GitHub\ChromaNex-Repository\ChromaNex\Content\__ExternalActors__\Levels\Level2\4\L0\W69L9872SNVKTPK6O60WVJ.uasset: VerifyImport: Failed to load package for import object 'Package /Game/FirstPerson/Maps/_GENERATED/Sneek/Boolean_09C09883'
+[2025.03.27-16.30.49:972][787]LogContentBundle: [Level2(Standalone)] Creating new contrainer.
+[2025.03.27-16.30.49:972][787]LogWorldPartition: Display: WorldPartition initialize took 223 ms (total: 302 ms)
+[2025.03.27-16.30.49:978][787]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level2.Level2
+[2025.03.27-16.30.49:978][787]Cmd: MAP LOAD FILE="../../../../../../Users/seemo/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.27-16.30.49:978][787]LightingResults: New page: Lighting Build
+[2025.03.27-16.30.49:978][787]LoadErrors: New page: Loading map: Level2.umap
+[2025.03.27-16.30.49:997][787]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-16.30.49:997][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-16.30.49:997][787]MapCheck: New page: Map Check
+[2025.03.27-16.30.49:997][787]LightingResults: New page: Lighting Build
+[2025.03.27-16.30.50:010][787]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.27-16.30.50:012][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.03.27-16.30.50:014][787]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-16.30.50:014][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-16.30.50:015][787]LogContentBundle: [Level2(Standalone)] Deleting container.
+[2025.03.27-16.30.50:029][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.03.27-16.30.50:040][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.03.27-16.30.50:048][787]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2025.03.27-16.30.50:048][787]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-16.30.50:048][787]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-16.30.50:049][787]LogAIModule: Creating AISystem for world Level2
+[2025.03.27-16.30.50:049][787]LogWorldPartition: ULevel::OnLevelLoaded(Level2)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.03.27-16.30.50:049][787]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.27-16.30.50:049][787]LogWorldPartition: UWorldPartition::Initialize : World = Level2, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.27-16.30.50:082][787]LogContentBundle: [Level2(Standalone)] Creating new contrainer.
+[2025.03.27-16.30.50:082][787]LogWorldPartition: Display: WorldPartition initialize took 33 ms (total: 336 ms)
+[2025.03.27-16.30.50:101][787]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.27-16.30.50:114][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.27-16.30.50:120][787]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.27-16.30.50:121][787]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.257ms to complete.
+[2025.03.27-16.30.55:500][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.03.27-16.30.55:706][ 50]LogStaticMesh: Display: Building static mesh Boolean_745E4F16...
+[2025.03.27-16.30.55:712][ 50]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-16.30.55:719][ 50]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level3.Level3
+[2025.03.27-16.30.55:719][ 50]Cmd: MAP LOAD FILE="../../../../../../Users/seemo/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.27-16.30.55:719][ 50]LightingResults: New page: Lighting Build
+[2025.03.27-16.30.55:719][ 50]LoadErrors: New page: Loading map: Level3.umap
+[2025.03.27-16.30.55:739][ 50]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-16.30.55:739][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-16.30.55:740][ 50]LogContentBundle: [Level2(Standalone)] Deleting container.
+[2025.03.27-16.30.55:740][ 50]MapCheck: New page: Map Check
+[2025.03.27-16.30.55:740][ 50]LightingResults: New page: Lighting Build
+[2025.03.27-16.30.55:751][ 50]LogStaticMesh: Built static mesh [0.05s] /Game/Levels/_GENERATED/w1993975/Boolean_745E4F16.Boolean_745E4F16
+[2025.03.27-16.30.55:753][ 50]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.27-16.30.55:758][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.03.27-16.30.55:760][ 50]LogStaticMesh: Display: Building static mesh Boolean_745E4F16...
+[2025.03.27-16.30.55:777][ 50]LogStaticMesh: Display: Waiting for static meshes to be ready 0/4 (/Game/Levels/_GENERATED/w1993975/Boolean_745E4F16) ...
+[2025.03.27-16.30.55:797][ 50]LogStaticMesh: Built static mesh [0.04s] /Game/Levels/_GENERATED/w1993975/Boolean_745E4F16.Boolean_745E4F16
+[2025.03.27-16.30.56:407][ 50]LogDerivedDataCache: C:/Users/seemo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/seemo/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/0b/6c/43be5cd97dee93ff7dfda7fa5c1068bb1dd0.udd from '/Game/Levels/_GENERATED/w1993975/Boolean_745E4F16.Boolean_745E4F16'.
+[2025.03.27-16.30.56:408][ 50]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-16.30.56:408][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-16.30.56:421][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.03.27-16.30.56:429][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.03.27-16.30.56:437][ 50]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level3'.
+[2025.03.27-16.30.56:437][ 50]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-16.30.56:437][ 50]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-16.30.56:438][ 50]LogAIModule: Creating AISystem for world Level3
+[2025.03.27-16.30.56:466][ 50]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.27-16.30.56:480][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.03.27-16.30.56:486][ 50]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.27-16.30.56:486][ 50]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2025.03.27-16.31.05:279][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.03.27-16.31.05:433][532]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-16.31.05:451][532]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level5.Level5
+[2025.03.27-16.31.05:451][532]Cmd: MAP LOAD FILE="../../../../../../Users/seemo/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/Level5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.27-16.31.05:451][532]LightingResults: New page: Lighting Build
+[2025.03.27-16.31.05:451][532]LoadErrors: New page: Loading map: Level5.umap
+[2025.03.27-16.31.05:470][532]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-16.31.05:470][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-16.31.05:470][532]MapCheck: New page: Map Check
+[2025.03.27-16.31.05:470][532]LightingResults: New page: Lighting Build
+[2025.03.27-16.31.05:481][532]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.27-16.31.05:485][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.03.27-16.31.05:488][532]LogWorld: UWorld::CleanupWorld for Level5, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-16.31.05:488][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-16.31.05:500][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.03.27-16.31.05:511][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.27-16.31.05:521][532]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level5'.
+[2025.03.27-16.31.05:521][532]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-16.31.05:521][532]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-16.31.05:522][532]LogAIModule: Creating AISystem for world Level5
+[2025.03.27-16.31.05:556][532]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.27-16.31.05:568][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.03.27-16.31.05:575][532]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.27-16.31.05:575][532]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.167ms to complete.
+[2025.03.27-16.31.12:088][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.27-16.31.12:222][885]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-16.31.12:229][885]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/level4.Level4
+[2025.03.27-16.31.12:229][885]Cmd: MAP LOAD FILE="../../../../../../Users/seemo/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/level4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.27-16.31.12:229][885]LightingResults: New page: Lighting Build
+[2025.03.27-16.31.12:229][885]LoadErrors: New page: Loading map: level4.umap
+[2025.03.27-16.31.12:250][885]LogWorld: UWorld::CleanupWorld for Level5, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-16.31.12:250][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-16.31.12:250][885]MapCheck: New page: Map Check
+[2025.03.27-16.31.12:250][885]LightingResults: New page: Lighting Build
+[2025.03.27-16.31.12:261][885]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.27-16.31.12:265][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.03.27-16.31.12:267][885]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-16.31.12:267][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-16.31.12:279][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.27-16.31.12:291][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.03.27-16.31.12:296][885]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level4'.
+[2025.03.27-16.31.12:296][885]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-16.31.12:296][885]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-16.31.12:297][885]LogAIModule: Creating AISystem for world Level4
+[2025.03.27-16.31.12:317][885]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.27-16.31.12:331][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.03.27-16.31.12:336][885]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.27-16.31.12:337][885]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.18ms to complete.
+[2025.03.27-16.31.58:861][491]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.27-16.31.58:877][491]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.27-16.31.58:885][492]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.27-16.32.01:261][627]LogContentBrowser: Attempting asset rename: NewFolder -> pipes
+[2025.03.27-16.32.01:262][627]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.27-16.32.12:264][ 81]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/seemo/Documents/Blender/model pipe.fbx)
+[2025.03.27-16.32.12:289][ 81]LogFbx: Loading FBX Scene from ../../../../../../Users/seemo/Documents/Blender/model pipe.fbx
+[2025.03.27-16.32.12:298][ 81]LogFbx: FBX Scene Loaded Succesfully
+[2025.03.27-16.32.14:218][ 81]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.03.27-16.32.14:441][ 81]LogFbx: Display: Triangulating static mesh Cylinder
+[2025.03.27-16.32.14:489][ 81]LogStaticMesh: Display: Building static mesh model_pipe_Cylinder...
+[2025.03.27-16.32.14:509][ 81]LogStaticMesh: Built static mesh [0.02s] /Game/pipes/model_pipe_Cylinder.model_pipe_Cylinder
+[2025.03.27-16.32.14:513][ 81]LogStaticMesh: Warning: model_pipe_Cylinder has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.03.27-16.32.14:513][ 81]LogStaticMesh: Warning: model_pipe_Cylinder has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.03.27-16.32.14:530][ 81]LogFbx: Display: Triangulating static mesh Cylinder.001
+[2025.03.27-16.32.14:550][ 81]LogStaticMesh: Display: Building static mesh model_pipe_Cylinder_001...
+[2025.03.27-16.32.14:557][ 81]LogStaticMesh: Built static mesh [0.01s] /Game/pipes/model_pipe_Cylinder_001.model_pipe_Cylinder_001
+[2025.03.27-16.32.14:577][ 81]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.03.27-16.32.14:577][ 81]FBXImport: Warning: model_pipe_Cylinder has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2025.03.27-16.32.14:577][ 81]FBXImport: Warning: model_pipe_Cylinder has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2025.03.27-16.32.26:518][838]LogSlate: Window 'Message Log' being destroyed
+[2025.03.27-16.32.26:539][838]LogSlate: Window 'Message Log' being destroyed
+[2025.03.27-16.32.32:971][222]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/pipes/model_pipe_Cylinder.model_pipe_Cylinder
+[2025.03.27-16.32.33:114][222]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-16.32.33:114][222]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-16.32.33:536][222]LogViewport: Scene viewport resized to 1405x918, mode Windowed.
+[2025.03.27-16.32.42:850][633]LogSlate: Window 'model_pipe_Cylinder' being destroyed
+[2025.03.27-16.32.42:875][633]LogSlate: Window 'model_pipe_Cylinder' being destroyed
+[2025.03.27-16.32.42:906][633]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-16.32.42:906][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-16.32.50:450][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.03.27-16.32.51:457][ 80]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-16.32.51:485][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.03.27-16.32.51:496][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.03.27-16.32.51:507][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.27-16.34.03:800][397]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 657.978577
+[2025.03.27-16.34.04:801][400]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.27-16.34.04:801][400]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 658.645447, Update Interval: 353.290802
+[2025.03.27-16.35.39:983][ 25]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/seemo/Documents/Blender/model pipe.fbx)
+[2025.03.27-16.35.39:986][ 25]LogFbx: Loading FBX Scene from ../../../../../../Users/seemo/Documents/Blender/model pipe.fbx
+[2025.03.27-16.35.39:989][ 25]LogFbx: FBX Scene Loaded Succesfully
+[2025.03.27-16.35.51:527][ 25]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.03.27-16.35.51:709][ 25]LogFbx: Display: Triangulating static mesh Cylinder
+[2025.03.27-16.35.51:756][ 25]LogStaticMesh: Warning: model_pipe has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.03.27-16.35.51:756][ 25]LogStaticMesh: Warning: model_pipe has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.03.27-16.35.51:777][ 25]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.03.27-16.35.51:777][ 25]FBXImport: Warning: model_pipe has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2025.03.27-16.35.51:777][ 25]FBXImport: Warning: model_pipe has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display: ================================================
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display: Total job queries 120, among them cache hits 44 (36.67%)
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display: Tracking 68 distinct input hashes that result in 41 distinct outputs (60.29%)
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display: RAM used: 1.43 MiB of 819.20 MiB budget. Usage: 0.17%
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display: Shaders Compiled: 12
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100%)
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display: Average time worker was idle: 527.91 s
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.16 s
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display: Job execution time: average 0.46 s, max 0.55 s
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display: Job life time (pending + execution): average 0.54 s, max 0.71
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display: Shader code size: average 34.949 KiB, min 29.711 KiB, max 37.781 KiB
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.24 s
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display: Average processing rate: 9.71 jobs/sec
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display: Total thread time: 2.166 s
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display: Total thread preprocess time: 0.281 s
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display: Percentage time preprocessing: 12.96%
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display: Effective parallelization: 1.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.23 sec, max 0.25 sec, min 0.20 sec)
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.20 sec, max 0.22 sec, min 0.19 sec)
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.20 sec, max 0.20 sec, min 0.19 sec)
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    3 times, average 0.10 sec, max 0.10 sec, min 0.10 sec)
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.33% of total time (compiled    3 times, average 0.23 sec, max 0.25 sec, min 0.20 sec)
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display:                                                 FLumenCardVS - 27.95% of total time (compiled    3 times, average 0.20 sec, max 0.22 sec, min 0.19 sec)
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.43% of total time (compiled    3 times, average 0.20 sec, max 0.20 sec, min 0.19 sec)
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 13.29% of total time (compiled    3 times, average 0.10 sec, max 0.10 sec, min 0.10 sec)
+[2025.03.27-16.35.52:155][ 25]LogShaderCompilers: Display: ================================================
+[2025.03.27-16.35.58:858][296]LogSlate: Window 'Content Browser' being destroyed
+[2025.03.27-16.35.59:036][296]LogSlate: Window 'Content Browser' being destroyed
+[2025.03.27-16.36.01:391][326]LogSlate: Window 'Message Log' being destroyed
+[2025.03.27-16.36.01:412][326]LogSlate: Window 'Message Log' being destroyed
+[2025.03.27-16.36.03:777][422]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/pipes/model_pipe.model_pipe
+[2025.03.27-16.36.03:780][422]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/pipes/model_pipe.model_pipe
+[2025.03.27-16.36.03:781][422]LogActorFactory: Actor Factory spawned StaticMesh /Game/pipes/model_pipe.model_pipe as actor: StaticMeshActor /Game/Levels/level4.Level4:PersistentLevel.StaticMeshActor_3
+[2025.03.27-16.36.05:405][438]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/pipes/model_pipe.model_pipe
+[2025.03.27-16.36.05:405][438]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/pipes/model_pipe.model_pipe
+[2025.03.27-16.36.05:410][438]LogActorFactory: Actor Factory spawned StaticMesh /Game/pipes/model_pipe.model_pipe as actor: StaticMeshActor /Game/Levels/level4.Level4:PersistentLevel.StaticMeshActor_8
+[2025.03.27-16.36.15:638][806]Cmd: DELETE
+[2025.03.27-16.36.15:638][806]Cmd: ACTOR DELETE
+[2025.03.27-16.36.15:644][806]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.27-16.36.15:662][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.03.27-16.36.15:668][806]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2025.03.27-16.36.20:354][859]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/pipes/model_pipe.model_pipe
+[2025.03.27-16.36.20:473][859]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-16.36.20:473][859]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-16.36.20:822][859]LogViewport: Scene viewport resized to 1405x918, mode Windowed.
+[2025.03.27-16.38.54:271][396]LogSlate: Window 'model_pipe' being destroyed
+[2025.03.27-16.38.54:293][396]LogSlate: Window 'model_pipe' being destroyed
+[2025.03.27-16.38.54:343][396]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-16.38.54:343][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-16.39.08:019][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.27-16.39.09:018][809]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-16.39.09:044][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.03.27-16.39.09:054][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.03.27-16.39.09:064][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.27-16.40.03:815][351]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/seemo/Documents/Blender/model pipe.fbx)
+[2025.03.27-16.40.03:819][351]LogFbx: Loading FBX Scene from ../../../../../../Users/seemo/Documents/Blender/model pipe.fbx
+[2025.03.27-16.40.03:822][351]LogFbx: FBX Scene Loaded Succesfully
+[2025.03.27-16.40.05:283][351]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.03.27-16.40.05:470][351]LogFbx: Display: Triangulating static mesh Cylinder
+[2025.03.27-16.40.05:514][351]LogStaticMesh: Display: Building static mesh model_pipe...
+[2025.03.27-16.40.05:534][351]LogStaticMesh: Built static mesh [0.02s] /Game/pipes/model_pipe.model_pipe
+[2025.03.27-16.40.05:539][351]LogStaticMesh: Warning: model_pipe has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.03.27-16.40.05:539][351]LogStaticMesh: Warning: model_pipe has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.03.27-16.40.05:561][351]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.03.27-16.40.05:561][351]FBXImport: Warning: model_pipe has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2025.03.27-16.40.05:561][351]FBXImport: Warning: model_pipe has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display: ================================================
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display: Total job queries 132, among them cache hits 56 (42.42%)
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display: Tracking 68 distinct input hashes that result in 41 distinct outputs (60.29%)
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display: RAM used: 1.43 MiB of 819.20 MiB budget. Usage: 0.17%
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display: Shaders Compiled: 12
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100%)
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display: Average time worker was idle: 527.91 s
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.16 s
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display: Job execution time: average 0.46 s, max 0.55 s
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display: Job life time (pending + execution): average 0.54 s, max 0.71
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display: Shader code size: average 34.949 KiB, min 29.711 KiB, max 37.781 KiB
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.24 s
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display: Average processing rate: 9.71 jobs/sec
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display: Total thread time: 2.166 s
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display: Total thread preprocess time: 0.281 s
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display: Percentage time preprocessing: 12.96%
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display: Effective parallelization: 1.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.23 sec, max 0.25 sec, min 0.20 sec)
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.20 sec, max 0.22 sec, min 0.19 sec)
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.20 sec, max 0.20 sec, min 0.19 sec)
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    3 times, average 0.10 sec, max 0.10 sec, min 0.10 sec)
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.33% of total time (compiled    3 times, average 0.23 sec, max 0.25 sec, min 0.20 sec)
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display:                                                 FLumenCardVS - 27.95% of total time (compiled    3 times, average 0.20 sec, max 0.22 sec, min 0.19 sec)
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.43% of total time (compiled    3 times, average 0.20 sec, max 0.20 sec, min 0.19 sec)
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 13.29% of total time (compiled    3 times, average 0.10 sec, max 0.10 sec, min 0.10 sec)
+[2025.03.27-16.40.05:903][351]LogShaderCompilers: Display: ================================================
+[2025.03.27-16.40.05:936][352]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1020.112976
+[2025.03.27-16.40.06:253][356]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.27-16.40.06:253][356]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1020.416565, Update Interval: 347.790161
+[2025.03.27-16.40.07:593][442]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/pipes/model_pipe.model_pipe
+[2025.03.27-16.40.07:731][442]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-16.40.07:731][442]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-16.40.08:076][442]LogViewport: Scene viewport resized to 1405x918, mode Windowed.
+[2025.03.27-16.40.29:827][945]LogSlate: Window 'model_pipe' being destroyed
+[2025.03.27-16.40.30:034][945]LogSlate: Window 'model_pipe' being destroyed
+[2025.03.27-16.40.30:061][945]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-16.40.30:062][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-16.41.12:298][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.03.27-16.41.12:316][137]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/level4_Auto1
+[2025.03.27-16.41.12:316][137]LogSavePackage: Moving '../../../../../../Users/seemo/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/level4_Auto1CDB5C3674B2F00DA02B41BABF373B56B.tmp' to '../../../../../../Users/seemo/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/Levels/level4_Auto1.umap'
+[2025.03.27-16.41.12:317][137]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/seemo/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/Levels/level4_Auto1.umap is in the /Temp path, will not scan.
+[2025.03.27-16.41.12:317][137]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/level4' took 0.031
+[2025.03.27-16.41.12:317][137]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.031
+[2025.03.27-16.41.12:318][137]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pipes/model_pipe] ([1] browsable assets)...
+[2025.03.27-16.41.12:453][137]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/pipes/model_pipe.model_pipe]
+[2025.03.27-16.41.12:453][137]OBJ SavePackage: Finished generating thumbnails for package [/Game/pipes/model_pipe]
+[2025.03.27-16.41.12:458][137]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/pipes/model_pipe_Auto1
+[2025.03.27-16.41.12:459][137]LogSavePackage: Moving '../../../../../../Users/seemo/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/model_pipe_Auto1082731F4426738FF85EA4CAD893E0911.tmp' to '../../../../../../Users/seemo/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/pipes/model_pipe_Auto1.uasset'
+[2025.03.27-16.41.12:459][137]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pipes/glass] ([1] browsable assets)...
+[2025.03.27-16.41.13:131][137]OBJ SavePackage:     Rendered thumbnail for [Material /Game/pipes/glass.glass]
+[2025.03.27-16.41.13:131][137]OBJ SavePackage: Finished generating thumbnails for package [/Game/pipes/glass]
+[2025.03.27-16.41.13:132][137]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/pipes/glass_Auto1
+[2025.03.27-16.41.13:132][137]LogSavePackage: Moving '../../../../../../Users/seemo/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/glass_Auto19AE25B15400C807EFEE3DAB1E22D6AD0.tmp' to '../../../../../../Users/seemo/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/pipes/glass_Auto1.uasset'
+[2025.03.27-16.41.13:133][137]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pipes/Black] ([1] browsable assets)...
+[2025.03.27-16.41.13:153][137]OBJ SavePackage:     Rendered thumbnail for [Material /Game/pipes/Black.Black]
+[2025.03.27-16.41.13:154][137]OBJ SavePackage: Finished generating thumbnails for package [/Game/pipes/Black]
+[2025.03.27-16.41.13:155][137]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/pipes/Black_Auto1
+[2025.03.27-16.41.13:155][137]LogSavePackage: Moving '../../../../../../Users/seemo/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/Black_Auto123BBDDC142F09411DF236B9665E3BAE8.tmp' to '../../../../../../Users/seemo/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/pipes/Black_Auto1.uasset'
+[2025.03.27-16.41.13:156][137]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pipes/Bolts] ([1] browsable assets)...
+[2025.03.27-16.41.13:177][137]OBJ SavePackage:     Rendered thumbnail for [Material /Game/pipes/Bolts.Bolts]
+[2025.03.27-16.41.13:178][137]OBJ SavePackage: Finished generating thumbnails for package [/Game/pipes/Bolts]
+[2025.03.27-16.41.13:179][137]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/pipes/Bolts_Auto1
+[2025.03.27-16.41.13:179][137]LogSavePackage: Moving '../../../../../../Users/seemo/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/Bolts_Auto1E8A8C68E4B1A1C8C1501D7B63FDC098C.tmp' to '../../../../../../Users/seemo/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/Autosaves/Game/pipes/Bolts_Auto1.uasset'
+[2025.03.27-16.41.13:180][137]LogFileHelpers: Auto-saving content packages took 0.863
+[2025.03.27-16.41.24:929][307]LogSlate: Window 'Content Browser' being destroyed
+[2025.03.27-16.41.24:947][307]LogSlate: Window 'Content Browser' being destroyed
+[2025.03.27-16.41.26:171][394]LogSlate: Window 'Message Log' being destroyed
+[2025.03.27-16.41.26:191][394]LogSlate: Window 'Message Log' being destroyed
+[2025.03.27-16.41.37:030][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-16.41.37:205][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.27-16.41.37:223][651]LogSavePackage: Moving output files for package: /Game/Levels/level4
+[2025.03.27-16.41.37:225][651]LogSavePackage: Moving '../../../../../../Users/seemo/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/level454FA5168401919427FC3BF867858172F.tmp' to '../../../../../../Users/seemo/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/level4.umap'
+[2025.03.27-16.41.37:231][651]LogFileHelpers: Saving map 'level4' took 0.056
+[2025.03.27-16.41.37:236][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 404 ms)
+[2025.03.27-16.41.37:238][651]AssetCheck: New page: Asset Save: Level4
+[2025.03.27-16.41.37:239][651]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/level4.Level4
