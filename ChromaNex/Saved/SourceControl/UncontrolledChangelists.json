@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/ChromaNex-Repository/ChromaNex/Content/UI/MainMenu.uasset",
 				"C:/Users/w1993975/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/BPI_ColourProperties.uasset",
 				"C:/Users/w1993975/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
 				"C:/Users/w1993975/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Interfaces/PhysicEffect_Interface.uasset",
