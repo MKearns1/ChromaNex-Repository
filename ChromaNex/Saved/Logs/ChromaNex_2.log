@@ -7975,3 +7975,6 @@ Make sure 'LevelResult_C' has been compiled for  Get Timer
 [2025.03.29-21.23.17:751][354]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
 [2025.03.29-21.23.17:751][354]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
 [2025.03.29-21.23.17:751][354]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2025.03.29-21.23.18:147][354]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.03.29-21.23.18:227][354]LogExit: Exiting.
+[2025.03.29-21.23.18:238][354]Log file closed, 03/29/25 21:23:18
