@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/aknig/OneDrive/Documents/ChromaNex-Repository/ChromaNex/Content/Hook/BP_Hook.uasset",
+				"C:/Users/aknig/OneDrive/Documents/ChromaNex-Repository/ChromaNex/Content/Materials/M_BaseColour.uasset",
+				"C:/Users/aknig/OneDrive/Documents/ChromaNex-Repository/ChromaNex/Content/Materials/MI_Purple.uasset",
+				"C:/Users/aknig/OneDrive/Documents/ChromaNex-Repository/ChromaNex/Content/Materials/MI_Yellow.uasset",
+				"C:/Users/aknig/OneDrive/Documents/ChromaNex-Repository/ChromaNex/Content/Levels/Level5.umap",
+				"C:/Users/aknig/OneDrive/Documents/ChromaNex-Repository/ChromaNex/Content/Materials/MI_Brown.uasset",
 				"C:/Users/w1993975/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Levels/Level2/3/SU/HZY3KI1QU4TIYUKZCHJDHZ.uasset",
 				"C:/Users/w1993975/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Levels/Level2/D/4C/JEHYF2XWZK28GIFR4NO7YY.uasset",
 				"C:/Users/w1993975/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Levels/Level2/8/SO/MJQT51DYYLOK2JUNU57EVP.uasset",
