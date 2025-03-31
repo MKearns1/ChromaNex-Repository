@@ -17969,3 +17969,947 @@ Script Stack (0 frames) :
 [2025.03.31-04.40.33:284][828]AssetCheck: New page: Asset Save: Level3
 [2025.03.31-04.40.33:284][828]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level3.Level3
 [2025.03.31-04.40.44:068][989]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15141.385742
+[2025.03.31-04.40.45:070][992]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.31-04.40.45:070][992]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15142.051758, Update Interval: 331.835693
+[2025.03.31-04.41.07:799][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.03.31-04.41.07:842][747]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.31-04.41.07:843][747]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.03.31-04.41.07:843][747]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.31-04.41.07:843][747]LogWorldPartition: UWorldPartition::Initialize : World = Level1, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.31-04.41.07:873][747]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2025.03.31-04.41.07:873][747]LogWorldPartition: Display: WorldPartition initialize took 31 ms (total: 836 ms)
+[2025.03.31-04.41.07:881][747]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CeilingTypes' of length 1 in '/Game/Floors/BP_Ceiling.BP_Ceiling_C'!
+[2025.03.31-04.41.07:881][747]LogScript: Warning: Script Msg called by: BP_Ceiling_C /Game/Levels/Level1.Level1:PersistentLevel.BP_Ceiling_C_UAID_CC28AA7C58524D5A02_1409844099
+[2025.03.31-04.41.07:885][747]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.41.07:885][747]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/Level1.Level1:PersistentLevel.BP_Floor1_C_UAID_CC28AA7C58524D5A02_1327104098
+[2025.03.31-04.41.07:901][747]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level1.Level1
+[2025.03.31-04.41.07:901][747]Cmd: MAP LOAD FILE="../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.31-04.41.07:901][747]LightingResults: New page: Lighting Build
+[2025.03.31-04.41.07:902][747]LoadErrors: New page: Loading map: Level1.umap
+[2025.03.31-04.41.07:975][747]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-04.41.07:975][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.41.07:975][747]MapCheck: New page: Map Check
+[2025.03.31-04.41.07:975][747]LightingResults: New page: Lighting Build
+[2025.03.31-04.41.07:989][747]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.31-04.41.07:998][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.03.31-04.41.08:003][747]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-04.41.08:004][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.41.08:005][747]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2025.03.31-04.41.08:021][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.03.31-04.41.08:033][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.31-04.41.08:042][747]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2025.03.31-04.41.08:042][747]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.31-04.41.08:043][747]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.31-04.41.08:043][747]LogAIModule: Creating AISystem for world Level1
+[2025.03.31-04.41.08:043][747]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.03.31-04.41.08:043][747]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.31-04.41.08:043][747]LogWorldPartition: UWorldPartition::Initialize : World = Level1, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.31-04.41.08:074][747]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2025.03.31-04.41.08:075][747]LogWorldPartition: Display: WorldPartition initialize took 30 ms (total: 867 ms)
+[2025.03.31-04.41.08:089][747]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CeilingTypes' of length 1 in '/Game/Floors/BP_Ceiling.BP_Ceiling_C'!
+[2025.03.31-04.41.08:089][747]LogScript: Warning: Script Msg called by: BP_Ceiling_C /Game/Levels/Level1.Level1:PersistentLevel.BP_Ceiling_C_UAID_CC28AA7C58524D5A02_1409844099
+[2025.03.31-04.41.08:099][747]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.41.08:099][747]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/Level1.Level1:PersistentLevel.BP_Floor1_C_UAID_CC28AA7C58524D5A02_1327104098
+[2025.03.31-04.41.08:149][747]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.31-04.41.08:164][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.03.31-04.41.08:172][747]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.31-04.41.08:172][747]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.215ms to complete.
+[2025.03.31-04.41.40:651][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-04.41.40:687][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/0/HN/5PHKJBMMVRX54UCCBR04AF
+[2025.03.31-04.41.40:687][923]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/5PHKJBMMVRX54UCCBR04AF49A9288140ABA4AB888122B377ACDF5F.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Levels/Level1/0/HN/5PHKJBMMVRX54UCCBR04AF.uasset'
+[2025.03.31-04.41.40:692][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/D/4H/1RU8322CRUEHXCGGF00F0B
+[2025.03.31-04.41.40:692][923]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/1RU8322CRUEHXCGGF00F0BEA09E6BD4E3589C68D55BB821B3F09DE.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Levels/Level1/D/4H/1RU8322CRUEHXCGGF00F0B.uasset'
+[2025.03.31-04.41.40:700][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 18.5 sec)
+[2025.03.31-04.41.40:702][923]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.31-04.41.40:702][923]LogContentValidation: Display: Validating /Game/Wall/Wall1/BP_Wall1.BP_Wall1_C /Game/Levels/Level1.Level1:PersistentLevel.BP_Wall1_C_UAID_CC28AA7C58524D5A02_1295823097
+[2025.03.31-04.41.40:702][923]LogContentValidation: Display: Validating /Game/Wall/Wall1/BP_Wall1.BP_Wall1_C /Game/Levels/Level1.Level1:PersistentLevel.BP_Wall1_C_UAID_CC28AA7C58524D5A02_1171498096
+[2025.03.31-04.41.43:530][ 86]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.31-04.41.43:536][ 86]LogContentBundle: [Level1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.31-04.41.43:536][ 86]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2025.03.31-04.41.43:538][ 86]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 1 ms (total: 356 ms)
+[2025.03.31-04.41.43:538][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.31-04.41.43:538][ 86]PIE: New page: PIE session: Level1 (31 Mar 2025, 06:41:43)
+[2025.03.31-04.41.43:538][ 86]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2025.03.31-04.41.43:548][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009647s)
+[2025.03.31-04.41.43:548][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.009677s)
+[2025.03.31-04.41.43:558][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.31-04.41.43:565][ 86]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.31-04.41.43:565][ 86]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.31-04.41.43:565][ 86]LogAIModule: Creating AISystem for world Level1
+[2025.03.31-04.41.43:566][ 86]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.31-04.41.43:566][ 86]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.31-04.41.43:566][ 86]LogWorldPartition: UWorldPartition::Initialize : World = Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.31-04.41.43:566][ 86]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.31-04.41.43:569][ 86]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2025.03.31-04.41.43:569][ 86]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 870 ms)
+[2025.03.31-04.41.43:569][ 86]LogPlayLevel: PIE: World Init took: (0.003689s)
+[2025.03.31-04.41.43:569][ 86]LogAudio: Display: Creating Audio Device:                 Id: 88, Scope: Unique, Realtime: True
+[2025.03.31-04.41.43:569][ 86]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.31-04.41.43:569][ 86]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.31-04.41.43:569][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.31-04.41.43:569][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.31-04.41.43:569][ 86]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.31-04.41.43:569][ 86]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.31-04.41.43:569][ 86]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.31-04.41.43:569][ 86]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.31-04.41.43:569][ 86]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.31-04.41.43:569][ 86]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.31-04.41.43:569][ 86]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.31-04.41.43:571][ 86]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.31-04.41.43:583][ 86]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek USB2.0 Audio)
+[2025.03.31-04.41.43:583][ 86]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.31-04.41.43:583][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.31-04.41.43:583][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.31-04.41.43:584][ 86]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=88
+[2025.03.31-04.41.43:584][ 86]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=88
+[2025.03.31-04.41.43:585][ 86]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=88
+[2025.03.31-04.41.43:585][ 86]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=88
+[2025.03.31-04.41.43:585][ 86]LogInit: FAudioDevice initialized with ID 88.
+[2025.03.31-04.41.43:585][ 86]LogAudio: Display: Audio Device (ID: 88) registered with world 'Level1'.
+[2025.03.31-04.41.43:585][ 86]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 88
+[2025.03.31-04.41.43:588][ 86]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.31-04.41.43:595][ 86]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2025.03.31-05.41.43
+[2025.03.31-04.41.43:595][ 86]LogWorld: Bringing up level for play took: 0.006928
+[2025.03.31-04.41.43:597][ 86]LogOnline: OSS: Created online subsystem instance for: :Context_119
+[2025.03.31-04.41.43:600][ 86]PIE: Server logged in
+[2025.03.31-04.41.43:601][ 86]PIE: Play in editor total start time 0.064 seconds.
+[2025.03.31-04.41.43:916][ 98]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 
+[2025.03.31-04.41.48:755][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-04.41.48:755][458]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2025.03.31-04.41.48:755][458]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-04.41.48:756][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.41.48:756][458]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2025.03.31-04.41.48:758][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.31-04.41.48:762][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.41.48:775][458]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.31-04.41.48:776][458]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 88
+[2025.03.31-04.41.48:776][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88
+[2025.03.31-04.41.48:777][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88
+[2025.03.31-04.41.48:781][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-04.41.48:784][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.03.31-04.41.48:838][459]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2025.03.31-04.41.59:766][124]Cmd: TRANSACTION UNDO
+[2025.03.31-04.41.59:766][124]LogEditorTransaction: Undo Move Elements
+[2025.03.31-04.42.05:588][480]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.31-04.42.15:051][123]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.31-04.42.42:383][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-04.42.42:421][702]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/1/EB/Z3ZUP90OKB4CILUPGTL651
+[2025.03.31-04.42.42:422][702]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/Z3ZUP90OKB4CILUPGTL651238411154559AA7D3039739C1B5BB39E.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Levels/Level1/1/EB/Z3ZUP90OKB4CILUPGTL651.uasset'
+[2025.03.31-04.42.42:423][702]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/4/BZ/1DP2I7WG6UQ3ESNNU80VXW
+[2025.03.31-04.42.42:424][702]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/1DP2I7WG6UQ3ESNNU80VXWAD69F6AD4E01B2847BFB868CDA0F39D3.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Levels/Level1/4/BZ/1DP2I7WG6UQ3ESNNU80VXW.uasset'
+[2025.03.31-04.42.42:426][702]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/5/LZ/FTHYQ25ZJC9TEN7XBL31A0
+[2025.03.31-04.42.42:426][702]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/FTHYQ25ZJC9TEN7XBL31A03DD58F234493013CB02BD2B1798DAE2F.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Levels/Level1/5/LZ/FTHYQ25ZJC9TEN7XBL31A0.uasset'
+[2025.03.31-04.42.42:428][702]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/8/BS/C4WDDRAW2BMFGVWBQMSL2L
+[2025.03.31-04.42.42:428][702]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/C4WDDRAW2BMFGVWBQMSL2LED3E7CC84C01D36902604593B8C420FF.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Levels/Level1/8/BS/C4WDDRAW2BMFGVWBQMSL2L.uasset'
+[2025.03.31-04.42.42:430][702]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/8/OR/SZMWATKCUHU5EQN4HEM4CW
+[2025.03.31-04.42.42:430][702]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/SZMWATKCUHU5EQN4HEM4CWA47E27884EC293DD81FFC5BB4A890D1B.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Levels/Level1/8/OR/SZMWATKCUHU5EQN4HEM4CW.uasset'
+[2025.03.31-04.42.42:432][702]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/A/PT/916EW25UYOXKYZJ1ZLU1UD
+[2025.03.31-04.42.42:432][702]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/916EW25UYOXKYZJ1ZLU1UDC0F475164C4BCA15C2BE88B7958B48E4.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Levels/Level1/A/PT/916EW25UYOXKYZJ1ZLU1UD.uasset'
+[2025.03.31-04.42.42:435][702]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/F/55/Z2ZAYLBQTHYJZ3LSHNHFJ0
+[2025.03.31-04.42.42:435][702]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/Z2ZAYLBQTHYJZ3LSHNHFJ01926C7F440D9AEC8F7EEFC8226AE5652.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Levels/Level1/F/55/Z2ZAYLBQTHYJZ3LSHNHFJ0.uasset'
+[2025.03.31-04.42.42:437][702]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/E/24/BSSQMTO335UP4RIUYY361A
+[2025.03.31-04.42.42:437][702]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BSSQMTO335UP4RIUYY361A81F9B18E4CABDC74FAAFC0B6AC0D6483.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Levels/Level1/E/24/BSSQMTO335UP4RIUYY361A.uasset'
+[2025.03.31-04.42.42:444][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 18.5 sec)
+[2025.03.31-04.42.42:448][702]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.31-04.42.42:448][702]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/Level1.Level1:PersistentLevel.StaticMeshActor_5
+[2025.03.31-04.42.42:448][702]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/Level1.Level1:PersistentLevel.StaticMeshActor_13
+[2025.03.31-04.42.42:448][702]LogContentValidation: Display: Validating /Game/ColorPillar/ColorPillar.ColorPillar_C /Game/Levels/Level1.Level1:PersistentLevel.ColorPillar_C_UAID_D8BBC10379A0E15302_1751054749
+[2025.03.31-04.42.42:448][702]LogContentValidation: Display: Validating /Script/Engine.PlayerStart /Game/Levels/Level1.Level1:PersistentLevel.PlayerStart_0
+[2025.03.31-04.42.42:448][702]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/Level1.Level1:PersistentLevel.StaticMeshActor_14
+[2025.03.31-04.42.42:448][702]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/Level1.Level1:PersistentLevel.StaticMeshActor_6
+[2025.03.31-04.42.42:448][702]LogContentValidation: Display: Validating /Game/ColorPillar/ColorPillar.ColorPillar_C /Game/Levels/Level1.Level1:PersistentLevel.ColorPillar_C_UAID_D8BBC10379A0E15302_1658237748
+[2025.03.31-04.42.42:448][702]LogContentValidation: Display: Validating /Game/ColorPillar/ColorPillar.ColorPillar_C /Game/Levels/Level1.Level1:PersistentLevel.ColorPillar_C_UAID_CC28AA7C5852505A02_1626101629
+[2025.03.31-04.42.50:651][175]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.31-04.42.50:660][175]LogContentBundle: [Level1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.31-04.42.50:660][175]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2025.03.31-04.42.50:661][175]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 1 ms (total: 357 ms)
+[2025.03.31-04.42.50:661][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.31-04.42.50:661][175]PIE: New page: PIE session: Level1 (31 Mar 2025, 06:42:50)
+[2025.03.31-04.42.50:661][175]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2025.03.31-04.42.50:671][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010290s)
+[2025.03.31-04.42.50:671][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.010335s)
+[2025.03.31-04.42.50:687][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.31-04.42.50:694][175]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.31-04.42.50:694][175]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.31-04.42.50:694][175]LogAIModule: Creating AISystem for world Level1
+[2025.03.31-04.42.50:694][175]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.31-04.42.50:694][175]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.31-04.42.50:694][175]LogWorldPartition: UWorldPartition::Initialize : World = Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.31-04.42.50:694][175]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.31-04.42.50:696][175]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2025.03.31-04.42.50:696][175]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 872 ms)
+[2025.03.31-04.42.50:696][175]LogPlayLevel: PIE: World Init took: (0.003499s)
+[2025.03.31-04.42.50:696][175]LogAudio: Display: Creating Audio Device:                 Id: 89, Scope: Unique, Realtime: True
+[2025.03.31-04.42.50:696][175]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.31-04.42.50:696][175]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.31-04.42.50:696][175]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.31-04.42.50:696][175]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.31-04.42.50:696][175]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.31-04.42.50:696][175]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.31-04.42.50:697][175]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.31-04.42.50:697][175]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.31-04.42.50:697][175]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.31-04.42.50:697][175]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.31-04.42.50:697][175]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.31-04.42.50:699][175]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.31-04.42.50:710][175]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek USB2.0 Audio)
+[2025.03.31-04.42.50:711][175]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.31-04.42.50:711][175]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.31-04.42.50:711][175]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.31-04.42.50:711][175]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=89
+[2025.03.31-04.42.50:711][175]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=89
+[2025.03.31-04.42.50:712][175]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=89
+[2025.03.31-04.42.50:712][175]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=89
+[2025.03.31-04.42.50:712][175]LogInit: FAudioDevice initialized with ID 89.
+[2025.03.31-04.42.50:712][175]LogAudio: Display: Audio Device (ID: 89) registered with world 'Level1'.
+[2025.03.31-04.42.50:712][175]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 89
+[2025.03.31-04.42.50:715][175]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.31-04.42.50:722][175]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2025.03.31-05.42.50
+[2025.03.31-04.42.50:722][175]LogWorld: Bringing up level for play took: 0.006959
+[2025.03.31-04.42.50:724][175]LogOnline: OSS: Created online subsystem instance for: :Context_120
+[2025.03.31-04.42.50:727][175]PIE: Server logged in
+[2025.03.31-04.42.50:727][175]PIE: Play in editor total start time 0.068 seconds.
+[2025.03.31-04.42.51:036][186]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 
+[2025.03.31-04.43.17:612][ 63]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.31-04.43.21:795][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-04.43.21:795][341]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2025.03.31-04.43.21:795][341]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-04.43.21:796][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.43.21:796][341]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2025.03.31-04.43.21:799][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.31-04.43.21:804][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.43.21:816][341]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.31-04.43.21:817][341]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 89
+[2025.03.31-04.43.21:817][341]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=89
+[2025.03.31-04.43.21:819][341]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=89
+[2025.03.31-04.43.21:821][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-04.43.21:824][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.03.31-04.43.21:879][342]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2025.03.31-04.43.22:980][412]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.31-04.43.22:986][412]LogContentBundle: [Level1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.31-04.43.22:986][412]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2025.03.31-04.43.22:987][412]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 1 ms (total: 359 ms)
+[2025.03.31-04.43.22:988][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.31-04.43.22:988][412]PIE: New page: PIE session: Level1 (31 Mar 2025, 06:43:22)
+[2025.03.31-04.43.23:014][412]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2025.03.31-04.43.23:023][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008984s)
+[2025.03.31-04.43.23:023][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.009018s)
+[2025.03.31-04.43.23:035][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.03.31-04.43.23:039][412]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.31-04.43.23:039][412]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.31-04.43.23:039][412]LogAIModule: Creating AISystem for world Level1
+[2025.03.31-04.43.23:039][412]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.31-04.43.23:039][412]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.31-04.43.23:039][412]LogWorldPartition: UWorldPartition::Initialize : World = Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.31-04.43.23:039][412]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.31-04.43.23:042][412]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2025.03.31-04.43.23:042][412]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 875 ms)
+[2025.03.31-04.43.23:042][412]LogPlayLevel: PIE: World Init took: (0.003434s)
+[2025.03.31-04.43.23:042][412]LogAudio: Display: Creating Audio Device:                 Id: 90, Scope: Unique, Realtime: True
+[2025.03.31-04.43.23:042][412]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.31-04.43.23:042][412]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.31-04.43.23:042][412]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.31-04.43.23:042][412]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.31-04.43.23:042][412]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.31-04.43.23:042][412]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.31-04.43.23:042][412]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.31-04.43.23:042][412]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.31-04.43.23:042][412]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.31-04.43.23:042][412]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.31-04.43.23:042][412]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.31-04.43.23:044][412]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.31-04.43.23:056][412]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek USB2.0 Audio)
+[2025.03.31-04.43.23:056][412]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.31-04.43.23:056][412]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.31-04.43.23:056][412]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.31-04.43.23:056][412]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=90
+[2025.03.31-04.43.23:056][412]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=90
+[2025.03.31-04.43.23:058][412]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=90
+[2025.03.31-04.43.23:058][412]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=90
+[2025.03.31-04.43.23:058][412]LogInit: FAudioDevice initialized with ID 90.
+[2025.03.31-04.43.23:058][412]LogAudio: Display: Audio Device (ID: 90) registered with world 'Level1'.
+[2025.03.31-04.43.23:058][412]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 90
+[2025.03.31-04.43.23:061][412]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.31-04.43.23:069][412]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2025.03.31-05.43.23
+[2025.03.31-04.43.23:069][412]LogWorld: Bringing up level for play took: 0.007547
+[2025.03.31-04.43.23:071][412]LogOnline: OSS: Created online subsystem instance for: :Context_121
+[2025.03.31-04.43.23:073][412]PIE: Server logged in
+[2025.03.31-04.43.23:074][412]PIE: Play in editor total start time 0.088 seconds.
+[2025.03.31-04.43.23:675][446]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 
+[2025.03.31-04.43.24:065][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-04.43.24:065][473]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2025.03.31-04.43.24:065][473]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-04.43.24:066][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.43.24:066][473]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2025.03.31-04.43.24:069][473]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.31-04.43.24:073][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.43.24:086][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-04.43.24:087][473]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 90
+[2025.03.31-04.43.24:087][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90
+[2025.03.31-04.43.24:089][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90
+[2025.03.31-04.43.24:094][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.03.31-04.43.24:149][474]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2025.03.31-04.43.27:169][664]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.31-04.43.27:176][664]LogContentBundle: [Level1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.31-04.43.27:176][664]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2025.03.31-04.43.27:177][664]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 1 ms (total: 360 ms)
+[2025.03.31-04.43.27:178][664]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.31-04.43.27:178][664]PIE: New page: PIE session: Level1 (31 Mar 2025, 06:43:27)
+[2025.03.31-04.43.27:178][664]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2025.03.31-04.43.27:187][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009677s)
+[2025.03.31-04.43.27:187][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.009704s)
+[2025.03.31-04.43.27:200][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.03.31-04.43.27:204][664]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.31-04.43.27:204][664]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.31-04.43.27:205][664]LogAIModule: Creating AISystem for world Level1
+[2025.03.31-04.43.27:205][664]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.31-04.43.27:205][664]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.31-04.43.27:205][664]LogWorldPartition: UWorldPartition::Initialize : World = Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.31-04.43.27:205][664]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.31-04.43.27:207][664]LogContentBundle: [Level1(Standalone)] Creating new contrainer.
+[2025.03.31-04.43.27:208][664]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 877 ms)
+[2025.03.31-04.43.27:208][664]LogPlayLevel: PIE: World Init took: (0.003435s)
+[2025.03.31-04.43.27:208][664]LogAudio: Display: Creating Audio Device:                 Id: 91, Scope: Unique, Realtime: True
+[2025.03.31-04.43.27:208][664]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.31-04.43.27:208][664]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.31-04.43.27:208][664]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.31-04.43.27:208][664]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.31-04.43.27:208][664]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.31-04.43.27:208][664]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.31-04.43.27:208][664]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.31-04.43.27:208][664]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.31-04.43.27:208][664]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.31-04.43.27:208][664]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.31-04.43.27:208][664]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.31-04.43.27:210][664]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.31-04.43.27:221][664]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek USB2.0 Audio)
+[2025.03.31-04.43.27:221][664]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.31-04.43.27:221][664]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.31-04.43.27:221][664]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.31-04.43.27:222][664]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=91
+[2025.03.31-04.43.27:222][664]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=91
+[2025.03.31-04.43.27:224][664]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=91
+[2025.03.31-04.43.27:224][664]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=91
+[2025.03.31-04.43.27:224][664]LogInit: FAudioDevice initialized with ID 91.
+[2025.03.31-04.43.27:224][664]LogAudio: Display: Audio Device (ID: 91) registered with world 'Level1'.
+[2025.03.31-04.43.27:224][664]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 91
+[2025.03.31-04.43.27:226][664]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.31-04.43.27:234][664]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2025.03.31-05.43.27
+[2025.03.31-04.43.27:234][664]LogWorld: Bringing up level for play took: 0.007251
+[2025.03.31-04.43.27:235][664]LogOnline: OSS: Created online subsystem instance for: :Context_122
+[2025.03.31-04.43.27:238][664]PIE: Server logged in
+[2025.03.31-04.43.27:239][664]PIE: Play in editor total start time 0.063 seconds.
+[2025.03.31-04.43.27:519][674]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 
+[2025.03.31-04.44.07:152][481]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.31-04.44.07:195][484]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.31-04.44.07:195][484]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.31-04.44.09:181][634]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.31-04.44.09:181][634]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.31-04.44.09:181][634]LogNet: Browse: /Game/Levels/Level2
+[2025.03.31-04.44.09:181][634]LogLoad: LoadMap: /Game/Levels/Level2
+[2025.03.31-04.44.09:181][634]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2025.03.31-04.44.09:182][634]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-04.44.09:184][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.44.09:184][634]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2025.03.31-04.44.09:219][634]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.31-04.44.09:222][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.03.31-04.44.09:233][634]LogAudio: Display: Audio Device (ID: 91) registered with world 'Level2'.
+[2025.03.31-04.44.09:233][634]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.31-04.44.09:233][634]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.31-04.44.09:233][634]LogAIModule: Creating AISystem for world Level2
+[2025.03.31-04.44.09:234][634]LogWorldPartition: ULevel::OnLevelLoaded(Level2)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.31-04.44.09:234][634]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.31-04.44.09:234][634]LogWorldPartition: UWorldPartition::Initialize : World = Level2, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.03.31-04.44.09:234][634]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.31-04.44.09:234][634]LogWorldPartition: Display: GenerateStreaming for 'Level2' started...
+[2025.03.31-04.44.09:267][634]LogWorldPartition: Display: GenerateStreaming for 'Level2' took 32 ms (total: 392 ms)
+[2025.03.31-04.44.09:269][634]LogContentBundle: [Level2(Standalone)] Creating new contrainer.
+[2025.03.31-04.44.09:269][634]LogWorldPartition: Display: WorldPartition initialize took 35 ms (total: 913 ms)
+[2025.03.31-04.44.09:269][634]LogPlayLevel: PIE: World Init took: (0.036676s)
+[2025.03.31-04.44.09:269][634]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.31-04.44.09:288][634]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.44.09:288][634]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.BP_Floor1_C_UAID_CC28AA7C5852455A02_1476187684
+[2025.03.31-04.44.09:291][634]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.44.09:291][634]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/UEDPIE_0_Level2.Level2:PersistentLevel.BP_Floor1_C_UAID_CC28AA7C5852445A02_2061424506
+[2025.03.31-04.44.09:301][634]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2025.03.31-05.44.09
+[2025.03.31-04.44.09:301][634]LogWorld: Bringing up level for play took: 0.031584
+[2025.03.31-04.44.09:304][634]LogLoad: Took 0.122650 seconds to LoadMap(/Game/Levels/Level2)
+[2025.03.31-04.44.21:935][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-04.44.21:935][231]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2
+[2025.03.31-04.44.21:935][231]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-04.44.21:936][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.44.21:937][231]LogContentBundle: [Level2(Standalone)] Deleting container.
+[2025.03.31-04.44.21:940][231]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.31-04.44.21:946][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.44.21:959][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-04.44.21:960][231]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 91
+[2025.03.31-04.44.21:960][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91
+[2025.03.31-04.44.21:962][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91
+[2025.03.31-04.44.21:970][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.03.31-04.44.22:027][232]LogPlayLevel: Display: Destroying online subsystem :Context_122
+[2025.03.31-04.44.24:061][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.03.31-04.44.25:411][360]LogSlate: Window 'Save Content' being destroyed
+[2025.03.31-04.44.25:438][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-04.44.25:467][360]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/E/24/BSSQMTO335UP4RIUYY361A
+[2025.03.31-04.44.25:468][360]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BSSQMTO335UP4RIUYY361ADB0EFF0445B631C50A05E6820C2FC467.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Levels/Level1/E/24/BSSQMTO335UP4RIUYY361A.uasset'
+[2025.03.31-04.44.25:475][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 18.6 sec)
+[2025.03.31-04.44.25:514][360]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.31-04.44.25:519][360]LogWorldPartition: ULevel::OnLevelLoaded(Level2)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.03.31-04.44.25:519][360]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.31-04.44.25:519][360]LogWorldPartition: UWorldPartition::Initialize : World = Level2, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.31-04.44.25:569][360]LogContentBundle: [Level2(Standalone)] Creating new contrainer.
+[2025.03.31-04.44.25:570][360]LogWorldPartition: Display: WorldPartition initialize took 51 ms (total: 964 ms)
+[2025.03.31-04.44.25:581][360]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.44.25:581][360]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/Level2.Level2:PersistentLevel.BP_Floor1_C_UAID_CC28AA7C5852455A02_1476187684
+[2025.03.31-04.44.25:583][360]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.44.25:583][360]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/Level2.Level2:PersistentLevel.BP_Floor1_C_UAID_CC28AA7C5852445A02_2061424506
+[2025.03.31-04.44.25:591][360]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level2.Level2
+[2025.03.31-04.44.25:591][360]Cmd: MAP LOAD FILE="../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.31-04.44.25:591][360]LightingResults: New page: Lighting Build
+[2025.03.31-04.44.25:591][360]LoadErrors: New page: Loading map: Level2.umap
+[2025.03.31-04.44.25:647][360]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-04.44.25:647][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.44.25:648][360]LogContentBundle: [Level1(Standalone)] Deleting container.
+[2025.03.31-04.44.25:648][360]MapCheck: New page: Map Check
+[2025.03.31-04.44.25:648][360]LightingResults: New page: Lighting Build
+[2025.03.31-04.44.25:662][360]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.31-04.44.25:668][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.03.31-04.44.25:671][360]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-04.44.25:672][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.44.25:673][360]LogContentBundle: [Level2(Standalone)] Deleting container.
+[2025.03.31-04.44.25:688][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.03.31-04.44.25:702][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.03.31-04.44.25:712][360]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2025.03.31-04.44.25:713][360]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.31-04.44.25:713][360]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.31-04.44.25:713][360]LogAIModule: Creating AISystem for world Level2
+[2025.03.31-04.44.25:713][360]LogWorldPartition: ULevel::OnLevelLoaded(Level2)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.03.31-04.44.25:713][360]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.31-04.44.25:713][360]LogWorldPartition: UWorldPartition::Initialize : World = Level2, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.31-04.44.25:760][360]LogContentBundle: [Level2(Standalone)] Creating new contrainer.
+[2025.03.31-04.44.25:760][360]LogWorldPartition: Display: WorldPartition initialize took 46 ms (total: 1.01 sec)
+[2025.03.31-04.44.25:779][360]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.44.25:779][360]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/Level2.Level2:PersistentLevel.BP_Floor1_C_UAID_CC28AA7C5852455A02_1476187684
+[2025.03.31-04.44.25:783][360]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.44.25:783][360]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/Level2.Level2:PersistentLevel.BP_Floor1_C_UAID_CC28AA7C5852445A02_2061424506
+[2025.03.31-04.44.25:817][360]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.31-04.44.25:832][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.03.31-04.44.25:839][360]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.31-04.44.25:839][360]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.225ms to complete.
+[2025.03.31-04.44.25:867][360]AssetCheck: New page: Asset Save: ColorPillar_C_UAID_CC28AA7C5852505A02_1626101629
+[2025.03.31-04.45.21:226][ 55]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.31-04.45.21:233][ 55]LogContentBundle: [Level2(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.31-04.45.21:233][ 55]LogWorldPartition: Display: GenerateStreaming for 'Level2' started...
+[2025.03.31-04.45.21:235][ 55]LogWorldPartition: Display: GenerateStreaming for 'Level2' took 1 ms (total: 394 ms)
+[2025.03.31-04.45.21:235][ 55]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.31-04.45.21:235][ 55]PIE: New page: PIE session: Level2 (31 Mar 2025, 06:45:21)
+[2025.03.31-04.45.21:264][ 55]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2
+[2025.03.31-04.45.21:272][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008904s)
+[2025.03.31-04.45.21:272][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2.Level2 to /Game/Levels/UEDPIE_0_Level2.Level2 (0.008940s)
+[2025.03.31-04.45.21:282][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.03.31-04.45.21:289][ 55]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.31-04.45.21:289][ 55]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.31-04.45.21:289][ 55]LogAIModule: Creating AISystem for world Level2
+[2025.03.31-04.45.21:289][ 55]LogWorldPartition: ULevel::OnLevelLoaded(Level2)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.31-04.45.21:289][ 55]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.31-04.45.21:289][ 55]LogWorldPartition: UWorldPartition::Initialize : World = Level2, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.31-04.45.21:289][ 55]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.31-04.45.21:292][ 55]LogContentBundle: [Level2(Standalone)] Creating new contrainer.
+[2025.03.31-04.45.21:292][ 55]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 1.01 sec)
+[2025.03.31-04.45.21:292][ 55]LogPlayLevel: PIE: World Init took: (0.003098s)
+[2025.03.31-04.45.21:292][ 55]LogAudio: Display: Creating Audio Device:                 Id: 92, Scope: Unique, Realtime: True
+[2025.03.31-04.45.21:292][ 55]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.31-04.45.21:292][ 55]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.31-04.45.21:292][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.31-04.45.21:292][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.31-04.45.21:292][ 55]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.31-04.45.21:292][ 55]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.31-04.45.21:292][ 55]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.31-04.45.21:292][ 55]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.31-04.45.21:292][ 55]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.31-04.45.21:292][ 55]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.31-04.45.21:292][ 55]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.31-04.45.21:294][ 55]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.31-04.45.21:305][ 55]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek USB2.0 Audio)
+[2025.03.31-04.45.21:305][ 55]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.31-04.45.21:305][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.31-04.45.21:305][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.31-04.45.21:305][ 55]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=92
+[2025.03.31-04.45.21:305][ 55]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=92
+[2025.03.31-04.45.21:307][ 55]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=92
+[2025.03.31-04.45.21:307][ 55]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=92
+[2025.03.31-04.45.21:307][ 55]LogInit: FAudioDevice initialized with ID 92.
+[2025.03.31-04.45.21:307][ 55]LogAudio: Display: Audio Device (ID: 92) registered with world 'Level2'.
+[2025.03.31-04.45.21:307][ 55]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 92
+[2025.03.31-04.45.21:309][ 55]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.31-04.45.21:315][ 55]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2025.03.31-05.45.21
+[2025.03.31-04.45.21:315][ 55]LogWorld: Bringing up level for play took: 0.005992
+[2025.03.31-04.45.21:317][ 55]LogOnline: OSS: Created online subsystem instance for: :Context_123
+[2025.03.31-04.45.21:320][ 55]PIE: Server logged in
+[2025.03.31-04.45.21:320][ 55]PIE: Play in editor total start time 0.088 seconds.
+[2025.03.31-04.45.21:543][ 60]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 
+[2025.03.31-04.45.45:503][172]LogBlueprintUserMessages: [BP_Cube_C_UAID_AC07750B040E325802_1224955224] 
+[2025.03.31-04.45.48:118][282]LogBlueprintUserMessages: [BP_Cube_C_UAID_AC07750B040E325802_1224955224] 
+[2025.03.31-04.45.49:900][362]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 
+[2025.03.31-04.45.50:129][372]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 
+[2025.03.31-04.45.50:360][382]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 
+[2025.03.31-04.45.51:050][411]LogBlueprintUserMessages: [BP_Cube_C_UAID_AC07750B040E325802_1224955224] 
+[2025.03.31-04.45.51:260][420]LogBlueprintUserMessages: [BP_Cube_C_UAID_AC07750B040E325802_1224955224] 
+[2025.03.31-04.45.52:424][469]LogBlueprintUserMessages: [BP_Cube_C_UAID_AC07750B040E325802_1224955224] 
+[2025.03.31-04.45.53:197][501]LogBlueprintUserMessages: [BP_Cube_C_UAID_AC07750B040E325802_1224955224] 
+[2025.03.31-04.45.56:273][631]LogBlueprintUserMessages: [BP_Cube_C_UAID_AC07750B040E325802_1224955224] 
+[2025.03.31-04.45.58:032][708]LogBlueprintUserMessages: [BP_Cube_C_UAID_AC07750B040E325802_1224955224] 
+[2025.03.31-04.45.58:955][748]LogBlueprintUserMessages: [BP_Cube_C_UAID_AC07750B040E325802_1224955224] 
+[2025.03.31-04.46.02:773][913]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.31-04.46.02:903][918]LogBlueprintUserMessages: [Door_C_UAID_D8BBC10379A0895302_1231498255] Closing doors
+[2025.03.31-04.46.06:777][ 78]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.31-04.46.06:777][ 78]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.31-04.46.07:863][135]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.31-04.46.07:863][135]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.31-04.46.07:863][135]LogNet: Browse: /Game/Levels/Level3
+[2025.03.31-04.46.07:863][135]LogLoad: LoadMap: /Game/Levels/Level3
+[2025.03.31-04.46.07:863][135]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2
+[2025.03.31-04.46.07:865][135]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-04.46.07:866][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.46.07:866][135]LogContentBundle: [Level2(Standalone)] Deleting container.
+[2025.03.31-04.46.07:916][135]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.31-04.46.07:921][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.03.31-04.46.07:951][135]LogAudio: Display: Audio Device (ID: 92) registered with world 'Level3'.
+[2025.03.31-04.46.07:951][135]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.31-04.46.07:951][135]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.31-04.46.07:951][135]LogAIModule: Creating AISystem for world Level3
+[2025.03.31-04.46.07:951][135]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2025.03.31-04.46.07:951][135]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.31-04.46.07:990][135]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CeilingTypes' of length 1 in '/Game/Floors/BP_Ceiling.BP_Ceiling_C'!
+[2025.03.31-04.46.07:990][135]LogScript: Warning: Script Msg called by: BP_Ceiling_C /Game/Levels/UEDPIE_0_Level3.Level3:PersistentLevel.BP_Ceiling_C_1
+[2025.03.31-04.46.08:003][135]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.46.08:003][135]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/UEDPIE_0_Level3.Level3:PersistentLevel.BP_Floor1_C_1
+[2025.03.31-04.46.08:034][135]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.46.08:034][135]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/UEDPIE_0_Level3.Level3:PersistentLevel.BP_Floor1_C_2
+[2025.03.31-04.46.08:037][135]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.46.08:037][135]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/UEDPIE_0_Level3.Level3:PersistentLevel.BP_Floor1_C_3
+[2025.03.31-04.46.08:083][135]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2025.03.31-05.46.08
+[2025.03.31-04.46.08:083][135]LogWorld: Bringing up level for play took: 0.132092
+[2025.03.31-04.46.08:087][135]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2025.03.31-04.46.08:087][135]LogScript: Warning: Script Msg called by: BP_StaticBlocks_C /Game/Levels/UEDPIE_0_Level3.Level3:PersistentLevel.BP_StaticBlocks_C_0
+[2025.03.31-04.46.08:087][135]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2025.03.31-04.46.08:087][135]LogScript: Warning: Script Msg called by: BP_StaticBlocks_C /Game/Levels/UEDPIE_0_Level3.Level3:PersistentLevel.BP_StaticBlocks_C_1
+[2025.03.31-04.46.08:088][135]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2025.03.31-04.46.08:088][135]LogScript: Warning: Script Msg called by: BP_StaticBlocks_C /Game/Levels/UEDPIE_0_Level3.Level3:PersistentLevel.BP_StaticBlocks_C_4
+[2025.03.31-04.46.08:089][135]LogLoad: Took 0.225508 seconds to LoadMap(/Game/Levels/Level3)
+[2025.03.31-04.46.08:647][165]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 
+[2025.03.31-04.46.16:181][648]LogBlueprintUserMessages: [Door_C_1] Closing doors
+[2025.03.31-04.46.33:443][586]LogBlueprintUserMessages: [BP_StaticBlocks_C_6] X=-4.520 Y=0.000 Z=4.520
+[2025.03.31-04.46.38:379][838]LogBlueprintUserMessages: [BP_StaticBlocks_C_1] X=0.000 Y=0.000 Z=0.000
+[2025.03.31-04.46.47:834][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-04.46.47:834][329]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2025.03.31-04.46.47:834][329]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-04.46.47:840][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.46.47:844][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.31-04.46.47:849][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.46.47:863][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-04.46.47:864][329]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 92
+[2025.03.31-04.46.47:864][329]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=92
+[2025.03.31-04.46.47:865][329]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=92
+[2025.03.31-04.46.47:875][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.03.31-04.46.47:934][330]LogPlayLevel: Display: Destroying online subsystem :Context_123
+[2025.03.31-04.46.49:995][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.03.31-04.46.51:231][459]LogSlate: Window 'Save Content' being destroyed
+[2025.03.31-04.46.51:238][459]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-04.46.51:274][459]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level2/C/R1/VSDR8CYJ1ZV3CPRO9AD5AE
+[2025.03.31-04.46.51:275][459]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/VSDR8CYJ1ZV3CPRO9AD5AE98C32FF14421B03F3435D9ABA28EBA34.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Levels/Level2/C/R1/VSDR8CYJ1ZV3CPRO9AD5AE.uasset'
+[2025.03.31-04.46.51:308][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 18.6 sec)
+[2025.03.31-04.46.51:359][459]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.31-04.46.51:387][459]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CeilingTypes' of length 1 in '/Game/Floors/BP_Ceiling.BP_Ceiling_C'!
+[2025.03.31-04.46.51:387][459]LogScript: Warning: Script Msg called by: BP_Ceiling_C /Game/Levels/Level3.Level3:PersistentLevel.BP_Ceiling_C_1
+[2025.03.31-04.46.51:394][459]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.46.51:394][459]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/Level3.Level3:PersistentLevel.BP_Floor1_C_1
+[2025.03.31-04.46.51:410][459]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.46.51:410][459]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/Level3.Level3:PersistentLevel.BP_Floor1_C_2
+[2025.03.31-04.46.51:411][459]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.46.51:411][459]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/Level3.Level3:PersistentLevel.BP_Floor1_C_3
+[2025.03.31-04.46.51:441][459]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level3.Level3
+[2025.03.31-04.46.51:441][459]Cmd: MAP LOAD FILE="../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.31-04.46.51:441][459]LightingResults: New page: Lighting Build
+[2025.03.31-04.46.51:441][459]LoadErrors: New page: Loading map: Level3.umap
+[2025.03.31-04.46.51:506][459]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-04.46.51:506][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.46.51:506][459]LogContentBundle: [Level2(Standalone)] Deleting container.
+[2025.03.31-04.46.51:508][459]MapCheck: New page: Map Check
+[2025.03.31-04.46.51:508][459]LightingResults: New page: Lighting Build
+[2025.03.31-04.46.51:523][459]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.31-04.46.51:529][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.03.31-04.46.51:535][459]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-04.46.51:538][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.46.51:555][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.03.31-04.46.51:571][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.03.31-04.46.51:595][459]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level3'.
+[2025.03.31-04.46.51:595][459]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.31-04.46.51:595][459]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.31-04.46.51:595][459]LogAIModule: Creating AISystem for world Level3
+[2025.03.31-04.46.51:643][459]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CeilingTypes' of length 1 in '/Game/Floors/BP_Ceiling.BP_Ceiling_C'!
+[2025.03.31-04.46.51:643][459]LogScript: Warning: Script Msg called by: BP_Ceiling_C /Game/Levels/Level3.Level3:PersistentLevel.BP_Ceiling_C_1
+[2025.03.31-04.46.51:656][459]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.46.51:656][459]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/Level3.Level3:PersistentLevel.BP_Floor1_C_1
+[2025.03.31-04.46.51:688][459]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.46.51:688][459]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/Level3.Level3:PersistentLevel.BP_Floor1_C_2
+[2025.03.31-04.46.51:690][459]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.46.51:690][459]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/Level3.Level3:PersistentLevel.BP_Floor1_C_3
+[2025.03.31-04.46.51:781][459]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.31-04.46.51:805][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.03.31-04.46.51:812][459]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.31-04.46.51:812][459]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.094ms to complete.
+[2025.03.31-04.46.51:845][459]AssetCheck: New page: Asset Save: ColorPillar_C_UAID_D8BBC10379A0E75302_1708808813
+[2025.03.31-04.47.01:337][ 60]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.31-04.47.01:345][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.31-04.47.01:345][ 60]PIE: New page: PIE session: Level3 (31 Mar 2025, 06:47:01)
+[2025.03.31-04.47.01:345][ 60]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level3
+[2025.03.31-04.47.01:369][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023696s)
+[2025.03.31-04.47.01:369][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level3.Level3 to /Game/Levels/UEDPIE_0_Level3.Level3 (0.023731s)
+[2025.03.31-04.47.01:380][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.03.31-04.47.01:386][ 60]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.31-04.47.01:386][ 60]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.31-04.47.01:386][ 60]LogAIModule: Creating AISystem for world Level3
+[2025.03.31-04.47.01:386][ 60]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2025.03.31-04.47.01:386][ 60]LogAudio: Display: Creating Audio Device:                 Id: 93, Scope: Unique, Realtime: True
+[2025.03.31-04.47.01:386][ 60]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.31-04.47.01:387][ 60]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.31-04.47.01:387][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.31-04.47.01:387][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.31-04.47.01:387][ 60]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.31-04.47.01:387][ 60]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.31-04.47.01:387][ 60]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.31-04.47.01:387][ 60]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.31-04.47.01:387][ 60]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.31-04.47.01:387][ 60]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.31-04.47.01:387][ 60]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.31-04.47.01:389][ 60]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.31-04.47.01:400][ 60]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek USB2.0 Audio)
+[2025.03.31-04.47.01:400][ 60]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.31-04.47.01:400][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.31-04.47.01:400][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.31-04.47.01:401][ 60]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=93
+[2025.03.31-04.47.01:401][ 60]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=93
+[2025.03.31-04.47.01:402][ 60]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=93
+[2025.03.31-04.47.01:402][ 60]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=93
+[2025.03.31-04.47.01:402][ 60]LogInit: FAudioDevice initialized with ID 93.
+[2025.03.31-04.47.01:402][ 60]LogAudio: Display: Audio Device (ID: 93) registered with world 'Level3'.
+[2025.03.31-04.47.01:402][ 60]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 93
+[2025.03.31-04.47.01:405][ 60]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.31-04.47.01:422][ 60]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2025.03.31-05.47.01
+[2025.03.31-04.47.01:422][ 60]LogWorld: Bringing up level for play took: 0.015846
+[2025.03.31-04.47.01:423][ 60]LogOnline: OSS: Created online subsystem instance for: :Context_124
+[2025.03.31-04.47.01:428][ 60]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2025.03.31-04.47.01:428][ 60]LogScript: Warning: Script Msg called by: BP_StaticBlocks_C /Game/Levels/UEDPIE_0_Level3.Level3:PersistentLevel.BP_StaticBlocks_C_0
+[2025.03.31-04.47.01:428][ 60]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2025.03.31-04.47.01:428][ 60]LogScript: Warning: Script Msg called by: BP_StaticBlocks_C /Game/Levels/UEDPIE_0_Level3.Level3:PersistentLevel.BP_StaticBlocks_C_1
+[2025.03.31-04.47.01:428][ 60]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2025.03.31-04.47.01:428][ 60]LogScript: Warning: Script Msg called by: BP_StaticBlocks_C /Game/Levels/UEDPIE_0_Level3.Level3:PersistentLevel.BP_StaticBlocks_C_4
+[2025.03.31-04.47.01:429][ 60]PIE: Server logged in
+[2025.03.31-04.47.01:430][ 60]PIE: Play in editor total start time 0.085 seconds.
+[2025.03.31-04.47.01:673][ 64]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 
+[2025.03.31-04.47.06:035][364]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15523.360352
+[2025.03.31-04.47.06:164][373]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.31-04.47.06:164][373]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15523.474609, Update Interval: 357.874084
+[2025.03.31-04.47.09:949][594]LogBlueprintUserMessages: [Door_C_1] Closing doors
+[2025.03.31-04.47.37:273][ 84]LogBlueprintUserMessages: [BP_StaticBlocks_C_6] X=-4.520 Y=0.000 Z=4.520
+[2025.03.31-04.47.42:329][338]LogBlueprintUserMessages: [BP_StaticBlocks_C_1] X=0.000 Y=0.000 Z=0.000
+[2025.03.31-04.47.48:400][637]LogBlueprintUserMessages: [BP_StaticBlocks_C_1] X=0.000 Y=0.000 Z=0.000
+[2025.03.31-04.47.50:084][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-04.47.50:084][738]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2025.03.31-04.47.50:084][738]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-04.47.50:089][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.47.50:152][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.31-04.47.50:157][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.47.50:167][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-04.47.50:170][738]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 93
+[2025.03.31-04.47.50:170][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=93
+[2025.03.31-04.47.50:171][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=93
+[2025.03.31-04.47.50:181][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.03.31-04.47.50:412][739]LogPlayLevel: Display: Destroying online subsystem :Context_124
+[2025.03.31-04.48.01:019][399]BlueprintLog: New page: Compile BP_StaticBlocks
+[2025.03.31-04.48.01:079][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.03.31-04.48.01:850][426]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-04.48.01:971][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_StaticBlocks" FILE="../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Blueprints/BP_StaticBlocks.uasset" SILENT=true
+[2025.03.31-04.48.02:023][426]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_StaticBlocks
+[2025.03.31-04.48.02:023][426]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_StaticBlocksAA80510540883228CCEEB7AFC193D568.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Blueprints/BP_StaticBlocks.uasset'
+[2025.03.31-04.48.02:029][426]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 18.8 sec)
+[2025.03.31-04.48.02:031][426]AssetCheck: New page: Asset Save: BP_StaticBlocks
+[2025.03.31-04.48.02:031][426]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_StaticBlocks.BP_StaticBlocks
+[2025.03.31-04.48.08:444][841]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.31-04.48.08:452][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.31-04.48.08:452][841]PIE: New page: PIE session: Level3 (31 Mar 2025, 06:48:08)
+[2025.03.31-04.48.08:474][841]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level3
+[2025.03.31-04.48.08:496][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022246s)
+[2025.03.31-04.48.08:496][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level3.Level3 to /Game/Levels/UEDPIE_0_Level3.Level3 (0.022287s)
+[2025.03.31-04.48.08:508][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.03.31-04.48.08:514][841]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.31-04.48.08:514][841]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.31-04.48.08:515][841]LogAIModule: Creating AISystem for world Level3
+[2025.03.31-04.48.08:515][841]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2025.03.31-04.48.08:515][841]LogAudio: Display: Creating Audio Device:                 Id: 94, Scope: Unique, Realtime: True
+[2025.03.31-04.48.08:515][841]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.31-04.48.08:515][841]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.31-04.48.08:515][841]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.31-04.48.08:515][841]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.31-04.48.08:515][841]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.31-04.48.08:515][841]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.31-04.48.08:515][841]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.31-04.48.08:515][841]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.31-04.48.08:515][841]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.31-04.48.08:515][841]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.31-04.48.08:515][841]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.31-04.48.08:517][841]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.31-04.48.08:529][841]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek USB2.0 Audio)
+[2025.03.31-04.48.08:529][841]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.31-04.48.08:529][841]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.31-04.48.08:529][841]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.31-04.48.08:529][841]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=94
+[2025.03.31-04.48.08:529][841]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=94
+[2025.03.31-04.48.08:531][841]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=94
+[2025.03.31-04.48.08:531][841]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=94
+[2025.03.31-04.48.08:531][841]LogInit: FAudioDevice initialized with ID 94.
+[2025.03.31-04.48.08:531][841]LogAudio: Display: Audio Device (ID: 94) registered with world 'Level3'.
+[2025.03.31-04.48.08:531][841]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 94
+[2025.03.31-04.48.08:533][841]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.31-04.48.08:549][841]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2025.03.31-05.48.08
+[2025.03.31-04.48.08:549][841]LogWorld: Bringing up level for play took: 0.016001
+[2025.03.31-04.48.08:551][841]LogOnline: OSS: Created online subsystem instance for: :Context_125
+[2025.03.31-04.48.08:555][841]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2025.03.31-04.48.08:555][841]LogScript: Warning: Script Msg called by: BP_StaticBlocks_C /Game/Levels/UEDPIE_0_Level3.Level3:PersistentLevel.BP_StaticBlocks_C_0
+[2025.03.31-04.48.08:556][841]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2025.03.31-04.48.08:556][841]LogScript: Warning: Script Msg called by: BP_StaticBlocks_C /Game/Levels/UEDPIE_0_Level3.Level3:PersistentLevel.BP_StaticBlocks_C_1
+[2025.03.31-04.48.08:556][841]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2025.03.31-04.48.08:556][841]LogScript: Warning: Script Msg called by: BP_StaticBlocks_C /Game/Levels/UEDPIE_0_Level3.Level3:PersistentLevel.BP_StaticBlocks_C_4
+[2025.03.31-04.48.08:557][841]PIE: Server logged in
+[2025.03.31-04.48.08:557][841]PIE: Play in editor total start time 0.106 seconds.
+[2025.03.31-04.48.08:818][846]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 
+[2025.03.31-04.48.16:638][348]LogBlueprintUserMessages: [Door_C_1] Closing doors
+[2025.03.31-04.48.27:713][947]LogBlueprintUserMessages: [BP_StaticBlocks_C_6] X=-4.520 Y=0.000 Z=4.520
+[2025.03.31-04.48.33:113][220]LogBlueprintUserMessages: [BP_StaticBlocks_C_1] X=0.000 Y=0.000 Z=0.000
+[2025.03.31-04.48.55:454][372]LogBlueprintUserMessages: [BP_StaticBlocks_C_1] X=0.000 Y=0.000 Z=0.000
+[2025.03.31-04.49.09:743][156]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.31-04.49.09:744][156]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.31-04.49.11:147][265]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.31-04.49.11:147][265]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.31-04.49.11:147][265]LogNet: Browse: /Game/Levels/Level4
+[2025.03.31-04.49.11:147][265]LogLoad: LoadMap: /Game/Levels/Level4
+[2025.03.31-04.49.11:147][265]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2025.03.31-04.49.11:148][265]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-04.49.11:153][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.49.11:197][265]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.31-04.49.11:204][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.31-04.49.11:229][265]LogAudio: Display: Audio Device (ID: 94) registered with world 'Level4'.
+[2025.03.31-04.49.11:229][265]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.31-04.49.11:229][265]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.31-04.49.11:229][265]LogAIModule: Creating AISystem for world Level4
+[2025.03.31-04.49.11:229][265]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2025.03.31-04.49.11:229][265]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.31-04.49.11:286][265]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.49.11:286][265]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/UEDPIE_0_level4.Level4:PersistentLevel.BP_Floor1_C_1
+[2025.03.31-04.49.11:296][265]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CeilingTypes' of length 1 in '/Game/Floors/BP_Ceiling.BP_Ceiling_C'!
+[2025.03.31-04.49.11:296][265]LogScript: Warning: Script Msg called by: BP_Ceiling_C /Game/Levels/UEDPIE_0_level4.Level4:PersistentLevel.BP_Ceiling_C_1
+[2025.03.31-04.49.11:338][265]LogWorld: Bringing World /Game/Levels/UEDPIE_0_level4.Level4 up for play (max tick rate 0) at 2025.03.31-05.49.11
+[2025.03.31-04.49.11:338][265]LogWorld: Bringing up level for play took: 0.109164
+[2025.03.31-04.49.11:343][265]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2025.03.31-04.49.11:343][265]LogScript: Warning: Script Msg called by: BP_StaticBlocks_C /Game/Levels/UEDPIE_0_level4.Level4:PersistentLevel.BP_StaticBlocks_C_5
+[2025.03.31-04.49.11:344][265]LogLoad: Took 0.196626 seconds to LoadMap(/Game/Levels/Level4)
+[2025.03.31-04.49.15:756][517]LogBlueprintUserMessages: [Door_C_1] Closing doors
+[2025.03.31-04.49.31:970][461]LogBlueprintUserMessages: [BP_StaticBlocks_C_5] X=0.000 Y=0.000 Z=0.000
+[2025.03.31-04.49.46:323][336]LogBlueprintUserMessages: [BP_StaticBlocks_C_1] X=-103.260 Y=-9.034 Z=103.655
+[2025.03.31-04.49.52:714][717]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.31-04.49.52:714][717]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.31-04.49.54:013][804]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.31-04.49.54:013][804]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.31-04.49.54:013][804]LogNet: Browse: /Game/Levels/Level5
+[2025.03.31-04.49.54:013][804]LogLoad: LoadMap: /Game/Levels/Level5
+[2025.03.31-04.49.54:013][804]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_level4
+[2025.03.31-04.49.54:014][804]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-04.49.54:018][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.49.54:058][804]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.31-04.49.54:063][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.31-04.49.54:096][804]LogAudio: Display: Audio Device (ID: 94) registered with world 'Level5'.
+[2025.03.31-04.49.54:096][804]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.31-04.49.54:096][804]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.31-04.49.54:097][804]LogAIModule: Creating AISystem for world Level5
+[2025.03.31-04.49.54:097][804]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2025.03.31-04.49.54:097][804]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.31-04.49.54:171][804]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CeilingTypes' of length 1 in '/Game/Floors/BP_Ceiling.BP_Ceiling_C'!
+[2025.03.31-04.49.54:171][804]LogScript: Warning: Script Msg called by: BP_Ceiling_C /Game/Levels/UEDPIE_0_Level5.Level5:PersistentLevel.BP_Ceiling_C_1
+[2025.03.31-04.49.54:181][804]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.49.54:181][804]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/UEDPIE_0_Level5.Level5:PersistentLevel.BP_Floor1_C_1
+[2025.03.31-04.49.54:189][804]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.49.54:189][804]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/UEDPIE_0_Level5.Level5:PersistentLevel.BP_Floor1_C_2
+[2025.03.31-04.49.54:189][804]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.49.54:189][804]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/UEDPIE_0_Level5.Level5:PersistentLevel.BP_Floor1_C_3
+[2025.03.31-04.49.54:190][804]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.49.54:190][804]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/UEDPIE_0_Level5.Level5:PersistentLevel.BP_Floor1_C_4
+[2025.03.31-04.49.54:191][804]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.49.54:191][804]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/UEDPIE_0_Level5.Level5:PersistentLevel.BP_Floor1_C_5
+[2025.03.31-04.49.54:227][804]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level5.Level5 up for play (max tick rate 0) at 2025.03.31-05.49.54
+[2025.03.31-04.49.54:227][804]LogWorld: Bringing up level for play took: 0.130038
+[2025.03.31-04.49.54:231][804]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2025.03.31-04.49.54:231][804]LogScript: Warning: Script Msg called by: BP_StaticBlocks_C /Game/Levels/UEDPIE_0_Level5.Level5:PersistentLevel.BP_StaticBlocks_C_0
+[2025.03.31-04.49.54:231][804]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2025.03.31-04.49.54:231][804]LogScript: Warning: Script Msg called by: BP_StaticBlocks_C /Game/Levels/UEDPIE_0_Level5.Level5:PersistentLevel.BP_StaticBlocks_C_1
+[2025.03.31-04.49.54:231][804]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2025.03.31-04.49.54:231][804]LogScript: Warning: Script Msg called by: BP_StaticBlocks_C /Game/Levels/UEDPIE_0_Level5.Level5:PersistentLevel.BP_StaticBlocks_C_3
+[2025.03.31-04.49.54:231][804]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2025.03.31-04.49.54:231][804]LogScript: Warning: Script Msg called by: BP_StaticBlocks_C /Game/Levels/UEDPIE_0_Level5.Level5:PersistentLevel.BP_StaticBlocks_C_4
+[2025.03.31-04.49.54:231][804]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2025.03.31-04.49.54:231][804]LogScript: Warning: Script Msg called by: BP_StaticBlocks_C /Game/Levels/UEDPIE_0_Level5.Level5:PersistentLevel.BP_StaticBlocks_C_5
+[2025.03.31-04.49.54:233][804]LogLoad: Took 0.219746 seconds to LoadMap(/Game/Levels/Level5)
+[2025.03.31-04.50.01:629][176]LogBlueprintUserMessages: [Door_C_0] Closing doors
+[2025.03.31-04.52.09:084][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-04.52.09:084][393]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level5
+[2025.03.31-04.52.09:084][393]LogWorld: UWorld::CleanupWorld for Level5, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-04.52.09:089][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.52.09:091][393]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.31-04.52.09:096][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.52.09:108][393]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.31-04.52.09:112][393]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 94
+[2025.03.31-04.52.09:112][393]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=94
+[2025.03.31-04.52.09:114][393]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=94
+[2025.03.31-04.52.09:117][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-04.52.09:124][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.03.31-04.52.09:181][394]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2025.03.31-04.52.10:031][445]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-04.52.10:096][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.03.31-04.52.10:178][445]LogSavePackage: Moving output files for package: /Game/Levels/Level3
+[2025.03.31-04.52.10:178][445]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/Level3349F14A14AC69F86B4099B950C374AFC.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/Level3.umap'
+[2025.03.31-04.52.10:186][445]LogFileHelpers: Saving map 'Level3' took 0.123
+[2025.03.31-04.52.10:202][445]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 19.0 sec)
+[2025.03.31-04.52.10:206][445]AssetCheck: New page: Asset Save: Level3
+[2025.03.31-04.52.10:206][445]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level3.Level3
+[2025.03.31-04.52.33:057][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.31-04.52.33:132][930]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.31-04.52.33:179][930]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CeilingTypes' of length 1 in '/Game/Floors/BP_Ceiling.BP_Ceiling_C'!
+[2025.03.31-04.52.33:180][930]LogScript: Warning: Script Msg called by: BP_Ceiling_C /Game/Levels/Level5.Level5:PersistentLevel.BP_Ceiling_C_1
+[2025.03.31-04.52.33:183][930]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.52.33:183][930]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/Level5.Level5:PersistentLevel.BP_Floor1_C_1
+[2025.03.31-04.52.33:187][930]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.52.33:187][930]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/Level5.Level5:PersistentLevel.BP_Floor1_C_2
+[2025.03.31-04.52.33:187][930]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.52.33:187][930]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/Level5.Level5:PersistentLevel.BP_Floor1_C_3
+[2025.03.31-04.52.33:188][930]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.52.33:188][930]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/Level5.Level5:PersistentLevel.BP_Floor1_C_4
+[2025.03.31-04.52.33:189][930]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.52.33:189][930]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/Level5.Level5:PersistentLevel.BP_Floor1_C_5
+[2025.03.31-04.52.33:209][930]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level5.Level5
+[2025.03.31-04.52.33:210][930]Cmd: MAP LOAD FILE="../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/Level5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.31-04.52.33:210][930]LightingResults: New page: Lighting Build
+[2025.03.31-04.52.33:210][930]LoadErrors: New page: Loading map: Level5.umap
+[2025.03.31-04.52.33:239][930]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-04.52.33:240][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.52.33:240][930]MapCheck: New page: Map Check
+[2025.03.31-04.52.33:240][930]LightingResults: New page: Lighting Build
+[2025.03.31-04.52.33:251][930]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.31-04.52.33:263][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.03.31-04.52.33:269][930]LogWorld: UWorld::CleanupWorld for Level5, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-04.52.33:272][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.52.33:288][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.31-04.52.33:301][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.03.31-04.52.33:329][930]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level5'.
+[2025.03.31-04.52.33:329][930]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.31-04.52.33:329][930]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.31-04.52.33:329][930]LogAIModule: Creating AISystem for world Level5
+[2025.03.31-04.52.33:414][930]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CeilingTypes' of length 1 in '/Game/Floors/BP_Ceiling.BP_Ceiling_C'!
+[2025.03.31-04.52.33:414][930]LogScript: Warning: Script Msg called by: BP_Ceiling_C /Game/Levels/Level5.Level5:PersistentLevel.BP_Ceiling_C_1
+[2025.03.31-04.52.33:421][930]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.52.33:421][930]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/Level5.Level5:PersistentLevel.BP_Floor1_C_1
+[2025.03.31-04.52.33:430][930]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.52.33:430][930]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/Level5.Level5:PersistentLevel.BP_Floor1_C_2
+[2025.03.31-04.52.33:431][930]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.52.33:431][930]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/Level5.Level5:PersistentLevel.BP_Floor1_C_3
+[2025.03.31-04.52.33:431][930]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.52.33:431][930]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/Level5.Level5:PersistentLevel.BP_Floor1_C_4
+[2025.03.31-04.52.33:432][930]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FloorTypes' of length 1 in '/Game/Floors/BP_Floor1.BP_Floor1_C'!
+[2025.03.31-04.52.33:432][930]LogScript: Warning: Script Msg called by: BP_Floor1_C /Game/Levels/Level5.Level5:PersistentLevel.BP_Floor1_C_5
+[2025.03.31-04.52.33:511][930]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.31-04.52.33:533][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.03.31-04.52.33:540][930]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.31-04.52.33:540][930]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.092ms to complete.
+[2025.03.31-04.53.35:269][622]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-04.53.35:342][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.03.31-04.53.35:434][622]LogSavePackage: Moving output files for package: /Game/Levels/Level5
+[2025.03.31-04.53.35:434][622]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/Level5B9EE4168488FE82D5E73478A06A73262.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/Level5.umap'
+[2025.03.31-04.53.35:442][622]LogFileHelpers: Saving map 'Level5' took 0.137
+[2025.03.31-04.53.35:447][622]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 19.2 sec)
+[2025.03.31-04.53.35:450][622]AssetCheck: New page: Asset Save: Level5
+[2025.03.31-04.53.35:450][622]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level5.Level5
+[2025.03.31-04.53.37:020][718]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.31-04.53.37:027][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.31-04.53.37:028][718]PIE: New page: PIE session: Level5 (31 Mar 2025, 06:53:37)
+[2025.03.31-04.53.37:028][718]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level5
+[2025.03.31-04.53.37:053][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025467s)
+[2025.03.31-04.53.37:053][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level5.Level5 to /Game/Levels/UEDPIE_0_Level5.Level5 (0.025499s)
+[2025.03.31-04.53.37:064][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.03.31-04.53.37:066][718]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.31-04.53.37:066][718]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.31-04.53.37:067][718]LogAIModule: Creating AISystem for world Level5
+[2025.03.31-04.53.37:067][718]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2025.03.31-04.53.37:067][718]LogAudio: Display: Creating Audio Device:                 Id: 95, Scope: Unique, Realtime: True
+[2025.03.31-04.53.37:067][718]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.31-04.53.37:067][718]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.31-04.53.37:067][718]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.31-04.53.37:067][718]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.31-04.53.37:067][718]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.31-04.53.37:067][718]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.31-04.53.37:067][718]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.31-04.53.37:067][718]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.31-04.53.37:067][718]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.31-04.53.37:067][718]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.31-04.53.37:067][718]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.31-04.53.37:070][718]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.31-04.53.37:082][718]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek USB2.0 Audio)
+[2025.03.31-04.53.37:082][718]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.31-04.53.37:082][718]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.31-04.53.37:082][718]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.31-04.53.37:082][718]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=95
+[2025.03.31-04.53.37:082][718]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=95
+[2025.03.31-04.53.37:083][718]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=95
+[2025.03.31-04.53.37:083][718]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=95
+[2025.03.31-04.53.37:083][718]LogInit: FAudioDevice initialized with ID 95.
+[2025.03.31-04.53.37:083][718]LogAudio: Display: Audio Device (ID: 95) registered with world 'Level5'.
+[2025.03.31-04.53.37:083][718]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 95
+[2025.03.31-04.53.37:086][718]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.31-04.53.37:105][718]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level5.Level5 up for play (max tick rate 0) at 2025.03.31-05.53.37
+[2025.03.31-04.53.37:105][718]LogWorld: Bringing up level for play took: 0.018120
+[2025.03.31-04.53.37:107][718]LogOnline: OSS: Created online subsystem instance for: :Context_126
+[2025.03.31-04.53.37:111][718]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2025.03.31-04.53.37:111][718]LogScript: Warning: Script Msg called by: BP_StaticBlocks_C /Game/Levels/UEDPIE_0_Level5.Level5:PersistentLevel.BP_StaticBlocks_C_0
+[2025.03.31-04.53.37:111][718]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2025.03.31-04.53.37:111][718]LogScript: Warning: Script Msg called by: BP_StaticBlocks_C /Game/Levels/UEDPIE_0_Level5.Level5:PersistentLevel.BP_StaticBlocks_C_1
+[2025.03.31-04.53.37:111][718]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2025.03.31-04.53.37:111][718]LogScript: Warning: Script Msg called by: BP_StaticBlocks_C /Game/Levels/UEDPIE_0_Level5.Level5:PersistentLevel.BP_StaticBlocks_C_3
+[2025.03.31-04.53.37:111][718]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2025.03.31-04.53.37:111][718]LogScript: Warning: Script Msg called by: BP_StaticBlocks_C /Game/Levels/UEDPIE_0_Level5.Level5:PersistentLevel.BP_StaticBlocks_C_4
+[2025.03.31-04.53.37:111][718]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2025.03.31-04.53.37:111][718]LogScript: Warning: Script Msg called by: BP_StaticBlocks_C /Game/Levels/UEDPIE_0_Level5.Level5:PersistentLevel.BP_StaticBlocks_C_5
+[2025.03.31-04.53.37:113][718]PIE: Server logged in
+[2025.03.31-04.53.37:113][718]PIE: Play in editor total start time 0.086 seconds.
+[2025.03.31-04.53.37:439][729]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 
+[2025.03.31-04.53.42:236][980]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15919.614258
+[2025.03.31-04.53.42:390][987]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.31-04.53.42:390][987]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15919.747070, Update Interval: 314.506042
+[2025.03.31-04.53.44:120][ 67]LogBlueprintUserMessages: [Door_C_0] Closing doors
+[2025.03.31-04.53.49:883][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-04.53.49:883][360]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level5
+[2025.03.31-04.53.49:883][360]LogWorld: UWorld::CleanupWorld for Level5, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-04.53.49:888][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.53.49:892][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.31-04.53.49:896][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-04.53.49:908][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-04.53.49:910][360]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 95
+[2025.03.31-04.53.49:911][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=95
+[2025.03.31-04.53.49:912][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=95
+[2025.03.31-04.53.49:921][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.03.31-04.53.49:979][361]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2025.03.31-04.53.50:634][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-04.53.50:694][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.03.31-04.53.50:783][397]LogSavePackage: Moving output files for package: /Game/Levels/Level5
+[2025.03.31-04.53.50:784][397]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/Level5784B83C94DEB63424F6F68991805A037.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/Level5.umap'
+[2025.03.31-04.53.50:791][397]LogFileHelpers: Saving map 'Level5' took 0.130
+[2025.03.31-04.53.50:808][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 19.3 sec)
+[2025.03.31-04.53.50:811][397]AssetCheck: New page: Asset Save: Level5
+[2025.03.31-04.53.50:811][397]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level5.Level5
