@@ -5681,3 +5681,248 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.07-23.55.56:164][  4]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 257229.593750
 [2025.04.07-23.55.57:163][  7]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.04.07-23.55.57:163][  7]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 257230.250000, Update Interval: 316.577057
+[2025.04.07-23.56.14:157][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.07-23.56.14:212][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.04.07-23.56.14:304][ 57]LogSavePackage: Moving output files for package: /Game/Levels/Level6
+[2025.04.07-23.56.14:304][ 57]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/Level6702D49604F42AEBF52F6418688D33F00.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/Level6.umap'
+[2025.04.07-23.56.14:312][ 57]LogFileHelpers: Saving map 'Level6' took 0.134
+[2025.04.07-23.56.14:318][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 10.2 sec)
+[2025.04.07-23.56.14:321][ 57]AssetCheck: New page: Asset Save: Level6
+[2025.04.07-23.56.14:321][ 57]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level6.Level6
+[2025.04.07-23.57.56:618][936]LogEditorTransaction: Undo Modify Component(s)
+[2025.04.07-23.58.49:313][366]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.07-23.58.49:392][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.04.07-23.58.50:003][389]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.07-23.58.50:081][389]LogSavePackage: Moving output files for package: /Game/ModularBlocks/BP_NewStaticBlockTEST
+[2025.04.07-23.58.50:082][389]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_NewStaticBlockTEST6F8939FC4F0569FB3A2512AF7005CABB.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/ModularBlocks/BP_NewStaticBlockTEST.uasset'
+[2025.04.07-23.58.50:088][389]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 10.2 sec)
+[2025.04.07-23.58.50:089][389]AssetCheck: New page: Asset Save: BP_NewStaticBlockTEST
+[2025.04.07-23.58.50:089][389]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ModularBlocks/BP_NewStaticBlockTEST.BP_NewStaticBlockTEST
+[2025.04.07-23.59.19:511][863]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.07-23.59.19:558][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.04.07-23.59.47:322][208]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.07-23.59.47:370][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.04.08-00.00.07:540][203]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.08-00.00.07:587][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.04.08-00.00.09:038][269]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-00.00.09:112][269]LogSavePackage: Moving output files for package: /Game/ModularBlocks/BP_NewStaticBlockTEST
+[2025.04.08-00.00.09:112][269]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_NewStaticBlockTEST3B879425422377CD52D5B4868BB8D1A8.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/ModularBlocks/BP_NewStaticBlockTEST.uasset'
+[2025.04.08-00.00.09:118][269]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 10.3 sec)
+[2025.04.08-00.00.09:119][269]AssetCheck: New page: Asset Save: BP_NewStaticBlockTEST
+[2025.04.08-00.00.09:119][269]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ModularBlocks/BP_NewStaticBlockTEST.BP_NewStaticBlockTEST
+[2025.04.08-00.00.38:228][744]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.08-00.00.38:277][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.04.08-00.00.39:833][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-00.00.39:907][815]LogSavePackage: Moving output files for package: /Game/ModularBlocks/BP_NewStaticBlockTEST
+[2025.04.08-00.00.39:908][815]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_NewStaticBlockTESTD89E67D24E590A17589FE18B981281CF.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/ModularBlocks/BP_NewStaticBlockTEST.uasset'
+[2025.04.08-00.00.39:914][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 10.4 sec)
+[2025.04.08-00.00.39:915][815]AssetCheck: New page: Asset Save: BP_NewStaticBlockTEST
+[2025.04.08-00.00.39:915][815]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ModularBlocks/BP_NewStaticBlockTEST.BP_NewStaticBlockTEST
+[2025.04.08-00.00.47:956][229]LogEditorTransaction: Undo Create Pin Link
+[2025.04.08-00.00.50:661][331]LogEditorTransaction: Undo Add Component Nodes
+[2025.04.08-00.00.51:809][354]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.08-00.00.51:862][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.04.08-00.00.52:646][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-00.00.52:750][388]LogSavePackage: Moving output files for package: /Game/ModularBlocks/BP_NewStaticBlockTEST
+[2025.04.08-00.00.52:751][388]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_NewStaticBlockTEST1507662E4CFB0F298260C1A25A13BA5A.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/ModularBlocks/BP_NewStaticBlockTEST.uasset'
+[2025.04.08-00.00.52:758][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 10.5 sec)
+[2025.04.08-00.00.52:759][388]AssetCheck: New page: Asset Save: BP_NewStaticBlockTEST
+[2025.04.08-00.00.52:759][388]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ModularBlocks/BP_NewStaticBlockTEST.BP_NewStaticBlockTEST
+[2025.04.08-00.01.27:486][173]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.08-00.01.27:534][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.04.08-00.01.40:891][833]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.08-00.01.40:941][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.04.08-00.01.42:177][883]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-00.01.42:254][883]LogSavePackage: Moving output files for package: /Game/ModularBlocks/BP_NewStaticBlockTEST
+[2025.04.08-00.01.42:255][883]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_NewStaticBlockTESTAEA98BDB40550B19F648E9BBB9209FE8.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/ModularBlocks/BP_NewStaticBlockTEST.uasset'
+[2025.04.08-00.01.42:261][883]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 10.6 sec)
+[2025.04.08-00.01.42:263][883]AssetCheck: New page: Asset Save: BP_NewStaticBlockTEST
+[2025.04.08-00.01.42:263][883]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ModularBlocks/BP_NewStaticBlockTEST.BP_NewStaticBlockTEST
+[2025.04.08-00.01.44:727][  1]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 257510.625000
+[2025.04.08-00.01.44:894][  9]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-00.01.44:894][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 257510.734375, Update Interval: 338.306824
+[2025.04.08-00.01.54:955][476]LogEditorTransaction: Undo Modify Component(s)
+[2025.04.08-00.02.06:977][951]LogEditorTransaction: Undo Modify Component(s)
+[2025.04.08-00.02.08:268][977]LogEditorTransaction: Undo Modify Component(s)
+[2025.04.08-00.02.09:933][ 24]LogEditorTransaction: Undo Modify Component(s)
+[2025.04.08-00.02.11:245][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-00.02.11:324][ 54]LogSavePackage: Moving output files for package: /Game/ModularBlocks/BP_NewStaticBlockTEST
+[2025.04.08-00.02.11:326][ 54]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_NewStaticBlockTEST8C184140496B2684F0A3AE95351B1919.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/ModularBlocks/BP_NewStaticBlockTEST.uasset'
+[2025.04.08-00.02.11:333][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 10.7 sec)
+[2025.04.08-00.02.11:334][ 54]AssetCheck: New page: Asset Save: BP_NewStaticBlockTEST
+[2025.04.08-00.02.11:334][ 54]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ModularBlocks/BP_NewStaticBlockTEST.BP_NewStaticBlockTEST
+[2025.04.08-00.02.21:609][571]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.08-00.02.21:679][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.04.08-00.02.22:251][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-00.02.22:368][592]LogSavePackage: Moving output files for package: /Game/ModularBlocks/BP_NewStaticBlockTEST
+[2025.04.08-00.02.22:369][592]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_NewStaticBlockTESTD8B99CB3444E1BD7F713F2861698999D.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/ModularBlocks/BP_NewStaticBlockTEST.uasset'
+[2025.04.08-00.02.22:374][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 10.8 sec)
+[2025.04.08-00.02.22:376][592]AssetCheck: New page: Asset Save: BP_NewStaticBlockTEST
+[2025.04.08-00.02.22:376][592]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ModularBlocks/BP_NewStaticBlockTEST.BP_NewStaticBlockTEST
+[2025.04.08-00.03.01:152][600]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.08-00.03.01:203][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.04.08-00.03.01:943][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-00.03.02:022][631]LogSavePackage: Moving output files for package: /Game/ModularBlocks/BP_NewStaticBlockTEST
+[2025.04.08-00.03.02:022][631]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_NewStaticBlockTEST0CB074E344C9A91CA355FF9268CAE1C0.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/ModularBlocks/BP_NewStaticBlockTEST.uasset'
+[2025.04.08-00.03.02:029][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 10.9 sec)
+[2025.04.08-00.03.02:031][631]AssetCheck: New page: Asset Save: BP_NewStaticBlockTEST
+[2025.04.08-00.03.02:031][631]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ModularBlocks/BP_NewStaticBlockTEST.BP_NewStaticBlockTEST
+[2025.04.08-00.04.10:337][786]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.08-00.04.10:402][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.04.08-00.04.25:146][506]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.08-00.04.25:197][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.04.08-00.04.26:631][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-00.04.26:699][571]LogSavePackage: Moving output files for package: /Game/ModularBlocks/BP_NewStaticBlockTEST
+[2025.04.08-00.04.26:700][571]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_NewStaticBlockTEST8E7561524001A072140B90A514AC27CF.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/ModularBlocks/BP_NewStaticBlockTEST.uasset'
+[2025.04.08-00.04.26:706][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 11.0 sec)
+[2025.04.08-00.04.26:707][571]AssetCheck: New page: Asset Save: BP_NewStaticBlockTEST
+[2025.04.08-00.04.26:707][571]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ModularBlocks/BP_NewStaticBlockTEST.BP_NewStaticBlockTEST
+[2025.04.08-00.04.46:744][579]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.08-00.04.46:794][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.04.08-00.04.47:637][615]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-00.04.47:749][615]LogSavePackage: Moving output files for package: /Game/ModularBlocks/BP_NewStaticBlockTEST
+[2025.04.08-00.04.47:750][615]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_NewStaticBlockTEST41A665644B09F3A8800EFA9A68C28CE2.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/ModularBlocks/BP_NewStaticBlockTEST.uasset'
+[2025.04.08-00.04.47:758][615]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 11.1 sec)
+[2025.04.08-00.04.47:760][615]AssetCheck: New page: Asset Save: BP_NewStaticBlockTEST
+[2025.04.08-00.04.47:760][615]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ModularBlocks/BP_NewStaticBlockTEST.BP_NewStaticBlockTEST
+[2025.04.08-00.05.02:384][333]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.08-00.05.02:434][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.04.08-00.05.04:469][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-00.05.04:560][428]LogSavePackage: Moving output files for package: /Game/ModularBlocks/BP_NewStaticBlockTEST
+[2025.04.08-00.05.04:560][428]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_NewStaticBlockTEST21C9F7CF45E136B364B2A7AC0C7EFBEC.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/ModularBlocks/BP_NewStaticBlockTEST.uasset'
+[2025.04.08-00.05.04:566][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 11.2 sec)
+[2025.04.08-00.05.04:567][428]AssetCheck: New page: Asset Save: BP_NewStaticBlockTEST
+[2025.04.08-00.05.04:567][428]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ModularBlocks/BP_NewStaticBlockTEST.BP_NewStaticBlockTEST
+[2025.04.08-00.05.25:108][435]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.08-00.05.25:158][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.04.08-00.05.25:706][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-00.05.25:813][454]LogSavePackage: Moving output files for package: /Game/ModularBlocks/BP_NewStaticBlockTEST
+[2025.04.08-00.05.25:813][454]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_NewStaticBlockTEST7B1A25764531B8BB7A2D9FAB4984B304.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/ModularBlocks/BP_NewStaticBlockTEST.uasset'
+[2025.04.08-00.05.25:820][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 11.3 sec)
+[2025.04.08-00.05.25:821][454]AssetCheck: New page: Asset Save: BP_NewStaticBlockTEST
+[2025.04.08-00.05.25:822][454]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ModularBlocks/BP_NewStaticBlockTEST.BP_NewStaticBlockTEST
+[2025.04.08-00.06.28:224][490]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.08-00.06.28:252][490]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_NewStaticBlockTEST_C_0.ModularBlockMiddle3 has a component set to zero, which will result in a bad body instance. Scale:X=-0.000 Y=0.000 Z=-1.000
+[2025.04.08-00.06.28:252][490]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_NewStaticBlockTEST_C_0.ModularBlockMiddle3 has a component set to zero, which will result in a bad body instance. Scale:X=-0.000 Y=0.000 Z=-1.000
+[2025.04.08-00.06.28:253][490]LogPhysics: Warning: Scale for /Game/Levels/Level6.Level6:PersistentLevel.BP_NewStaticBlockTEST_C_1.ModularBlockMiddle3 has a component set to zero, which will result in a bad body instance. Scale:X=-0.000 Y=0.000 Z=-1.000
+[2025.04.08-00.06.28:253][490]LogPhysics: Warning: Scale for /Game/Levels/Level6.Level6:PersistentLevel.BP_NewStaticBlockTEST_C_1.ModularBlockMiddle3 has a component set to zero, which will result in a bad body instance. Scale:X=-0.000 Y=0.000 Z=-1.000
+[2025.04.08-00.06.28:278][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.04.08-00.06.28:294][490]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_NewStaticBlockTEST_C_0.ModularBlockMiddle3 has a component set to zero, which will result in a bad body instance. Scale:X=-0.000 Y=0.000 Z=-1.000
+[2025.04.08-00.06.28:294][490]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_NewStaticBlockTEST_C_0.ModularBlockMiddle3 has a component set to zero, which will result in a bad body instance. Scale:X=-0.000 Y=0.000 Z=-1.000
+[2025.04.08-00.06.28:294][490]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_NewStaticBlockTEST_C_0.ModularBlockMiddle3 has a component set to zero, which will result in a bad body instance. Scale:X=-0.000 Y=0.000 Z=-1.000
+[2025.04.08-00.06.28:296][490]LogPhysics: Warning: Scale for /Game/Levels/Level6.Level6:PersistentLevel.BP_NewStaticBlockTEST_C_1.ModularBlockMiddle3 has a component set to zero, which will result in a bad body instance. Scale:X=-0.000 Y=0.000 Z=-1.000
+[2025.04.08-00.06.28:296][490]LogPhysics: Warning: Scale for /Game/Levels/Level6.Level6:PersistentLevel.BP_NewStaticBlockTEST_C_1.ModularBlockMiddle3 has a component set to zero, which will result in a bad body instance. Scale:X=-0.000 Y=0.000 Z=-1.000
+[2025.04.08-00.06.28:296][490]LogPhysics: Warning: Scale for /Game/Levels/Level6.Level6:PersistentLevel.BP_NewStaticBlockTEST_C_1.ModularBlockMiddle3 has a component set to zero, which will result in a bad body instance. Scale:X=-0.000 Y=0.000 Z=-1.000
+[2025.04.08-00.06.28:338][490]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_NewStaticBlockTEST_C_0.ModularBlockMiddle3 has a component set to zero, which will result in a bad body instance. Scale:X=-0.000 Y=0.000 Z=-1.000
+[2025.04.08-00.06.28:338][490]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_NewStaticBlockTEST_C_0.ModularBlockMiddle3 has a component set to zero, which will result in a bad body instance. Scale:X=-0.000 Y=0.000 Z=-1.000
+[2025.04.08-00.06.28:338][490]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_NewStaticBlockTEST_C_0.ModularBlockMiddle3 has a component set to zero, which will result in a bad body instance. Scale:X=-0.000 Y=0.000 Z=-1.000
+[2025.04.08-00.06.28:340][490]LogPhysics: Warning: Scale for /Game/Levels/Level6.Level6:PersistentLevel.BP_NewStaticBlockTEST_C_1.ModularBlockMiddle3 has a component set to zero, which will result in a bad body instance. Scale:X=-0.000 Y=0.000 Z=-1.000
+[2025.04.08-00.06.28:340][490]LogPhysics: Warning: Scale for /Game/Levels/Level6.Level6:PersistentLevel.BP_NewStaticBlockTEST_C_1.ModularBlockMiddle3 has a component set to zero, which will result in a bad body instance. Scale:X=-0.000 Y=0.000 Z=-1.000
+[2025.04.08-00.06.28:340][490]LogPhysics: Warning: Scale for /Game/Levels/Level6.Level6:PersistentLevel.BP_NewStaticBlockTEST_C_1.ModularBlockMiddle3 has a component set to zero, which will result in a bad body instance. Scale:X=-0.000 Y=0.000 Z=-1.000
+[2025.04.08-00.06.28:343][490]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/Level6.Level6:PersistentLevel.BP_NewStaticBlockTEST_C_1.ModularBlockMiddle3, from: Addition to navoctree)
+[2025.04.08-00.06.28:401][490]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_NewStaticBlockTEST_C_0.ModularBlockMiddle3 has a component set to zero, which will result in a bad body instance. Scale:X=-0.000 Y=0.000 Z=-1.000
+[2025.04.08-00.06.28:403][490]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_NewStaticBlockTEST_C_0.ModularBlockMiddle3 has a component set to zero, which will result in a bad body instance. Scale:X=-0.000 Y=0.000 Z=-1.000
+[2025.04.08-00.06.28:403][490]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_NewStaticBlockTEST_C_0.ModularBlockMiddle3 has a component set to zero, which will result in a bad body instance. Scale:X=-0.000 Y=0.000 Z=-1.000
+[2025.04.08-00.06.45:021][299]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.08-00.06.45:040][299]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/Level6.Level6:PersistentLevel.REINST_BP_NewStaticBlockTEST_C_32.ModularBlockMiddle3, from: Remove from navoctree)
+[2025.04.08-00.06.45:072][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.04.08-00.06.45:119][299]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None, from: Addition to navoctree (invalid request))
+[2025.04.08-00.07.24:522][283]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.08-00.07.24:572][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.04.08-00.07.50:569][591]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.08-00.07.50:623][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.04.08-00.08.13:326][691]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 257829.203125
+[2025.04.08-00.08.13:470][698]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-00.08.13:470][698]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 257829.296875, Update Interval: 336.406128
+[2025.04.08-00.09.06:362][149]LogEditorTransaction: Undo Modify Component(s)
+[2025.04.08-00.09.07:778][180]LogEditorTransaction: Undo Modify Component(s)
+[2025.04.08-00.09.10:346][270]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-00.09.10:428][270]LogSavePackage: Moving output files for package: /Game/ModularBlocks/BP_NewStaticBlockTEST
+[2025.04.08-00.09.10:428][270]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_NewStaticBlockTESTF299010E4ED43370EFC73AA2B98BDFE9.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/ModularBlocks/BP_NewStaticBlockTEST.uasset'
+[2025.04.08-00.09.10:435][270]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 11.4 sec)
+[2025.04.08-00.09.10:436][270]AssetCheck: New page: Asset Save: BP_NewStaticBlockTEST
+[2025.04.08-00.09.10:437][270]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ModularBlocks/BP_NewStaticBlockTEST.BP_NewStaticBlockTEST
+[2025.04.08-00.09.29:987][196]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.08-00.09.30:063][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.04.08-00.09.30:708][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-00.09.30:788][219]LogSavePackage: Moving output files for package: /Game/ModularBlocks/BP_NewStaticBlockTEST
+[2025.04.08-00.09.30:788][219]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_NewStaticBlockTESTCDCD0BFE44734819C547C691F382969A.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/ModularBlocks/BP_NewStaticBlockTEST.uasset'
+[2025.04.08-00.09.30:796][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 11.5 sec)
+[2025.04.08-00.09.30:797][219]AssetCheck: New page: Asset Save: BP_NewStaticBlockTEST
+[2025.04.08-00.09.30:797][219]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ModularBlocks/BP_NewStaticBlockTEST.BP_NewStaticBlockTEST
+[2025.04.08-00.10.45:883][881]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.08-00.10.45:958][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.04.08-00.10.46:492][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-00.10.46:600][902]LogSavePackage: Moving output files for package: /Game/ModularBlocks/BP_NewStaticBlockTEST
+[2025.04.08-00.10.46:601][902]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_NewStaticBlockTEST5780AD1A4B4E00A0CF3F80895FF5C004.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/ModularBlocks/BP_NewStaticBlockTEST.uasset'
+[2025.04.08-00.10.46:608][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 11.6 sec)
+[2025.04.08-00.10.46:610][902]AssetCheck: New page: Asset Save: BP_NewStaticBlockTEST
+[2025.04.08-00.10.46:610][902]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ModularBlocks/BP_NewStaticBlockTEST.BP_NewStaticBlockTEST
+[2025.04.08-00.10.53:274][255]LogDerivedDataCache: C:/Users/milor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.147 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4833 files in 6494 folders with total size 370 MiB.
+[2025.04.08-00.11.35:481][432]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.08-00.11.35:509][432]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_NewStaticBlockTEST_C_0.ModularBlockMiddle4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.000 Z=1.000
+[2025.04.08-00.11.35:509][432]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_NewStaticBlockTEST_C_0.ModularBlockMiddle4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.000 Z=1.000
+[2025.04.08-00.11.35:511][432]LogPhysics: Warning: Scale for /Game/Levels/Level6.Level6:PersistentLevel.BP_NewStaticBlockTEST_C_1.ModularBlockMiddle4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.000 Z=1.000
+[2025.04.08-00.11.35:511][432]LogPhysics: Warning: Scale for /Game/Levels/Level6.Level6:PersistentLevel.BP_NewStaticBlockTEST_C_1.ModularBlockMiddle4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.000 Z=1.000
+[2025.04.08-00.11.35:534][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.04.08-00.11.35:547][432]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_NewStaticBlockTEST_C_0.ModularBlockMiddle4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.000 Z=1.000
+[2025.04.08-00.11.35:547][432]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_NewStaticBlockTEST_C_0.ModularBlockMiddle4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.000 Z=1.000
+[2025.04.08-00.11.35:547][432]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_NewStaticBlockTEST_C_0.ModularBlockMiddle4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.000 Z=1.000
+[2025.04.08-00.11.35:549][432]LogPhysics: Warning: Scale for /Game/Levels/Level6.Level6:PersistentLevel.BP_NewStaticBlockTEST_C_1.ModularBlockMiddle4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.000 Z=1.000
+[2025.04.08-00.11.35:549][432]LogPhysics: Warning: Scale for /Game/Levels/Level6.Level6:PersistentLevel.BP_NewStaticBlockTEST_C_1.ModularBlockMiddle4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.000 Z=1.000
+[2025.04.08-00.11.35:550][432]LogPhysics: Warning: Scale for /Game/Levels/Level6.Level6:PersistentLevel.BP_NewStaticBlockTEST_C_1.ModularBlockMiddle4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.000 Z=1.000
+[2025.04.08-00.11.35:578][432]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_NewStaticBlockTEST_C_0.ModularBlockMiddle4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.000 Z=1.000
+[2025.04.08-00.11.35:578][432]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_NewStaticBlockTEST_C_0.ModularBlockMiddle4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.000 Z=1.000
+[2025.04.08-00.11.35:578][432]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_NewStaticBlockTEST_C_0.ModularBlockMiddle4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.000 Z=1.000
+[2025.04.08-00.11.35:580][432]LogPhysics: Warning: Scale for /Game/Levels/Level6.Level6:PersistentLevel.BP_NewStaticBlockTEST_C_1.ModularBlockMiddle4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.000 Z=1.000
+[2025.04.08-00.11.35:580][432]LogPhysics: Warning: Scale for /Game/Levels/Level6.Level6:PersistentLevel.BP_NewStaticBlockTEST_C_1.ModularBlockMiddle4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.000 Z=1.000
+[2025.04.08-00.11.35:580][432]LogPhysics: Warning: Scale for /Game/Levels/Level6.Level6:PersistentLevel.BP_NewStaticBlockTEST_C_1.ModularBlockMiddle4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.000 Z=1.000
+[2025.04.08-00.11.35:639][432]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_NewStaticBlockTEST_C_0.ModularBlockMiddle4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.000 Z=1.000
+[2025.04.08-00.11.35:641][432]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_NewStaticBlockTEST_C_0.ModularBlockMiddle4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.000 Z=1.000
+[2025.04.08-00.11.35:641][432]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_NewStaticBlockTEST_C_0.ModularBlockMiddle4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-4.000 Z=1.000
+[2025.04.08-00.11.37:219][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-00.11.37:293][509]LogSavePackage: Moving output files for package: /Game/ModularBlocks/BP_NewStaticBlockTEST
+[2025.04.08-00.11.37:293][509]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_NewStaticBlockTEST8F49E88D42C4F30B5B9DB9865B9CF0E4.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/ModularBlocks/BP_NewStaticBlockTEST.uasset'
+[2025.04.08-00.11.37:300][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 11.7 sec)
+[2025.04.08-00.11.37:301][509]AssetCheck: New page: Asset Save: BP_NewStaticBlockTEST
+[2025.04.08-00.11.37:301][509]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ModularBlocks/BP_NewStaticBlockTEST.BP_NewStaticBlockTEST
+[2025.04.08-00.11.47:513][  1]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.08-00.11.47:566][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.04.08-00.12.09:981][ 37]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'USceneComponent::SetRelativeScale3D' [Element not found.]
+[2025.04.08-00.12.13:261][186]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.08-00.12.13:311][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.04.08-00.12.14:730][245]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-00.12.14:801][245]LogSavePackage: Moving output files for package: /Game/ModularBlocks/BP_NewStaticBlockTEST
+[2025.04.08-00.12.14:802][245]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_NewStaticBlockTEST20479CB4428EFCCC1C9A06A0AC1CE386.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/ModularBlocks/BP_NewStaticBlockTEST.uasset'
+[2025.04.08-00.12.14:808][245]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 11.8 sec)
+[2025.04.08-00.12.14:810][245]AssetCheck: New page: Asset Save: BP_NewStaticBlockTEST
+[2025.04.08-00.12.14:810][245]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ModularBlocks/BP_NewStaticBlockTEST.BP_NewStaticBlockTEST
+[2025.04.08-00.13.11:292][  9]LogEditorTransaction: Undo Attach Component
+[2025.04.08-00.13.18:014][293]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.08-00.13.18:068][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.04.08-00.13.19:377][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-00.13.19:447][352]LogSavePackage: Moving output files for package: /Game/ModularBlocks/BP_NewStaticBlockTEST
+[2025.04.08-00.13.19:448][352]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_NewStaticBlockTEST85BA6C344403B0EAFB3A58A717E3B852.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/ModularBlocks/BP_NewStaticBlockTEST.uasset'
+[2025.04.08-00.13.19:455][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 11.8 sec)
+[2025.04.08-00.13.19:456][352]AssetCheck: New page: Asset Save: BP_NewStaticBlockTEST
+[2025.04.08-00.13.19:456][352]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ModularBlocks/BP_NewStaticBlockTEST.BP_NewStaticBlockTEST
+[2025.04.08-00.13.39:564][255]LogEditorTransaction: Undo Modify Component(s)
+[2025.04.08-00.13.40:845][280]LogEditorTransaction: Undo Modify Component(s)
+[2025.04.08-00.13.41:975][301]LogEditorTransaction: Undo Modify Component(s)
+[2025.04.08-00.13.43:078][321]LogEditorTransaction: Undo Modify Component(s)
+[2025.04.08-00.13.44:203][342]LogEditorTransaction: Undo Create Pin Link
+[2025.04.08-00.13.47:456][464]LogEditorTransaction: Redo Create Pin Link
+[2025.04.08-00.13.48:887][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-00.13.48:967][495]LogSavePackage: Moving output files for package: /Game/ModularBlocks/BP_NewStaticBlockTEST
+[2025.04.08-00.13.48:967][495]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_NewStaticBlockTEST7B9354A948DA1C764FBF75863F6D80B7.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/ModularBlocks/BP_NewStaticBlockTEST.uasset'
+[2025.04.08-00.13.48:974][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 11.9 sec)
+[2025.04.08-00.13.48:975][495]AssetCheck: New page: Asset Save: BP_NewStaticBlockTEST
+[2025.04.08-00.13.48:975][495]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ModularBlocks/BP_NewStaticBlockTEST.BP_NewStaticBlockTEST
+[2025.04.08-00.14.15:835][760]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-00.14.15:907][760]LogSavePackage: Moving output files for package: /Game/ModularBlocks/BP_NewStaticBlockTEST
+[2025.04.08-00.14.15:907][760]LogSavePackage: Moving '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Saved/BP_NewStaticBlockTESTE72E922E46E10C94CEAB989A026006B6.tmp' to '../../../../../../Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/ModularBlocks/BP_NewStaticBlockTEST.uasset'
+[2025.04.08-00.14.15:914][760]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 12.0 sec)
+[2025.04.08-00.14.15:915][760]AssetCheck: New page: Asset Save: BP_NewStaticBlockTEST
+[2025.04.08-00.14.15:915][760]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ModularBlocks/BP_NewStaticBlockTEST.BP_NewStaticBlockTEST
+[2025.04.08-00.14.17:566][838]BlueprintLog: New page: Compile BP_NewStaticBlockTEST
+[2025.04.08-00.14.17:646][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
