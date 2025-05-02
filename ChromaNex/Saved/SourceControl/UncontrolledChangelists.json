@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/aknig/OneDrive/Documents/ChromaNex-Repository/ChromaNex/Content/Hook/BP_Hook.uasset",
 				"C:/Users/aknig/OneDrive/Documents/ChromaNex-Repository/ChromaNex/Content/Materials/M_BaseColour.uasset",
 				"C:/Users/aknig/OneDrive/Documents/ChromaNex-Repository/ChromaNex/Content/Materials/MI_Purple.uasset",
@@ -129,6 +130,10 @@
 				"C:/Users/w1993975/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Levels/Level1/2/PH/5GAUI2MJKLET61O0L55BEA.uasset",
 				"C:/Users/w1993975/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Levels/Level1/E/RP/ZW63ZDKMF3466UDVEM4PJE.uasset",
 				"C:/Users/w1993975/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Levels/Level1/D/5B/HGGA4AVZGN0IZCOBQTZ4X6.uasset",
+=======
+				"C:/Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/UI/LevelResult.uasset",
+				"C:/Users/Sneek/Downloads/ChromaNex-Repository/ChromaNex/Content/DoorSystem/NextLevelLoader.uasset",
+>>>>>>> main
 				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/Level3.umap",
 				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Corridor/Materials/Light_White.uasset",
 				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Corridor/Materials/Light_Blue.uasset",
