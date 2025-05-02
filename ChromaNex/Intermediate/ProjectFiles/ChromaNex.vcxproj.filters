@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ChromaNex.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ChromaNex.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ChromaNexEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ChromaNex">
+      <UniqueIdentifier>{A1FAD98B-811D-3B6A-B047-6E5AFB0CCC3C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ChromaNex\ChromaNex.Build.cs">
+      <Filter>Source\ChromaNex</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ChromaNex\ChromaNex.cpp">
+      <Filter>Source\ChromaNex</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ChromaNex\ChromaNex.h">
+      <Filter>Source\ChromaNex</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ChromaNex\DoorTriggerZoneC.cpp">
+      <Filter>Source\ChromaNex</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ChromaNex\DoorTriggerZoneC.h">
+      <Filter>Source\ChromaNex</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+// Compiler: 14.41.34123
+#include "C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Intermediate/Build/Win64/x64/ChromaNexEditor/Development/Slate/SharedPCH.Slate.Cpp20.h"
