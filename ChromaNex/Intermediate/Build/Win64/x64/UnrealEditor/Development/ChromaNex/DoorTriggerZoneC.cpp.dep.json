@@ -1,13 +1,17 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\milor\\documents\\github\\chromanex-repository\\chromanex\\source\\chromanex\\doortriggerzonec.cpp",
+        "Source": "c:\\users\\w1972476\\documents\\github\\chromanex-repository\\chromanex\\source\\chromanex\\doortriggerzonec.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\milor\\documents\\github\\chromanex-repository\\chromanex\\intermediate\\build\\win64\\x64\\chromanexeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "PCH": "c:\\users\\w1972476\\documents\\github\\chromanex-repository\\chromanex\\intermediate\\build\\win64\\x64\\chromanexeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
         "Includes": [
-            "c:\\users\\milor\\documents\\github\\chromanex-repository\\chromanex\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\chromanex\\definitions.chromanex.h",
-            "c:\\users\\milor\\documents\\github\\chromanex-repository\\chromanex\\source\\chromanex\\doortriggerzonec.h",
-            "c:\\users\\milor\\documents\\github\\chromanex-repository\\chromanex\\intermediate\\build\\win64\\unrealeditor\\inc\\chromanex\\uht\\doortriggerzonec.generated.h"
+            "c:\\users\\w1972476\\documents\\github\\chromanex-repository\\chromanex\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\chromanex\\definitions.chromanex.h",
+            "c:\\users\\w1972476\\documents\\github\\chromanex-repository\\chromanex\\source\\chromanex\\doortriggerzonec.h",
+            "c:\\users\\w1972476\\documents\\github\\chromanex-repository\\chromanex\\intermediate\\build\\win64\\unrealeditor\\inc\\chromanex\\uht\\doortriggerzonec.generated.h",
+            "c:\\uow_apps\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\uow_apps\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\uow_apps\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\uow_apps\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
