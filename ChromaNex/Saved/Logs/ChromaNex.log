@@ -223750,3 +223750,21 @@ Script Stack (0 frames) :
 [2025.05.04-19.02.48:561][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=163
 [2025.05.04-19.02.48:575][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
 [2025.05.04-19.02.48:651][254]LogPlayLevel: Display: Destroying online subsystem :Context_179
+[2025.05.04-19.03.52:918][821]Cmd: SELECT NONE
+[2025.05.04-19.03.59:357][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.05.04-19.03.59:365][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.04-19.03.59:427][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Tutorial" FILE="../../../../../ChromaNex-Repository/ChromaNex/Content/Levels/Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.05.04-19.03.59:533][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.05.04-19.03.59:686][338]LogSavePackage: Moving output files for package: /Game/Levels/Tutorial
+[2025.05.04-19.03.59:687][338]LogSavePackage: Moving '../../../../../ChromaNex-Repository/ChromaNex/Saved/Tutorial4986D91244B037287C343AA25C012993.tmp' to '../../../../../ChromaNex-Repository/ChromaNex/Content/Levels/Tutorial.umap'
+[2025.05.04-19.03.59:848][338]LogFileHelpers: Saving map 'Tutorial' took 0.441
+[2025.05.04-19.03.59:993][338]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.05.04-19.03.59:993][338]LogSavePackage: Moving '../../../../../ChromaNex-Repository/ChromaNex/Saved/BP_FirstPersonCharacter85283777460B2052BB8117A562928862.tmp' to '../../../../../ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.05.04-19.03.59:998][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TutorialAssets/W_TutorialControls" FILE="../../../../../ChromaNex-Repository/ChromaNex/Content/TutorialAssets/W_TutorialControls.uasset" SILENT=true
+[2025.05.04-19.04.00:024][338]LogSavePackage: Moving output files for package: /Game/TutorialAssets/W_TutorialControls
+[2025.05.04-19.04.00:024][338]LogSavePackage: Moving '../../../../../ChromaNex-Repository/ChromaNex/Saved/W_TutorialControls87B9C1E74E19EE569F3580AC7D22D5CC.tmp' to '../../../../../ChromaNex-Repository/ChromaNex/Content/TutorialAssets/W_TutorialControls.uasset'
+[2025.05.04-19.04.00:041][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 675 ms (total: 8.88 sec)
+[2025.05.04-19.04.00:064][338]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.04-19.04.00:064][338]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Tutorial.Tutorial
+[2025.05.04-19.04.00:064][338]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.05.04-19.04.00:064][338]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/TutorialAssets/W_TutorialControls.W_TutorialControls
