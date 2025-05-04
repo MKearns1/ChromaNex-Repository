@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/ChromaNex-Repository/ChromaNex/Content/TutorialAssets/W_TutorialControls.uasset",
+				"D:/ChromaNex-Repository/ChromaNex/Content/Levels/Tutorial.umap",
+				"D:/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/ChromaNex-Repository/ChromaNex/Content/TutorialAssets/TipIcon.uasset",
 				"C:/Users/w1993975/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/Tutorial.umap",
 				"C:/Users/w1993975/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/DoorSystem/DoorTrigger.uasset",
 				"C:/Users/w1993975/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
