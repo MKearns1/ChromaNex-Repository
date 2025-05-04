@@ -9334,6 +9334,15 @@
     <None Include="..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.3\Engine\Plugins\LightWeightInstancesEditor\Resources\Icon128.png">
       <Filter>Plugins\LightWeightInstancesEditor\Resources</Filter>
     </None>
+    <Filter Include="Plugins\Marketplace">
+      <UniqueIdentifier>{1E520605-3A0C-397B-A124-81C6D67B82FE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Marketplace\VisualStudioTools">
+      <UniqueIdentifier>{47BD3FFE-620A-35F3-A960-189499883643}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.3\Engine\Plugins\Marketplace\VisualStudioTools\VisualStudioTools.uplugin">
+      <Filter>Plugins\Marketplace\VisualStudioTools</Filter>
+    </None>
     <Filter Include="Plugins\Media">
       <UniqueIdentifier>{EFC0DBFF-6FDA-393C-AC79-85C04FCB8860}</UniqueIdentifier>
     </Filter>
@@ -149925,6 +149934,63 @@
     </Filter>
     <ClInclude Include="..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.3\Engine\Plugins\LightWeightInstancesEditor\Source\LightWeightInstancesEditor\Public\LightWeightInstancesEditor.h">
       <Filter>Plugins\LightWeightInstancesEditor\Source\LightWeightInstancesEditor\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\VisualStudioTools\Source">
+      <UniqueIdentifier>{1DA3E372-41B8-3C56-B433-F15A09B3AC5D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools">
+      <UniqueIdentifier>{77DCD7A5-4FA3-3A8A-AD8E-85D71A1A11D6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.3\Engine\Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\VisualStudioTools.Build.cs">
+      <Filter>Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private">
+      <UniqueIdentifier>{D048F66C-3747-3B63-AFE3-5F5F7CAD6C2B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.3\Engine\Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private\BlueprintAssetHelper.cpp">
+      <Filter>Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.3\Engine\Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private\BlueprintAssetHelpers.h">
+      <Filter>Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.3\Engine\Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private\BlueprintReferencesCommandlet.cpp">
+      <Filter>Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.3\Engine\Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private\BlueprintReferencesCommandlet.h">
+      <Filter>Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.3\Engine\Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private\VisualStudioTools.cpp">
+      <Filter>Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.3\Engine\Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private\VisualStudioToolsCommandlet.cpp">
+      <Filter>Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.3\Engine\Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private\VisualStudioToolsCommandlet.h">
+      <Filter>Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.3\Engine\Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private\VisualStudioToolsCommandletBase.cpp">
+      <Filter>Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.3\Engine\Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private\VisualStudioToolsCommandletBase.h">
+      <Filter>Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.3\Engine\Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private\VSServerCommandlet.cpp">
+      <Filter>Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.3\Engine\Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private\VSServerCommandlet.h">
+      <Filter>Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.3\Engine\Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private\VSTestAdapterCommandlet.cpp">
+      <Filter>Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.3\Engine\Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private\VSTestAdapterCommandlet.h">
+      <Filter>Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Public">
+      <UniqueIdentifier>{2C14BCB9-DA2C-3290-8520-686EC58C6138}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.3\Engine\Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Public\VisualStudioTools.h">
+      <Filter>Plugins\Marketplace\VisualStudioTools\Source\VisualStudioTools\Public</Filter>
     </ClInclude>
     <Filter Include="Plugins\Media\AjaMedia\Source">
       <UniqueIdentifier>{DE248E0B-1A51-351E-A15C-AD2EE157DE63}</UniqueIdentifier>

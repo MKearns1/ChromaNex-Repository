@@ -16,6 +16,7 @@ void EmptyLinkFunctionForGeneratedCodeDoorTriggerZoneC() {}
 	ENGINE_API UClass* Z_Construct_UClass_AActor_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UBoxComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UPrimitiveComponent_NoRegister();
+	ENGINE_API UClass* Z_Construct_UClass_UStaticMeshComponent_NoRegister();
 	ENGINE_API UScriptStruct* Z_Construct_UScriptStruct_FHitResult();
 	UPackage* Z_Construct_UPackage__Script_ChromaNex();
 // End Cross Module References
@@ -111,7 +112,7 @@ void EmptyLinkFunctionForGeneratedCodeDoorTriggerZoneC() {}
 		{ "ModuleRelativePath", "DoorTriggerZoneC.h" },
 	};
 #endif
-	const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_ADoorTriggerZoneC_OnBoxBeginOverlap_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ADoorTriggerZoneC, nullptr, "OnBoxBeginOverlap", nullptr, nullptr, Z_Construct_UFunction_ADoorTriggerZoneC_OnBoxBeginOverlap_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_ADoorTriggerZoneC_OnBoxBeginOverlap_Statics::PropPointers), sizeof(Z_Construct_UFunction_ADoorTriggerZoneC_OnBoxBeginOverlap_Statics::DoorTriggerZoneC_eventOnBoxBeginOverlap_Parms), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00420401, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_ADoorTriggerZoneC_OnBoxBeginOverlap_Statics::Function_MetaDataParams), Z_Construct_UFunction_ADoorTriggerZoneC_OnBoxBeginOverlap_Statics::Function_MetaDataParams) };
+	const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_ADoorTriggerZoneC_OnBoxBeginOverlap_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ADoorTriggerZoneC, nullptr, "OnBoxBeginOverlap", nullptr, nullptr, Z_Construct_UFunction_ADoorTriggerZoneC_OnBoxBeginOverlap_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_ADoorTriggerZoneC_OnBoxBeginOverlap_Statics::PropPointers), sizeof(Z_Construct_UFunction_ADoorTriggerZoneC_OnBoxBeginOverlap_Statics::DoorTriggerZoneC_eventOnBoxBeginOverlap_Parms), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00440401, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_ADoorTriggerZoneC_OnBoxBeginOverlap_Statics::Function_MetaDataParams), Z_Construct_UFunction_ADoorTriggerZoneC_OnBoxBeginOverlap_Statics::Function_MetaDataParams) };
 	static_assert(UE_ARRAY_COUNT(Z_Construct_UFunction_ADoorTriggerZoneC_OnBoxBeginOverlap_Statics::PropPointers) < 2048);
 	static_assert(sizeof(Z_Construct_UFunction_ADoorTriggerZoneC_OnBoxBeginOverlap_Statics::DoorTriggerZoneC_eventOnBoxBeginOverlap_Parms) < MAX_uint16);
 	UFunction* Z_Construct_UFunction_ADoorTriggerZoneC_OnBoxBeginOverlap()
@@ -139,6 +140,14 @@ void EmptyLinkFunctionForGeneratedCodeDoorTriggerZoneC() {}
 		static const UECodeGen_Private::FMetaDataPairParam NewProp_Box_MetaData[];
 #endif
 		static const UECodeGen_Private::FObjectPropertyParams NewProp_Box;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_BoxComp_MetaData[];
+#endif
+		static const UECodeGen_Private::FObjectPropertyParams NewProp_BoxComp;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_BaseMesh_MetaData[];
+#endif
+		static const UECodeGen_Private::FObjectPropertyParams NewProp_BaseMesh;
 		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UECodeGen_Private::FClassParams ClassParams;
@@ -149,7 +158,7 @@ void EmptyLinkFunctionForGeneratedCodeDoorTriggerZoneC() {}
 	};
 	static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_ADoorTriggerZoneC_Statics::DependentSingletons) < 16);
 	const FClassFunctionLinkInfo Z_Construct_UClass_ADoorTriggerZoneC_Statics::FuncInfo[] = {
-		{ &Z_Construct_UFunction_ADoorTriggerZoneC_OnBoxBeginOverlap, "OnBoxBeginOverlap" }, // 1683716966
+		{ &Z_Construct_UFunction_ADoorTriggerZoneC_OnBoxBeginOverlap, "OnBoxBeginOverlap" }, // 2682676328
 	};
 	static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_ADoorTriggerZoneC_Statics::FuncInfo) < 2048);
 #if WITH_METADATA
@@ -172,8 +181,26 @@ void EmptyLinkFunctionForGeneratedCodeDoorTriggerZoneC() {}
 	};
 #endif
 	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ADoorTriggerZoneC_Statics::NewProp_Box = { "Box", nullptr, (EPropertyFlags)0x00100000000a001d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ADoorTriggerZoneC, Box), Z_Construct_UClass_UBoxComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_ADoorTriggerZoneC_Statics::NewProp_Box_MetaData), Z_Construct_UClass_ADoorTriggerZoneC_Statics::NewProp_Box_MetaData) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ADoorTriggerZoneC_Statics::NewProp_BoxComp_MetaData[] = {
+		{ "Category", "Components" },
+		{ "EditInline", "true" },
+		{ "ModuleRelativePath", "DoorTriggerZoneC.h" },
+	};
+#endif
+	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ADoorTriggerZoneC_Statics::NewProp_BoxComp = { "BoxComp", nullptr, (EPropertyFlags)0x0040000000090009, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ADoorTriggerZoneC, BoxComp), Z_Construct_UClass_UBoxComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_ADoorTriggerZoneC_Statics::NewProp_BoxComp_MetaData), Z_Construct_UClass_ADoorTriggerZoneC_Statics::NewProp_BoxComp_MetaData) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ADoorTriggerZoneC_Statics::NewProp_BaseMesh_MetaData[] = {
+		{ "Category", "Components" },
+		{ "EditInline", "true" },
+		{ "ModuleRelativePath", "DoorTriggerZoneC.h" },
+	};
+#endif
+	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ADoorTriggerZoneC_Statics::NewProp_BaseMesh = { "BaseMesh", nullptr, (EPropertyFlags)0x0040000000090009, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ADoorTriggerZoneC, BaseMesh), Z_Construct_UClass_UStaticMeshComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_ADoorTriggerZoneC_Statics::NewProp_BaseMesh_MetaData), Z_Construct_UClass_ADoorTriggerZoneC_Statics::NewProp_BaseMesh_MetaData) };
 	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ADoorTriggerZoneC_Statics::PropPointers[] = {
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ADoorTriggerZoneC_Statics::NewProp_Box,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ADoorTriggerZoneC_Statics::NewProp_BoxComp,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ADoorTriggerZoneC_Statics::NewProp_BaseMesh,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_ADoorTriggerZoneC_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<ADoorTriggerZoneC>::IsAbstract,
@@ -208,15 +235,15 @@ void EmptyLinkFunctionForGeneratedCodeDoorTriggerZoneC() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(ADoorTriggerZoneC);
 	ADoorTriggerZoneC::~ADoorTriggerZoneC() {}
-	struct Z_CompiledInDeferFile_FID_Users_W1972476_Documents_GitHub_ChromaNex_Repository_ChromaNex_Source_ChromaNex_DoorTriggerZoneC_h_Statics
+	struct Z_CompiledInDeferFile_FID_Users_milor_Documents_GitHub_ChromaNex_Repository_ChromaNex_Source_ChromaNex_DoorTriggerZoneC_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_W1972476_Documents_GitHub_ChromaNex_Repository_ChromaNex_Source_ChromaNex_DoorTriggerZoneC_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_ADoorTriggerZoneC, ADoorTriggerZoneC::StaticClass, TEXT("ADoorTriggerZoneC"), &Z_Registration_Info_UClass_ADoorTriggerZoneC, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ADoorTriggerZoneC), 2983301487U) },
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_milor_Documents_GitHub_ChromaNex_Repository_ChromaNex_Source_ChromaNex_DoorTriggerZoneC_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_ADoorTriggerZoneC, ADoorTriggerZoneC::StaticClass, TEXT("ADoorTriggerZoneC"), &Z_Registration_Info_UClass_ADoorTriggerZoneC, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ADoorTriggerZoneC), 3987390820U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_W1972476_Documents_GitHub_ChromaNex_Repository_ChromaNex_Source_ChromaNex_DoorTriggerZoneC_h_2578054560(TEXT("/Script/ChromaNex"),
-		Z_CompiledInDeferFile_FID_Users_W1972476_Documents_GitHub_ChromaNex_Repository_ChromaNex_Source_ChromaNex_DoorTriggerZoneC_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_W1972476_Documents_GitHub_ChromaNex_Repository_ChromaNex_Source_ChromaNex_DoorTriggerZoneC_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_milor_Documents_GitHub_ChromaNex_Repository_ChromaNex_Source_ChromaNex_DoorTriggerZoneC_h_1933702777(TEXT("/Script/ChromaNex"),
+		Z_CompiledInDeferFile_FID_Users_milor_Documents_GitHub_ChromaNex_Repository_ChromaNex_Source_ChromaNex_DoorTriggerZoneC_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_milor_Documents_GitHub_ChromaNex_Repository_ChromaNex_Source_ChromaNex_DoorTriggerZoneC_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

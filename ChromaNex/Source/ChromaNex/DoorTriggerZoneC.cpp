@@ -28,19 +28,38 @@ ADoorTriggerZoneC::ADoorTriggerZoneC()
 void ADoorTriggerZoneC::BeginPlay()
 {
 	Super::BeginPlay();
+
+	BoxComp->OnComponentBeginOverlap.AddDynamic(this, &ADoorTriggerZoneC::OnBoxBeginOverlap);
 }
 
 void ADoorTriggerZoneC::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+
+	if (GEngine)
+	{
+		GEngine->AddOnScreenDebugMessage(
+			-1,                 // Key: -1 means add a new message, other numbers will overwrite existing ones
+			5.0f,               // Duration in seconds
+			FColor::Green,      // Text color
+			TEXT("This is a debug message!")  // Your message
+		);
+	}
 }
+
 
 void ADoorTriggerZoneC::OnBoxBeginOverlap(UPrimitiveComponent* OverlappedComp, AActor* OtherActor,
 	UPrimitiveComponent* OtherComp, int32 OtherBodyIndex,
 	bool bFromSweep, const FHitResult& SweepResult)
 {
+
 	if (OtherActor && OtherActor != this)
 	{
+		if (GEngine)
+		{
+			GEngine->AddOnScreenDebugMessage(-1, 2.f, FColor::Yellow, TEXT("This shows on the screen!"));
+		}
+
 		UE_LOG(LogTemp, Warning, TEXT("Trigger Entered by: %s"), *OtherActor->GetName());
 	}
 }

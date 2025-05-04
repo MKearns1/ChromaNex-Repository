@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChromaNexModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f9d73c08c77dfa50dc6b346d5ec51a6f9bfd8f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9613a9f1a1c65307180ffb410d5669f06fbaf0bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChromaNexModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChromaNexModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
