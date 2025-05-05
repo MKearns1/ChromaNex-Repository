@@ -65236,3 +65236,21 @@ Script call stack:
 [2025.05.05-21.51.57:687][463]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
 [2025.05.05-21.51.57:687][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.05.05-21.51.57:955][464]LogAutomationController: Ignoring very large delta of 3.62 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.05-21.54.00:990][173]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Oculus Virtual Audio Device), InstanceID=1
+[2025.05.05-21.54.01:213][173]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3796
+[2025.05.05-21.54.02:215][176]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{eaba1726-05f4-4aca-9077-19cdb8724623}, Name=Headphones (Oculus Virtual Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=837.89
+[2025.05.05-21.54.02:215][176]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.05-21.54.02:216][176]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.05-21.55.03:220][360]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15829.484375
+[2025.05.05-21.55.04:220][363]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.05-21.55.04:220][363]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15830.150391, Update Interval: 344.935455
+[2025.05.05-21.56.32:291][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.05.05-21.56.32:323][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.05-21.56.32:367][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Tutorial" FILE="../../../../../ChromaNex-Repository/ChromaNex/Content/Levels/Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.05.05-21.56.32:431][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.05.05-21.56.32:648][770]LogSavePackage: Moving output files for package: /Game/Levels/Tutorial
+[2025.05.05-21.56.32:648][770]LogSavePackage: Moving '../../../../../ChromaNex-Repository/ChromaNex/Saved/Tutorial8E8807904121F0D40C630C8449B58209.tmp' to '../../../../../ChromaNex-Repository/ChromaNex/Content/Levels/Tutorial.umap'
+[2025.05.05-21.56.32:660][770]LogFileHelpers: Saving map 'Tutorial' took 0.294
+[2025.05.05-21.56.32:671][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 347 ms (total: 24.3 sec)
+[2025.05.05-21.56.32:679][770]AssetCheck: New page: Asset Save: Tutorial
+[2025.05.05-21.56.32:679][770]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Tutorial.Tutorial
