@@ -17,13 +17,13 @@ void EmptyLinkFunctionForGeneratedCodeChromaNex_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x1D90EDEF,
-				0xA9D7A1A5,
+				0xCCC3DECE,
+				0x950C0144,
 				METADATA_PARAMS(0, nullptr)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_ChromaNex.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_ChromaNex.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_ChromaNex(Z_Construct_UPackage__Script_ChromaNex, TEXT("/Script/ChromaNex"), Z_Registration_Info_UPackage__Script_ChromaNex, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x1D90EDEF, 0xA9D7A1A5));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_ChromaNex(Z_Construct_UPackage__Script_ChromaNex, TEXT("/Script/ChromaNex"), Z_Registration_Info_UPackage__Script_ChromaNex, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xCCC3DECE, 0x950C0144));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -42,10 +42,22 @@
     <ClInclude Include="..\..\Source\ChromaNex\ChromaNex.h">
       <Filter>Source\ChromaNex</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\ChromaNex\DoorTriggerBox_usingC.cpp">
+      <Filter>Source\ChromaNex</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ChromaNex\DoorTriggerBox_usingC.h">
+      <Filter>Source\ChromaNex</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\ChromaNex\DoorTriggerZoneC.cpp">
       <Filter>Source\ChromaNex</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\ChromaNex\DoorTriggerZoneC.h">
+      <Filter>Source\ChromaNex</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ChromaNex\MyTriggerBox.cpp">
+      <Filter>Source\ChromaNex</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ChromaNex\MyTriggerBox.h">
       <Filter>Source\ChromaNex</Filter>
     </ClInclude>
   </ItemGroup>
