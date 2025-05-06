@@ -5,6 +5,7 @@
 #include "CoreMinimal.h"
 #include "Engine/TriggerBox.h"
 #include "DoorTriggerBox_usingC.generated.h"
+//#include "ElectronicInterface.h"
 
 /**
  * 
@@ -18,6 +19,8 @@ protected:
 
 public:
 	ADoorTriggerBox_usingC();
+
+	UPROPERTY(EditInstanceOnly, Category = "Trigger") AActor* TargetActor;
 
 	UFUNCTION()
 	void OnOverlapBegin(class AActor* OverlappedActor, class AActor* OtherActor);

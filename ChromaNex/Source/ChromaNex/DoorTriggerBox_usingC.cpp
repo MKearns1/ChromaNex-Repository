@@ -25,6 +25,7 @@ void ADoorTriggerBox_usingC::OnOverlapBegin(class AActor* OverlappedActor, class
 	if (OtherActor && (OtherActor != this))
 	{
 		print("Overlap begin");
+		print(TargetActor->GetName());
 
 	}
 }
