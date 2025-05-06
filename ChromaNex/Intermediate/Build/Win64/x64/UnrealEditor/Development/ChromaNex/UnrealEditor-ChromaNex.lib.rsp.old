@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ChromaNex.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Intermediate\Build\Win64\x64\ChromaNexEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChromaNex\ChromaNex.init.gen.cpp.obj"
+"C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChromaNex\DoorTriggerZoneC.gen.cpp.obj"
+"C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChromaNex\MyTriggerBox.gen.cpp.obj"
+"C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChromaNex\ChromaNex.cpp.obj"
+"C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChromaNex\DoorTriggerZoneC.cpp.obj"
+"C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChromaNex\MyTriggerBox.cpp.obj"
+"C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChromaNex\Default.rc2.res"
+/OUT:"C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChromaNex\UnrealEditor-ChromaNex.lib"

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ChromaNex",
+			"Path": "..\\Source\\ChromaNex.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ChromaNexEditor",
+			"Path": "..\\Source\\ChromaNexEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

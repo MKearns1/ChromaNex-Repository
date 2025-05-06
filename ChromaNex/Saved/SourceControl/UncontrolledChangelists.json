@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/ChromaNex-Repository/ChromaNex/Content/TutorialAssets/W_TutorialControls.uasset",
 				"D:/ChromaNex-Repository/ChromaNex/Content/Levels/Tutorial.umap",
 				"D:/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
@@ -51,19 +52,18 @@
 				"D:/ChromaNex-Repository/ChromaNex/Content/Videos/M_Video.uasset",
 				"D:/ChromaNex-Repository/ChromaNex/Content/Videos/MP_CubeInstructionVid_Video_Mat.uasset",
 				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/UI/Crosshair.uasset",
+=======
+>>>>>>> main
 				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
-				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
-				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
-				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Models/Box/BP_WeaponBox.uasset",
-				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/Tutorial.umap",
-				"C:/Users/w1993975/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/Tutorial.umap",
-				"C:/Users/w1993975/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/DoorSystem/DoorTrigger.uasset",
-				"C:/Users/w1993975/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/w1993975/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/TutorialAssets/BP_Marker.uasset",
-				"C:/Users/w1993975/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/TutorialAssets/MarkerTest.uasset",
-				"C:/Users/w1993975/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Blueprints/BP_ObjectiveManager.uasset",
-				"C:/Users/w1993975/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset"
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Levels/Level2/3/OR/POPLSGEC6YMQS7A6HTGQQH.uasset",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/Level3.umap",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/level4.umap",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Levels/Level1/7/WP/5U2NXXYB8CPRJADETIOV9B.uasset",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Levels/Level1/D/XN/DM200D3IQ3YVNYELX7N86K.uasset",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Levels/Level1/2/V1/469VYT3UKIVO5WDGMGFGAD.uasset",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/__ExternalActors__/Levels/Level1/4/WS/MIPPJ7Q6YYNC6GSASDELYK.uasset",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Cube/BP_Cube.uasset",
+				"C:/Users/milor/Documents/GitHub/ChromaNex-Repository/ChromaNex/Content/Levels/Tutorial.umap"
 			]
 		}
 	]
