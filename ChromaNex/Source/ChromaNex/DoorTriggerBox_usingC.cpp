@@ -17,7 +17,7 @@ void ADoorTriggerBox_usingC::BeginPlay()
 {
 	Super::BeginPlay();
 
-	DrawDebugBox(GetWorld(), GetActorLocation(), GetComponentsBoundingBox().GetExtent(), FColor::Purple, true, -1, 0, 5);
+	//DrawDebugBox(GetWorld(), GetActorLocation(), GetComponentsBoundingBox().GetExtent(), FColor::Purple, true, -1, 0, 5);
 }
 
 void ADoorTriggerBox_usingC::OnOverlapBegin(class AActor* OverlappedActor, class AActor* OtherActor)
@@ -25,7 +25,7 @@ void ADoorTriggerBox_usingC::OnOverlapBegin(class AActor* OverlappedActor, class
 	if (OtherActor && (OtherActor != this))
 	{
 		//print("Overlap begin");
-		print(TargetActor->GetName());
+		//print(TargetActor->GetName());
 
 		if (TargetActor->GetClass()->ImplementsInterface(UElectronicInterface_UsingC::StaticClass()))
 		{
