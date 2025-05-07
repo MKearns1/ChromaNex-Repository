@@ -11,6 +11,7 @@ void EmptyLinkFunctionForGeneratedCodeDoorTriggerBox_usingC() {}
 // Cross Module References
 	CHROMANEX_API UClass* Z_Construct_UClass_ADoorTriggerBox_usingC();
 	CHROMANEX_API UClass* Z_Construct_UClass_ADoorTriggerBox_usingC_NoRegister();
+	CHROMANEX_API UClass* Z_Construct_UClass_UElectronicInterface_UsingC_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_AActor_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_ATriggerBox();
 	UPackage* Z_Construct_UPackage__Script_ChromaNex();
@@ -135,6 +136,7 @@ void EmptyLinkFunctionForGeneratedCodeDoorTriggerBox_usingC() {}
 #endif
 		static const UECodeGen_Private::FObjectPropertyParams NewProp_TargetActor;
 		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
+		static const UECodeGen_Private::FImplementedInterfaceParams InterfaceParams[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UECodeGen_Private::FClassParams ClassParams;
 	};
@@ -167,6 +169,10 @@ void EmptyLinkFunctionForGeneratedCodeDoorTriggerBox_usingC() {}
 	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ADoorTriggerBox_usingC_Statics::PropPointers[] = {
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ADoorTriggerBox_usingC_Statics::NewProp_TargetActor,
 	};
+		const UECodeGen_Private::FImplementedInterfaceParams Z_Construct_UClass_ADoorTriggerBox_usingC_Statics::InterfaceParams[] = {
+			{ Z_Construct_UClass_UElectronicInterface_UsingC_NoRegister, (int32)VTABLE_OFFSET(ADoorTriggerBox_usingC, IElectronicInterface_UsingC), false },  // 2012103294
+		};
+	static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_ADoorTriggerBox_usingC_Statics::InterfaceParams) < 64);
 	const FCppClassTypeInfoStatic Z_Construct_UClass_ADoorTriggerBox_usingC_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<ADoorTriggerBox_usingC>::IsAbstract,
 	};
@@ -177,11 +183,11 @@ void EmptyLinkFunctionForGeneratedCodeDoorTriggerBox_usingC() {}
 		DependentSingletons,
 		FuncInfo,
 		Z_Construct_UClass_ADoorTriggerBox_usingC_Statics::PropPointers,
-		nullptr,
+		InterfaceParams,
 		UE_ARRAY_COUNT(DependentSingletons),
 		UE_ARRAY_COUNT(FuncInfo),
 		UE_ARRAY_COUNT(Z_Construct_UClass_ADoorTriggerBox_usingC_Statics::PropPointers),
-		0,
+		UE_ARRAY_COUNT(InterfaceParams),
 		0x009000A4u,
 		METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_ADoorTriggerBox_usingC_Statics::Class_MetaDataParams), Z_Construct_UClass_ADoorTriggerBox_usingC_Statics::Class_MetaDataParams)
 	};
@@ -205,9 +211,9 @@ void EmptyLinkFunctionForGeneratedCodeDoorTriggerBox_usingC() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_milor_Documents_GitHub_ChromaNex_Repository_ChromaNex_Source_ChromaNex_DoorTriggerBox_usingC_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_ADoorTriggerBox_usingC, ADoorTriggerBox_usingC::StaticClass, TEXT("ADoorTriggerBox_usingC"), &Z_Registration_Info_UClass_ADoorTriggerBox_usingC, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ADoorTriggerBox_usingC), 2104428272U) },
+		{ Z_Construct_UClass_ADoorTriggerBox_usingC, ADoorTriggerBox_usingC::StaticClass, TEXT("ADoorTriggerBox_usingC"), &Z_Registration_Info_UClass_ADoorTriggerBox_usingC, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ADoorTriggerBox_usingC), 3980154483U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_milor_Documents_GitHub_ChromaNex_Repository_ChromaNex_Source_ChromaNex_DoorTriggerBox_usingC_h_652542068(TEXT("/Script/ChromaNex"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_milor_Documents_GitHub_ChromaNex_Repository_ChromaNex_Source_ChromaNex_DoorTriggerBox_usingC_h_2100633358(TEXT("/Script/ChromaNex"),
 		Z_CompiledInDeferFile_FID_Users_milor_Documents_GitHub_ChromaNex_Repository_ChromaNex_Source_ChromaNex_DoorTriggerBox_usingC_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_milor_Documents_GitHub_ChromaNex_Repository_ChromaNex_Source_ChromaNex_DoorTriggerBox_usingC_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);

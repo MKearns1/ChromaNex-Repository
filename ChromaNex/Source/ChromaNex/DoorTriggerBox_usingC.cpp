@@ -24,8 +24,13 @@ void ADoorTriggerBox_usingC::OnOverlapBegin(class AActor* OverlappedActor, class
 {
 	if (OtherActor && (OtherActor != this))
 	{
-		print("Overlap begin");
+		//print("Overlap begin");
 		print(TargetActor->GetName());
+
+		if (TargetActor->GetClass()->ImplementsInterface(UElectronicInterface_UsingC::StaticClass()))
+		{
+			IElectronicInterface_UsingC::Execute_InteractC(TargetActor);
+		}
 
 	}
 }
@@ -33,7 +38,10 @@ void ADoorTriggerBox_usingC::OnOverlapEnd(class AActor* OverlappedActor, class A
 {
 	if (OtherActor && (OtherActor != this))
 	{
-		print("Overlap end");
-
+		//print("Overlap end");
+		if (TargetActor->GetClass()->ImplementsInterface(UElectronicInterface_UsingC::StaticClass()))
+		{
+			IElectronicInterface_UsingC::Execute_OffC(TargetActor);
+		}
 	}
 }

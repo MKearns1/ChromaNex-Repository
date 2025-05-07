@@ -4,14 +4,16 @@
 
 #include "CoreMinimal.h"
 #include "Engine/TriggerBox.h"
+#include "ElectronicInterface_UsingC.h"
 #include "DoorTriggerBox_usingC.generated.h"
+
 //#include "ElectronicInterface.h"
 
 /**
  * 
  */
 UCLASS()
-class CHROMANEX_API ADoorTriggerBox_usingC : public ATriggerBox
+class CHROMANEX_API ADoorTriggerBox_usingC : public ATriggerBox, public IElectronicInterface_UsingC
 {
 	GENERATED_BODY()
 protected:

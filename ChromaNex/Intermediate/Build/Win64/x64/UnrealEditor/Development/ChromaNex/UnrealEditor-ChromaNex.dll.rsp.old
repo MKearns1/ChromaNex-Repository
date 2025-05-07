@@ -36,10 +36,13 @@
 /FUNCTIONPADMIN:6
 "C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Intermediate\Build\Win64\x64\ChromaNexEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
 "C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChromaNex\ChromaNex.init.gen.cpp.obj"
+"C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChromaNex\DoorTriggerBox_usingC.gen.cpp.obj"
 "C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChromaNex\DoorTriggerZoneC.gen.cpp.obj"
 "C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChromaNex\MyTriggerBox.gen.cpp.obj"
 "C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChromaNex\ChromaNex.cpp.obj"
+"C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChromaNex\DoorTriggerBox_usingC.cpp.obj"
 "C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChromaNex\DoorTriggerZoneC.cpp.obj"
+"C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChromaNex\ElectronicInterface_UsingC.cpp.obj"
 "C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChromaNex\MyTriggerBox.cpp.obj"
 "C:\Users\milor\Documents\GitHub\ChromaNex-Repository\ChromaNex\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChromaNex\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"

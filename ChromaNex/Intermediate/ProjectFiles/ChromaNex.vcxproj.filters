@@ -54,6 +54,12 @@
     <ClInclude Include="..\..\Source\ChromaNex\DoorTriggerZoneC.h">
       <Filter>Source\ChromaNex</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\ChromaNex\ElectronicInterface_UsingC.cpp">
+      <Filter>Source\ChromaNex</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ChromaNex\ElectronicInterface_UsingC.h">
+      <Filter>Source\ChromaNex</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\ChromaNex\MyTriggerBox.cpp">
       <Filter>Source\ChromaNex</Filter>
     </ClCompile>
